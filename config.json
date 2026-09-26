@@ -1,0 +1,23 @@
+{
+  "source": "https://koltozzbe.hu",
+  "price_min": 50,
+  "price_max": 130,
+  "request_delay_seconds": [3, 6],
+  "max_pages_per_area": 40,
+  "new_days": 3,
+  "areas": [
+    {"name": "Göd",          "slug": "god",                  "transit": "vonat → Nyugati",            "bkv": [55, 70], "car": [30, 35]},
+    {"name": "Veresegyház",  "slug": "veresegyhaz",          "transit": "vonat → Nyugati / Örs busz", "bkv": [70, 85], "car": [25, 30]},
+    {"name": "Pomáz",        "slug": "pomaz",                "transit": "H5 HÉV → Batthyány tér",     "bkv": [45, 60], "car": [45, 55]},
+    {"name": "Szentendre",   "slug": "szentendre",           "transit": "H5 HÉV → Batthyány tér",     "bkv": [50, 65], "car": [45, 55]},
+    {"name": "Fót",          "slug": "fot",                  "transit": "vonat → Nyugati",            "bkv": [60, 75], "car": [20, 25]},
+    {"name": "Csömör",       "slug": "csomor",               "transit": "busz → Örs (M2)",            "bkv": [55, 65], "car": [5, 15]},
+    {"name": "XIV. kerület", "slug": "budapest-xiv-kerulet", "transit": "villamos/busz → M2",         "bkv": [25, 35], "car": [15, 20]},
+    {"name": "XV. kerület",  "slug": "budapest-xv-kerulet",  "transit": "busz → M3 / vonat",          "bkv": [40, 55], "car": [15, 20]},
+    {"name": "XVI. kerület", "slug": "budapest-xvi-kerulet", "transit": "H8 HÉV / busz → Örs (M2)",   "bkv": [40, 55], "car": [5, 15]},
+    {"name": "II. kerület",  "slug": "budapest-ii-kerulet",  "transit": "busz / villamos",            "bkv": [20, 40], "car": [35, 50]},
+    {"name": "XII. kerület", "slug": "budapest-xii-kerulet", "transit": "villamos / busz",            "bkv": [15, 30], "car": [40, 50]},
+    {"name": "III. kerület", "slug": "budapest-iii-kerulet", "transit": "H5 HÉV / busz",              "bkv": [25, 40], "car": [35, 45]}
+  ],
+  "szentendre_bkv_overrides": {"near_hev": [40, 50], "hills": [60, 75]}
+}
