@@ -150,7 +150,7 @@ footer{color:var(--muted);font-size:12px;max-width:90ch}
     <div><span class="tag t-info">régi építés</span> 1980 előtti, ezért számolj felújítási kerettel</div>
   </div>
 
-  <footer>A ★ jelöléssel kedvencnek jelölhetsz egy házat, a ✕ jelöléssel kizárhatod. Ezt csak a te böngésződ jegyzi meg. Az adatok a hirdetések listaoldalairól származnak, az árak és állapotok gyorsan változnak, ezért a döntés előtt mindig nyisd meg a hirdetést, és kérj alaprajzot és helyrajzi számot. A „Ft/m²” oszlop a hirdetett alapterülettel számol. Az utazási idők csúcsidős, háztól-házig becslések településenként, mert a hirdetések többsége nem ad pontos címet. A tömegközlekedés célja a Csalogány utca (Batthyány tér környéke), az autóé a Hyginett Kft. (Csömör, Határ út 3.). A budapesti kerületeknél a kerület átlagos elhelyezkedésével számoltam (a II. kerületben Pesthidegkút a sáv felső vége). Szentendrén a HÉV-közeli házaknál rövidebb, a Pismány, Boldogtanya, Tyúkosdűlő és Petyina környéki házaknál hosszabb időt számoltam a HÉV-ig tartó ráhordás miatt. Konkrét címnél nézd meg a BKK FUTÁR-ban vagy a Google Térképen.</footer>
+  <footer>A ★ jelöléssel kedvencnek jelölhetsz egy házat, a ✕ jelöléssel kizárhatod. Ezt csak a te böngésződ jegyzi meg. Az adatok a hirdetések listaoldalairól származnak, az árak és állapotok gyorsan változnak, ezért a döntés előtt mindig nyisd meg a hirdetést, és kérj alaprajzot és helyrajzi számot. A „Ft/m²” oszlop a hirdetett alapterülettel számol. Az utazási idők csúcsidős, háztól-házig becslések településenként, mert a hirdetések többsége nem ad pontos címet. A tömegközlekedés célja a budai belváros, az autóé a munkahely. A budapesti kerületeknél a kerület átlagos elhelyezkedésével számoltam (a II. kerületben Pesthidegkút a sáv felső vége). Szentendrén a HÉV-közeli házaknál rövidebb, a Pismány, Boldogtanya, Tyúkosdűlő és Petyina környéki házaknál hosszabb időt számoltam a HÉV-ig tartó ráhordás miatt. Konkrét címnél nézd meg a BKK FUTÁR-ban vagy a Google Térképen.</footer>
 </div>
 <div class="toast" id="toast" hidden></div>
 
@@ -199,7 +199,7 @@ FLAGS.forEach(([f])=>{
 
 const COLS = [
   ["town","Település",""],["price","Ár (M Ft)","num"],["rsum","Szoba","num"],["m2","Alapter. m²","num"],
-  ["telek","Telek m²","num"],["year","Épült","num"],["ppm","Ft/m²","num"],["bkv","Tömegk. → Csalogány u.","num"],["car","Autó → Hyginett","num"],["note","Megjegyzés",""],
+  ["telek","Telek m²","num"],["year","Épült","num"],["ppm","Ft/m²","num"],["bkv","Tömegk. → Belváros","num"],["car","Autó → Munkahely","num"],["note","Megjegyzés",""],
   ["flags","Jelzések",""],["url","Hirdetés",""],["acts","",""]
 ];
 function head(){
@@ -294,7 +294,7 @@ $("tbody").addEventListener("click",e=>{
 
 function toast(msg){ const t=$("toast"); t.textContent=msg; t.hidden=false; clearTimeout(toast._t); toast._t=setTimeout(()=>t.hidden=true,2200); }
 $("copy").onclick=()=>{
-  const hdr=["Település","Ár (M Ft)","Szoba","Alapterület m²","Telek m²","Épült","Ft/m²","Tömegk. Csalogány u. (perc)","Autó Hyginett (perc)","Megjegyzés","Jelzések","Hirdetések száma","Link","Kedvenc"];
+  const hdr=["Település","Ár (M Ft)","Szoba","Alapterület m²","Telek m²","Épült","Ft/m²","Tömegk. belváros (perc)","Autó munkahely (perc)","Megjegyzés","Jelzések","Hirdetések száma","Link","Kedvenc"];
   const lines=[hdr.join("\t")].concat(current.map(d=>[d.town,String(d.price).replace(".",","),d.rooms??"",d.m2??"",d.telek??"",d.year??"",d.ppm??"",d.bkv.join("–"),d.car.join("–"),d.note,d.flags.join(", "),d.n,d.url,stars.has(d.id)?"★":""].join("\t")));
   const txt=lines.join("\n");
   const fallback=()=>{ const ta=document.createElement("textarea"); ta.value=txt; ta.style.position="fixed"; ta.style.opacity="0"; document.body.appendChild(ta); ta.select(); try{document.execCommand("copy"); toast(`${current.length} sor a vágólapon`);}catch(e){toast("A másolás nem sikerült");} ta.remove(); };
