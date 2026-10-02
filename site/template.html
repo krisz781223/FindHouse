@@ -159,10 +159,12 @@ const DATA = __DATA__;
 const TOWNS = __TOWNS__;
 const FLAGS = [
   ["új hirdetés","t-good"],["árcsökkenés","t-good"],
-  ["gyanús szobaszám","t-crit"],["új / épülő","t-warn"],["üdülőövezet","t-warn"],
+  ["telek < 300 m²","t-crit"],["házrész / megosztott","t-crit"],["nyaraló / üdülő","t-crit"],["haszonélvezet","t-crit"],["nem hitelezhető","t-crit"],
+  ["gyanús szobaszám","t-crit"],["új / épülő","t-warn"],
   ["felújítandó","t-warn"],["régi építés","t-info"],["kis telek","t-info"],
   ["hiányzó m²","t-info"],["nem tipikus családi ház","t-info"]
 ];
+const EXCLUDE = ["telek < 300 m²","házrész / megosztott","nyaraló / üdülő","haszonélvezet","nem hitelezhető"];
 const FLAGCLS = Object.fromEntries(FLAGS);
 DATA.forEach((d,i)=>{ d.id = d.url.split("/").pop(); });
 
@@ -172,8 +174,8 @@ const store = {
 };
 let stars = new Set(store.get("hl_stars", []));
 let hides = new Set(store.get("hl_hides", []));
-const defaults = {towns:[...TOWNS], pmin:"", pmax:"", rmin:"", m2min:"", tmin:"", ymin:"", bmax:"", cmax:"", q:"", hideFlags:[], onlyStar:false, showHidden:false, sort:"price", dir:1};
-let S = Object.assign({}, defaults, store.get("hl_state", {}));
+const defaults = {towns:[...TOWNS], pmin:"", pmax:"", rmin:"", m2min:"", tmin:"", ymin:"", bmax:"", cmax:"", q:"", hideFlags:[...EXCLUDE], onlyStar:false, showHidden:false, sort:"price", dir:1};
+let S = Object.assign({}, defaults, store.get("hl_state3", {}));
 
 const $ = id => document.getElementById(id);
 const fmt = (n,d=0) => n==null ? "—" : n.toLocaleString("hu-HU",{minimumFractionDigits:d,maximumFractionDigits:d});
@@ -279,13 +281,13 @@ function render(){
   $("empty").hidden = current.length>0;
   const ads = current.reduce((s,d)=>s+d.n,0);
   $("count").innerHTML = `${current.length} ház <small>/ ${DATA.length} · ${ads} hirdetés · ★ ${stars.size} · kizárva ${hides.size}</small>`;
-  store.set("hl_state", S);
+  store.set("hl_state3", S);
 }
 
 ["pmin","pmax","rmin","m2min","tmin","ymin","bmax","cmax","q"].forEach(k=>$(k).addEventListener("input",e=>{S[k]=e.target.value; render();}));
 $("onlystar").onclick=()=>{S.onlyStar=!S.onlyStar; render();};
 $("showhidden").onclick=()=>{S.showHidden=!S.showHidden; render();};
-$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[]}); render();};
+$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE]}); render();};
 $("tbody").addEventListener("click",e=>{
   const s=e.target.closest("[data-star]"), h=e.target.closest("[data-hide]");
   if(s){ const id=s.dataset.star; stars.has(id)?stars.delete(id):stars.add(id); store.set("hl_stars",[...stars]); render(); }

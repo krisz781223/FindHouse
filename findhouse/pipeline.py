@@ -55,14 +55,18 @@ def update_state(state: dict, rows: list[dict], report: dict, today: str) -> dic
 def _flags(rooms, m2, telek, year, note):
     rsum = sum(int(x) for x in re.findall(r"\d+", rooms)) if rooms else None
     f, n = [], (note or "").lower()
+    if telek is not None and telek < 300: f.append("telek < 300 m²")
+    if any(k in n for k in ("házrész", "lakrész", "használati megosztás", "osztatlan", "leválasztott", "lakásos")): f.append("házrész / megosztott")
+    if any(k in n for k in ("hétvégi", "üdülő", "nyaraló", "zártkert", "külterület", "vízparti telek", "dűlő")): f.append("nyaraló / üdülő")
+    if "haszonélvez" in n: f.append("haszonélvezet")
+    if any(k in n for k in ("csak készpénz", "kp-s", "kizárólag kp", "nem hitelezhető", "startra nem", "bontandó")): f.append("nem hitelezhető")
     if m2 and rsum and m2 / rsum < 22: f.append("gyanús szobaszám")
     if (year and year >= 2025) or any(k in n for k in ("építkeznél", "új építésű", "újépítésű")): f.append("új / épülő")
-    if any(k in n for k in ("hétvégi", "üdülő", "nyaraló", "zártkert")): f.append("üdülőövezet")
-    if year and year < 1980: f.append("régi építés")
     if "felújítandó" in n: f.append("felújítandó")
+    if year and year < 1980: f.append("régi építés")
     if m2 is None: f.append("hiányzó m²")
-    if telek is not None and telek < 400: f.append("kis telek")
-    if any(k in n for k in ("műhely", "üzlet", "befektet")): f.append("nem tipikus családi ház")
+    if telek is not None and 300 <= telek < 400: f.append("kis telek")
+    if any(k in n for k in ("műhely", "üzlet", "befektet", "többfunkciós")): f.append("nem tipikus családi ház")
     return rsum, f
 
 
