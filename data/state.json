@@ -209,7 +209,7 @@
    "note": "Göd egyik nyugodt, igényes környezetében – 100 m²-es, 3 szobás, felújított családi ház",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -230,7 +230,7 @@
    "note": "Göd egyik nyugodt, igényes környezetében – 100 m²-es, 3 szobás, felújított családi ház",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -293,7 +293,7 @@
    "note": "2015-BEN TELJESKÖRŰEN FELÚJÍTOTT CSALÁDI HÁZ ELADÓ ALSÓGÖD KEDVELT RÉSZÉN, MINDÖSSZE",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -364,7 +364,7 @@
    "note": "FELÚJÍTOTT ÖNÁLLÓ CSALÁDI HÁZ FELSŐGÖDÖN NYUGALOM, MINŐSÉG ÉS KIVÁLÓ ELHELYEZKEDÉS",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -377,7 +377,7 @@
    "id": "h10857920",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10857920",
    "area": "Göd",
-   "price": 99.9,
+   "price": 95.0,
    "rooms": "3",
    "m2": 85,
    "telek": 537,
@@ -390,6 +390,10 @@
     [
      "2026-09-26",
      99.9
+    ],
+    [
+     "2026-10-03",
+     95.0
     ]
    ],
    "seed": true
@@ -452,7 +456,7 @@
    "note": "Kivételes lehetőség: Autószerelő műhely, ház eladó! GÖD központi részén, Pesti úti",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -893,7 +897,7 @@
    "note": "PRÉMIUM ÚJ ÉPÍTÉSŰ, OKOSOTTHON CSALÁDI HÁZAK ELADÓK Göd CSENDES KERTVÁROSI RÉSZÉN! 750",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -1359,7 +1363,7 @@
    "note": "CasaNetWork Gödöllő Ingatlaniroda kínálatában eladó családi ház Veresegyház Revetek",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -1422,7 +1426,7 @@
    "note": "Eladó teljeskörűen felújított családi ház Veresegyházon! Veresegyház csendes, jól",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -1481,7 +1485,7 @@
    "id": "h10793302",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10793302",
    "area": "Veresegyház",
-   "price": 129.9,
+   "price": 128.9,
    "rooms": "3",
    "m2": 97,
    "telek": 903,
@@ -1498,6 +1502,10 @@
     [
      "2026-10-02",
      129.9
+    ],
+    [
+     "2026-10-03",
+     128.9
     ]
    ],
    "seed": true
@@ -1569,7 +1577,7 @@
    "id": "h10770774",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10770774",
    "area": "Veresegyház",
-   "price": 129.9,
+   "price": 128.9,
    "rooms": "3",
    "m2": 97,
    "telek": 903,
@@ -1586,6 +1594,10 @@
     [
      "2026-10-02",
      129.9
+    ],
+    [
+     "2026-10-03",
+     128.9
     ]
    ],
    "seed": true
@@ -1749,7 +1761,7 @@
    "id": "h10736680",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10736680",
    "area": "Veresegyház",
-   "price": 116.0,
+   "price": 109.0,
    "rooms": "3",
    "m2": 100,
    "telek": 1089,
@@ -1762,6 +1774,10 @@
     [
      "2026-09-26",
      116
+    ],
+    [
+     "2026-10-03",
+     109.0
     ]
    ],
    "seed": true
@@ -1904,7 +1920,7 @@
    "note": "Újépítésű, nappali + 3 szobás családi ház Veresegyház kedvelt részén! Veresegyház",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -2475,7 +2491,7 @@
    "note": "Tehermentes ingatlan!!!! Akinek ajánlom. Fiatal házasok. 1 gyerekes család, Idősebb",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -2685,7 +2701,7 @@
    "note": "Különleges, természetközeli és napfényes ingatlanra vágyik? Ha nem, akkor nézzen meg egy",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -2979,7 +2995,7 @@
    "note": "Pomáz településen, eladó egy tégla építésű, masszív alaprokra épült, 2 szintes családi",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -3000,7 +3016,7 @@
    "note": "Pomáz településen, eladó egy tégla építésű, masszív alaprokra épült, 2 szintes családi",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -3424,7 +3440,7 @@
    "note": "Szentendrén a Magas utca legtetején, eladó, egy elvehetetlen, csodálatos panorámával",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -3794,7 +3810,7 @@
    "id": "h10662575",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10662575",
    "area": "Szentendre",
-   "price": 93.3,
+   "price": 86.0,
    "rooms": "4",
    "m2": 100,
    "telek": 436,
@@ -3811,6 +3827,10 @@
     [
      "2026-10-02",
      93.3
+    ],
+    [
+     "2026-10-03",
+     86.0
     ]
    ],
    "seed": true
@@ -4129,7 +4149,7 @@
    "note": "Szentendrén, Pismányban PANORÁMÁS családi ház eladó a Cseresznyés út közepén! OTTHON",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -4255,7 +4275,7 @@
    "note": "Szentendrén panorámás családi ház eladó! Eladásra kínálok Szentendrén, Boldogtanyán az",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -4738,7 +4758,7 @@
    "id": "h10812186",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10812186",
    "area": "Fót",
-   "price": 135.0,
+   "price": 119.99,
    "rooms": "7",
    "m2": 200,
    "telek": 700,
@@ -4755,6 +4775,10 @@
     [
      "2026-10-02",
      135.0
+    ],
+    [
+     "2026-10-03",
+     119.99
     ]
    ],
    "seed": true
@@ -4784,15 +4808,15 @@
    "id": "h10859720",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10859720",
    "area": "Fót",
-   "price": 88,
+   "price": 88.0,
    "rooms": "5",
    "m2": 140,
    "telek": 1354,
    "year": 1987,
-   "note": "napelemes, Öreghegy, nagy telek",
+   "note": "Zöldövezeti nyugalom, napelemes, rezsimentes családi ház 1400 nm-es telekkel Fót Öreghegyen!",
    "first_seen": "2026-09-26",
-   "last_seen": "2026-09-26",
-   "active": false,
+   "last_seen": "2026-10-03",
+   "active": true,
    "price_history": [
     [
      "2026-09-26",
@@ -4805,7 +4829,7 @@
    "id": "h10838804",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10838804",
    "area": "Fót",
-   "price": 110.0,
+   "price": 88.0,
    "rooms": "5",
    "m2": 140,
    "telek": 1354,
@@ -4822,6 +4846,10 @@
     [
      "2026-10-02",
      110.0
+    ],
+    [
+     "2026-10-03",
+     88.0
     ]
    ],
    "seed": true
@@ -5048,7 +5076,7 @@
    "note": "Csendes, önálló családi ház Fótújfaluban garázzsal, fedett terasszal, külön bejáratú",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -5866,7 +5894,7 @@
    "note": "Felsőgödön, Nevelek részén, madárcsicsergős környezetben megvételre kínálunk 732 nm",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -6084,7 +6112,7 @@
    "note": "Befektetési lehetőség Veresegyház központjában 2 lakás + üzlethelyiség egy telken",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -6273,7 +6301,7 @@
    "note": "Eladó jó állapotú, felújított családi ház a XVI.-ben, csendes környéken, intim",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -6294,7 +6322,7 @@
    "note": "Eladó jó állapotú, felújított családi ház a XVI.-ben, csendes környéken, intim kerttel!",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -6357,7 +6385,7 @@
    "note": "Eladásra kínálok egy 113 m²-es, téglaépítésű családi házat, amely 815 m²-es",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -6378,7 +6406,7 @@
    "note": "Eladásra kínálok egy 113 m²-es, téglaépítésű családi házat, amely 815 m²-es",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -6764,7 +6792,7 @@
    "id": "h10879928",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10879928",
    "area": "XVI. kerület",
-   "price": 67.0,
+   "price": 66.95,
    "rooms": "3",
    "m2": 50,
    "telek": 170,
@@ -6777,6 +6805,10 @@
     [
      "2026-09-26",
      67.0
+    ],
+    [
+     "2026-10-03",
+     66.95
     ]
    ],
    "seed": true
@@ -7817,7 +7849,7 @@
    "note": "ELADÓ TELJESEN ÚJJÁ ÉPÍTETT, EGYEDI, KÉTSZINTES HÁZ SAROKTELKEN, RÁKOSPALOTA JÓ RÉSZÉN",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -8489,28 +8521,7 @@
    "id": "h10754302",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10754302",
    "area": "III. kerület",
-   "price": 58.0,
-   "rooms": "2",
-   "m2": 90,
-   "telek": 154,
-   "year": 1970,
-   "note": "Eladó felújítandó családi ház Békásmegyer",
-   "first_seen": "2026-09-26",
-   "last_seen": "2026-09-26",
-   "active": false,
-   "price_history": [
-    [
-     "2026-09-26",
-     58.0
-    ]
-   ],
-   "seed": true
-  },
-  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10767106": {
-   "id": "h10767106",
-   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10767106",
-   "area": "III. kerület",
-   "price": 58.0,
+   "price": 50.0,
    "rooms": "2",
    "m2": 90,
    "telek": 154,
@@ -8523,6 +8534,35 @@
     [
      "2026-09-26",
      58.0
+    ],
+    [
+     "2026-10-03",
+     50.0
+    ]
+   ],
+   "seed": true
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10767106": {
+   "id": "h10767106",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10767106",
+   "area": "III. kerület",
+   "price": 50.0,
+   "rooms": "2",
+   "m2": 90,
+   "telek": 154,
+   "year": 1970,
+   "note": "Eladó felújítandó családi ház Békásmegyer Ófaluban - kiváló lehetőség! Békásmegyer",
+   "first_seen": "2026-09-26",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-09-26",
+     58.0
+    ],
+    [
+     "2026-10-03",
+     50.0
     ]
    ],
    "seed": true
@@ -8649,10 +8689,10 @@
    "m2": 203,
    "telek": 995,
    "year": 1995,
-   "note": "Kétgenerációs családi ház Békásmegyer Ófaluban",
+   "note": "Kétgenerációs családi ház Békásmegyer Ófaluban, zöldövezetben, kiváló lokációval!",
    "first_seen": "2026-09-26",
-   "last_seen": "2026-09-26",
-   "active": false,
+   "last_seen": "2026-10-03",
+   "active": true,
    "price_history": [
     [
      "2026-09-26",
@@ -8707,7 +8747,7 @@
    "id": "h10797336",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10797336",
    "area": "III. kerület",
-   "price": 77.9,
+   "price": 74.9,
    "rooms": "3+1",
    "m2": 74,
    "telek": 220,
@@ -8720,6 +8760,10 @@
     [
      "2026-09-26",
      77.9
+    ],
+    [
+     "2026-10-03",
+     74.9
     ]
    ],
    "seed": true
@@ -8812,19 +8856,23 @@
    "id": "h10762213",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10762213",
    "area": "III. kerület",
-   "price": 65.0,
+   "price": 57.9,
    "rooms": "3",
    "m2": 51,
    "telek": 111,
    "year": 1979,
-   "note": "FIGYELEM! 1,5 millió/m2 alatt HÁZRÉSZ",
+   "note": "FIGYELEM! 1,5 millió/m2 alatt HÁZRÉSZ eladó 111 m2 saját használatú kerttel + tárolóval!",
    "first_seen": "2026-09-26",
-   "last_seen": "2026-09-26",
-   "active": false,
+   "last_seen": "2026-10-03",
+   "active": true,
    "price_history": [
     [
      "2026-09-26",
      65.0
+    ],
+    [
+     "2026-10-03",
+     57.9
     ]
    ],
    "seed": true
@@ -9777,7 +9825,7 @@
    "note": "PANORÁMÁS KILÁTÁS, KIVÉTELES LEHETŐSÉG POMÁZON! Akár kiadó is (350.000,-Ft/hó)",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -10046,12 +10094,12 @@
    "id": "h10770779",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10770779",
    "area": "Pomáz",
-   "price": 64.0,
+   "price": 62.0,
    "rooms": "3",
    "m2": 118,
    "telek": 800,
    "year": 1995,
-   "note": "ÁRCSÖKKENÉS! 66.000.000 Ft HELYETT MOST MÁR CSAK 64.000.000 Ft! ÖRÖKPANORÁMÁS OTTHON A",
+   "note": "ÁRCSÖKKENÉS! 66.000.000 Ft HELYETT MOST MÁR CSAK 62.000.000 Ft! ÖRÖKPANORÁMÁS OTTHON A",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
    "active": true,
@@ -10059,6 +10107,10 @@
     [
      "2026-09-26",
      64.0
+    ],
+    [
+     "2026-10-03",
+     62.0
     ]
    ],
    "seed": true
@@ -10096,7 +10148,7 @@
    "note": "Ha olyan helyet keres, ahol reggel madárcsicsergésre ébredhet, este pedig a teraszon élvezheti",
    "first_seen": "2026-09-26",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-09-26",
@@ -10214,7 +10266,7 @@
    "id": "h10925708",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10925708",
    "area": "Szentendre",
-   "price": 69.9,
+   "price": 64.9,
    "rooms": "2+2",
    "m2": 72,
    "telek": 877,
@@ -10227,6 +10279,10 @@
     [
      "2026-09-26",
      69.9
+    ],
+    [
+     "2026-10-03",
+     64.9
     ]
    ],
    "seed": true
@@ -10235,7 +10291,7 @@
    "id": "h10923459",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10923459",
    "area": "Szentendre",
-   "price": 69.9,
+   "price": 64.9,
    "rooms": "2+2",
    "m2": 72,
    "telek": 877,
@@ -10248,6 +10304,10 @@
     [
      "2026-09-26",
      69.9
+    ],
+    [
+     "2026-10-03",
+     64.9
     ]
    ],
    "seed": true
@@ -10705,7 +10765,7 @@
    "note": "X. kerületben, a Bajcsy Kórház közelében, kis lakásszámú, rendezett társasházban eladó",
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-01",
@@ -11226,12 +11286,12 @@
    "id": "h10842675",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10842675",
    "area": "XXI. kerület",
-   "price": 72.0,
+   "price": 69.0,
    "rooms": "2",
    "m2": 60,
    "telek": 150,
    "year": 1970,
-   "note": "Családias otthon kertkapcsolattal Csepel közkedvelt részén a Medve utcában!Ha olyan otthont",
+   "note": "Saját kert, saját otthon Csepelen 60 m²-es, jó állapotú ház a Medve utcában Budapest XXI.",
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-03",
    "active": true,
@@ -11239,6 +11299,10 @@
     [
      "2026-10-01",
      72.0
+    ],
+    [
+     "2026-10-03",
+     69.0
     ]
    ],
    "seed": true
@@ -11423,7 +11487,7 @@
    "note": "** Csepeli családi ház, két teljesen elkülöníthető lakórésszel kivételes befektetési",
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-01",
@@ -11809,7 +11873,7 @@
    "note": "ELADÓ CSALÁDI HÁZ CSEPELEN! Budapest XXI. kerületének kertvárosi részén",
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-01",
@@ -12032,7 +12096,7 @@
    "id": "h10290159",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10290159",
    "area": "XXI. kerület",
-   "price": 99.0,
+   "price": 94.0,
    "rooms": "4",
    "m2": 125,
    "telek": 822,
@@ -12049,6 +12113,10 @@
     [
      "2026-10-02",
      99.0
+    ],
+    [
+     "2026-10-03",
+     94.0
     ]
    ],
    "seed": true
@@ -12417,7 +12485,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10945741": {
-   "price": 25.9,
+   "price": 22.5,
    "rooms": "2",
    "m2": null,
    "telek": 170,
@@ -12433,6 +12501,10 @@
     [
      "2026-10-02",
      25.9
+    ],
+    [
+     "2026-10-03",
+     22.5
     ]
    ]
   },
@@ -13008,7 +13080,7 @@
    "area": "Göd",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -13437,7 +13509,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10699550": {
-   "price": 2200.0,
+   "price": 1800.0,
    "rooms": null,
    "m2": null,
    "telek": 30299,
@@ -13453,6 +13525,10 @@
     [
      "2026-10-02",
      2200.0
+    ],
+    [
+     "2026-10-03",
+     1800.0
     ]
    ]
   },
@@ -13808,7 +13884,7 @@
    "area": "Göd",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -14868,7 +14944,7 @@
    "area": "Veresegyház",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -14888,7 +14964,7 @@
    "area": "Veresegyház",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -15128,7 +15204,7 @@
    "area": "Veresegyház",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -15548,7 +15624,7 @@
    "area": "Veresegyház",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -15617,7 +15693,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10851779": {
-   "price": 134.9,
+   "price": 140.0,
    "rooms": "5",
    "m2": null,
    "telek": 531,
@@ -15633,6 +15709,10 @@
     [
      "2026-10-02",
      134.9
+    ],
+    [
+     "2026-10-03",
+     140.0
     ]
    ]
   },
@@ -15717,7 +15797,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10803776": {
-   "price": 179.7,
+   "price": 169.9,
    "rooms": "1",
    "m2": null,
    "telek": 634,
@@ -15733,6 +15813,10 @@
     [
      "2026-10-02",
      179.7
+    ],
+    [
+     "2026-10-03",
+     169.9
     ]
    ]
   },
@@ -15897,7 +15981,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10709932": {
-   "price": 199.0,
+   "price": 189.0,
    "rooms": "6",
    "m2": null,
    "telek": 1212,
@@ -15913,6 +15997,10 @@
     [
      "2026-10-02",
      199.0
+    ],
+    [
+     "2026-10-03",
+     189.0
     ]
    ]
   },
@@ -16037,7 +16125,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10701149": {
-   "price": 179.7,
+   "price": 169.9,
    "rooms": "1",
    "m2": null,
    "telek": 634,
@@ -16053,6 +16141,10 @@
     [
      "2026-10-02",
      179.7
+    ],
+    [
+     "2026-10-03",
+     169.9
     ]
    ]
   },
@@ -16088,7 +16180,7 @@
    "area": "Veresegyház",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -16848,7 +16940,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -16897,12 +16989,12 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10860682": {
-   "price": 207.6,
+   "price": 198.5,
    "rooms": "3",
    "m2": null,
    "telek": 843,
    "year": 2005,
-   "note": "POMÁZ - MESELIA LEGKEDVELTEBB, LEGSZEBB RÉSZÉN - ÖRÖK PANORÁMÁS - MINŐSÉGI - 3 SZINTES",
+   "note": "POMÁZ - MESELIA LEGKEDVELTEBB, LEGSZEBB RÉSZÉN SZÉP CSALÁDI HÁZAS KÖRNYEZETBEN: ÖRÖK",
    "id": "h10860682",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10860682",
    "area": "Pomáz",
@@ -16913,6 +17005,10 @@
     [
      "2026-10-02",
      207.6
+    ],
+    [
+     "2026-10-03",
+     198.5
     ]
    ]
   },
@@ -16928,7 +17024,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -16948,7 +17044,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -16968,7 +17064,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -16988,7 +17084,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -17008,7 +17104,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -17237,7 +17333,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10914938": {
-   "price": 84.9,
+   "price": 79.0,
    "rooms": "3",
    "m2": null,
    "telek": null,
@@ -17253,6 +17349,10 @@
     [
      "2026-10-02",
      84.9
+    ],
+    [
+     "2026-10-03",
+     79.0
     ]
    ]
   },
@@ -17388,7 +17488,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -17488,7 +17588,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -17497,7 +17597,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10848555": {
-   "price": 207.6,
+   "price": 198.5,
    "rooms": "3",
    "m2": null,
    "telek": 843,
@@ -17513,6 +17613,10 @@
     [
      "2026-10-02",
      207.6
+    ],
+    [
+     "2026-10-03",
+     198.5
     ]
    ]
   },
@@ -17728,7 +17832,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -17888,7 +17992,7 @@
    "area": "Pomáz",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -19208,7 +19312,7 @@
    "area": "Szentendre",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -19228,7 +19332,7 @@
    "area": "Szentendre",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -19448,7 +19552,7 @@
    "area": "Szentendre",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -19628,7 +19732,7 @@
    "area": "Szentendre",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -20597,7 +20701,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10838316": {
-   "price": 732.62,
+   "price": 735.74,
    "rooms": "4",
    "m2": null,
    "telek": 384,
@@ -20613,6 +20717,10 @@
     [
      "2026-10-02",
      732.62
+    ],
+    [
+     "2026-10-03",
+     735.74
     ]
    ]
   },
@@ -20668,7 +20776,7 @@
    "area": "Szentendre",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -20708,7 +20816,7 @@
    "area": "Szentendre",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -20888,7 +20996,7 @@
    "area": "Szentendre",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -21937,7 +22045,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10440005": {
-   "price": 215.0,
+   "price": 198.0,
    "rooms": "6",
    "m2": null,
    "telek": 750,
@@ -21953,6 +22061,10 @@
     [
      "2026-10-02",
      215.0
+    ],
+    [
+     "2026-10-03",
+     198.0
     ]
    ]
   },
@@ -22217,12 +22329,12 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10244956": {
-   "price": 277.062,
+   "price": 277.819,
    "rooms": "8",
    "m2": null,
    "telek": 1515,
    "year": 1991,
-   "note": "Kivételes Befektetési Lehetőség a Dunakanyarban – Panzió és Családi Ház Szentendrén",
+   "note": "SZENTENDREI PANZIÓ ÉS CSALÁDI HÁZ – KÉT INGATLAN EGY AJÁNLATBAN A DUNAKANYARBAN A",
    "id": "h10244956",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10244956",
    "area": "Szentendre",
@@ -22233,6 +22345,10 @@
     [
      "2026-10-02",
      277.062
+    ],
+    [
+     "2026-10-03",
+     277.819
     ]
    ]
   },
@@ -22417,7 +22533,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10805467": {
-   "price": 265.0,
+   "price": 255.0,
    "rooms": "4",
    "m2": null,
    "telek": 1293,
@@ -22433,6 +22549,10 @@
     [
      "2026-10-02",
      265.0
+    ],
+    [
+     "2026-10-03",
+     255.0
     ]
    ]
   },
@@ -22648,7 +22768,7 @@
    "area": "Fót",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -22828,7 +22948,7 @@
    "area": "Fót",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -23537,7 +23657,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10876328": {
-   "price": 260.0,
+   "price": 240.0,
    "rooms": "6",
    "m2": null,
    "telek": 750,
@@ -23553,6 +23673,10 @@
     [
      "2026-10-02",
      260.0
+    ],
+    [
+     "2026-10-03",
+     240.0
     ]
    ]
   },
@@ -23797,7 +23921,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10841050": {
-   "price": 157.5,
+   "price": 153.5,
    "rooms": "6",
    "m2": null,
    "telek": 875,
@@ -23813,6 +23937,10 @@
     [
      "2026-10-02",
      157.5
+    ],
+    [
+     "2026-10-03",
+     153.5
     ]
    ]
   },
@@ -23857,7 +23985,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10835197": {
-   "price": 265.0,
+   "price": 255.0,
    "rooms": "4",
    "m2": null,
    "telek": 1293,
@@ -23873,6 +24001,10 @@
     [
      "2026-10-02",
      265.0
+    ],
+    [
+     "2026-10-03",
+     255.0
     ]
    ]
   },
@@ -23888,7 +24020,7 @@
    "area": "Fót",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -23908,7 +24040,7 @@
    "area": "Fót",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -23957,7 +24089,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10809670": {
-   "price": 262.28,
+   "price": 219.0,
    "rooms": "10",
    "m2": null,
    "telek": 696,
@@ -23973,6 +24105,10 @@
     [
      "2026-10-02",
      262.28
+    ],
+    [
+     "2026-10-03",
+     219.0
     ]
    ]
   },
@@ -24028,7 +24164,7 @@
    "area": "Fót",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -24037,7 +24173,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10806799": {
-   "price": 262.28,
+   "price": 219.0,
    "rooms": "10",
    "m2": null,
    "telek": 696,
@@ -24053,11 +24189,15 @@
     [
      "2026-10-02",
      262.28
+    ],
+    [
+     "2026-10-03",
+     219.0
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10805046": {
-   "price": 265.0,
+   "price": 255.0,
    "rooms": "4",
    "m2": null,
    "telek": 1293,
@@ -24073,6 +24213,10 @@
     [
      "2026-10-02",
      265.0
+    ],
+    [
+     "2026-10-03",
+     255.0
     ]
    ]
   },
@@ -24097,7 +24241,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10787049": {
-   "price": 240.0,
+   "price": 199.0,
    "rooms": "5",
    "m2": null,
    "telek": 657,
@@ -24113,6 +24257,10 @@
     [
      "2026-10-02",
      240.0
+    ],
+    [
+     "2026-10-03",
+     199.0
     ]
    ]
   },
@@ -24348,7 +24496,7 @@
    "area": "Fót",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -24377,7 +24525,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10674299": {
-   "price": 260.0,
+   "price": 240.0,
    "rooms": "6",
    "m2": null,
    "telek": 750,
@@ -24393,11 +24541,15 @@
     [
      "2026-10-02",
      260.0
+    ],
+    [
+     "2026-10-03",
+     240.0
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10657110": {
-   "price": 260.0,
+   "price": 240.0,
    "rooms": "6",
    "m2": null,
    "telek": 750,
@@ -24413,6 +24565,10 @@
     [
      "2026-10-02",
      260.0
+    ],
+    [
+     "2026-10-03",
+     240.0
     ]
    ]
   },
@@ -24608,7 +24764,7 @@
    "area": "Fót",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -25837,12 +25993,12 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-csomor/h10800398": {
-   "price": 135.0,
+   "price": 132.0,
    "rooms": "4",
    "m2": null,
    "telek": 1259,
    "year": 1960,
-   "note": "Csömörön felújított, 4 szobás családi ház nagy telekkel, csendes környéken Csömör",
+   "note": "CSÖMÖR - 4 SZOBÁS CSALÁDI HÁZ, NAGY KERTTEL Csömör egyik legkedveltebb, csendes, rendezett",
    "id": "h10800398",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-csomor/h10800398",
    "area": "Csömör",
@@ -25853,6 +26009,10 @@
     [
      "2026-10-02",
      135.0
+    ],
+    [
+     "2026-10-03",
+     132.0
     ]
    ]
   },
@@ -26608,7 +26768,7 @@
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -27108,7 +27268,7 @@
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -27268,7 +27428,7 @@
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -27548,7 +27708,7 @@
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -27568,7 +27728,7 @@
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -27628,7 +27788,7 @@
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -29088,7 +29248,7 @@
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -29748,7 +29908,7 @@
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -29968,7 +30128,7 @@
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -30137,7 +30297,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10894493": {
-   "price": 78.99,
+   "price": 74.99,
    "rooms": "2",
    "m2": null,
    "telek": 458,
@@ -30153,6 +30313,10 @@
     [
      "2026-10-02",
      78.99
+    ],
+    [
+     "2026-10-03",
+     74.99
     ]
    ]
   },
@@ -30977,7 +31141,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10859432": {
-   "price": 96.0,
+   "price": 89.99,
    "rooms": "6+1",
    "m2": null,
    "telek": 436,
@@ -30993,6 +31157,10 @@
     [
      "2026-10-02",
      96.0
+    ],
+    [
+     "2026-10-03",
+     89.99
     ]
    ]
   },
@@ -31397,7 +31565,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10842358": {
-   "price": 250.0,
+   "price": 219.9,
    "rooms": "6",
    "m2": null,
    "telek": 427,
@@ -31413,6 +31581,10 @@
     [
      "2026-10-02",
      250.0
+    ],
+    [
+     "2026-10-03",
+     219.9
     ]
    ]
   },
@@ -31548,7 +31720,7 @@
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -31628,7 +31800,7 @@
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -31917,7 +32089,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10779857": {
-   "price": 140.0,
+   "price": 135.0,
    "rooms": "6",
    "m2": null,
    "telek": 589,
@@ -31933,6 +32105,10 @@
     [
      "2026-10-02",
      140.0
+    ],
+    [
+     "2026-10-03",
+     135.0
     ]
    ]
   },
@@ -32288,7 +32464,7 @@
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -32397,7 +32573,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10727122": {
-   "price": 97.9,
+   "price": 96.5,
    "rooms": "3+1",
    "m2": null,
    "telek": 387,
@@ -32413,6 +32589,10 @@
     [
      "2026-10-02",
      97.9
+    ],
+    [
+     "2026-10-03",
+     96.5
     ]
    ]
   },
@@ -32537,7 +32717,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10700277": {
-   "price": 279.0,
+   "price": 289.0,
    "rooms": "8",
    "m2": null,
    "telek": 1500,
@@ -32553,6 +32733,10 @@
     [
      "2026-10-02",
      279.0
+    ],
+    [
+     "2026-10-03",
+     289.0
     ]
    ]
   },
@@ -32617,7 +32801,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10687967": {
-   "price": 277.622,
+   "price": 278.381,
    "rooms": "8",
    "m2": null,
    "telek": 1500,
@@ -32633,6 +32817,10 @@
     [
      "2026-10-02",
      277.622
+    ],
+    [
+     "2026-10-03",
+     278.381
     ]
    ]
   },
@@ -33228,7 +33416,7 @@
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -34628,7 +34816,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -34868,7 +35056,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -35508,7 +35696,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -35608,7 +35796,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -35908,7 +36096,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -35968,7 +36156,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -36008,7 +36196,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -36288,7 +36476,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -36448,7 +36636,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -36877,7 +37065,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10872514": {
-   "price": 94.4,
+   "price": 89.0,
    "rooms": "3",
    "m2": null,
    "telek": 543,
@@ -36893,6 +37081,10 @@
     [
      "2026-10-02",
      94.4
+    ],
+    [
+     "2026-10-03",
+     89.0
     ]
    ]
   },
@@ -38268,7 +38460,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -38688,7 +38880,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -39108,7 +39300,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -39157,12 +39349,12 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10775106": {
-   "price": 142.0,
+   "price": 129.9,
    "rooms": "6",
    "m2": null,
    "telek": 540,
    "year": 1968,
-   "note": "Sashalmi kétszintes családi ház 240 m², kétlakásos minősítés, dupla energiatámogatás",
+   "note": "12,1 MILLIÓ FT ÁRCSÖKKENÉS SASHALMON 142 MILLIÓ HELYETT MOST 129.900.000 FT! KÉT LAKRÉSZ.",
    "id": "h10775106",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10775106",
    "area": "XVI. kerület",
@@ -39173,6 +39365,10 @@
     [
      "2026-10-02",
      142.0
+    ],
+    [
+     "2026-10-03",
+     129.9
     ]
    ]
   },
@@ -39928,7 +40124,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -40097,7 +40293,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10687919": {
-   "price": 244.961,
+   "price": 245.63,
    "rooms": "5",
    "m2": null,
    "telek": 542,
@@ -40113,6 +40309,10 @@
     [
      "2026-10-02",
      244.961
+    ],
+    [
+     "2026-10-03",
+     245.63
     ]
    ]
   },
@@ -40768,7 +40968,7 @@
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -42217,7 +42417,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10365115": {
-   "price": 179.0,
+   "price": 189.0,
    "rooms": "6",
    "m2": null,
    "telek": 510,
@@ -42233,6 +42433,10 @@
     [
      "2026-10-02",
      179.0
+    ],
+    [
+     "2026-10-03",
+     189.0
     ]
    ]
   },
@@ -42597,7 +42801,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10106251": {
-   "price": 250.0,
+   "price": 215.0,
    "rooms": "5",
    "m2": null,
    "telek": 680,
@@ -42613,6 +42817,10 @@
     [
      "2026-10-02",
      250.0
+    ],
+    [
+     "2026-10-03",
+     215.0
     ]
    ]
   },
@@ -42957,7 +43165,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10671634": {
-   "price": 1302.96,
+   "price": 1306.52,
    "rooms": "9",
    "m2": null,
    "telek": 1115,
@@ -42973,11 +43181,15 @@
     [
      "2026-10-02",
      1302.96
+    ],
+    [
+     "2026-10-03",
+     1306.52
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10379206": {
-   "price": 651.48,
+   "price": 653.26,
    "rooms": "8",
    "m2": null,
    "telek": 1066,
@@ -42993,6 +43205,10 @@
     [
      "2026-10-02",
      651.48
+    ],
+    [
+     "2026-10-03",
+     653.26
     ]
    ]
   },
@@ -43057,7 +43273,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10420800": {
-   "price": 475.8,
+   "price": 477.1,
    "rooms": "6",
    "m2": null,
    "telek": 546,
@@ -43073,6 +43289,10 @@
     [
      "2026-10-02",
      475.8
+    ],
+    [
+     "2026-10-03",
+     477.1
     ]
    ]
   },
@@ -43237,7 +43457,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10144834": {
-   "price": 266.924,
+   "price": 267.653,
    "rooms": "6",
    "m2": null,
    "telek": 836,
@@ -43253,6 +43473,10 @@
     [
      "2026-10-02",
      266.924
+    ],
+    [
+     "2026-10-03",
+     267.653
     ]
    ]
   },
@@ -43677,7 +43901,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10924379": {
-   "price": 384.3,
+   "price": 385.35,
    "rooms": "9",
    "m2": null,
    "telek": 976,
@@ -43693,11 +43917,15 @@
     [
      "2026-10-02",
      384.3
+    ],
+    [
+     "2026-10-03",
+     385.35
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10924006": {
-   "price": 1098.0,
+   "price": 1101.0,
    "rooms": "7",
    "m2": null,
    "telek": 956,
@@ -43713,6 +43941,10 @@
     [
      "2026-10-02",
      1098.0
+    ],
+    [
+     "2026-10-03",
+     1101.0
     ]
    ]
   },
@@ -43728,7 +43960,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -43968,7 +44200,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44057,7 +44289,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10904749": {
-   "price": 1103.013,
+   "price": 1106.027,
    "rooms": "6",
    "m2": null,
    "telek": 1647,
@@ -44073,6 +44305,10 @@
     [
      "2026-10-02",
      1103.013
+    ],
+    [
+     "2026-10-03",
+     1106.027
     ]
    ]
   },
@@ -44128,7 +44364,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44148,7 +44384,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44168,7 +44404,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44217,7 +44453,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10897993": {
-   "price": 266.924,
+   "price": 267.653,
    "rooms": "6",
    "m2": null,
    "telek": 836,
@@ -44233,6 +44469,10 @@
     [
      "2026-10-02",
      266.924
+    ],
+    [
+     "2026-10-03",
+     267.653
     ]
    ]
   },
@@ -44248,7 +44488,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44268,7 +44508,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44408,7 +44648,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44417,7 +44657,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10891101": {
-   "price": 1550.0,
+   "price": 1350.0,
    "rooms": "10",
    "m2": null,
    "telek": 2130,
@@ -44433,11 +44673,15 @@
     [
      "2026-10-02",
      1550.0
+    ],
+    [
+     "2026-10-03",
+     1350.0
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10890875": {
-   "price": 266.924,
+   "price": 267.653,
    "rooms": "6",
    "m2": null,
    "telek": 836,
@@ -44453,6 +44697,10 @@
     [
      "2026-10-02",
      266.924
+    ],
+    [
+     "2026-10-03",
+     267.653
     ]
    ]
   },
@@ -44848,7 +45096,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44888,7 +45136,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -44908,7 +45156,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -45228,7 +45476,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -45377,7 +45625,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10851408": {
-   "price": 529.0,
+   "price": 499.0,
    "rooms": "5",
    "m2": null,
    "telek": 702,
@@ -45393,6 +45641,10 @@
     [
      "2026-10-02",
      529.0
+    ],
+    [
+     "2026-10-03",
+     499.0
     ]
    ]
   },
@@ -45557,7 +45809,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10841762": {
-   "price": 1098.0,
+   "price": 1101.0,
    "rooms": "7",
    "m2": null,
    "telek": 956,
@@ -45573,6 +45825,10 @@
     [
      "2026-10-02",
      1098.0
+    ],
+    [
+     "2026-10-03",
+     1101.0
     ]
    ]
   },
@@ -45677,7 +45933,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10838837": {
-   "price": 379.0,
+   "price": 345.0,
    "rooms": "3+3",
    "m2": null,
    "telek": 581,
@@ -45693,6 +45949,10 @@
     [
      "2026-10-02",
      379.0
+    ],
+    [
+     "2026-10-03",
+     345.0
     ]
    ]
   },
@@ -46448,7 +46708,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -46777,7 +47037,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10758264": {
-   "price": 384.3,
+   "price": 385.35,
    "rooms": "7",
    "m2": null,
    "telek": 998,
@@ -46793,6 +47053,10 @@
     [
      "2026-10-02",
      384.3
+    ],
+    [
+     "2026-10-03",
+     385.35
     ]
    ]
   },
@@ -47008,7 +47272,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -47108,7 +47372,7 @@
    "area": "II. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -47137,7 +47401,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10726559": {
-   "price": 250.226,
+   "price": 250.458,
    "rooms": "4+1",
    "m2": null,
    "telek": 1145,
@@ -47153,6 +47417,10 @@
     [
      "2026-10-02",
      250.226
+    ],
+    [
+     "2026-10-03",
+     250.458
     ]
    ]
   },
@@ -47297,7 +47565,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10690417": {
-   "price": 805.2,
+   "price": 807.4,
    "rooms": "8",
    "m2": null,
    "telek": 1174,
@@ -47313,6 +47581,10 @@
     [
      "2026-10-02",
      805.2
+    ],
+    [
+     "2026-10-03",
+     807.4
     ]
    ]
   },
@@ -47377,7 +47649,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10684362": {
-   "price": 1317.6,
+   "price": 1321.2,
    "rooms": "8",
    "m2": null,
    "telek": 1200,
@@ -47393,6 +47665,10 @@
     [
      "2026-10-02",
      1317.6
+    ],
+    [
+     "2026-10-03",
+     1321.2
     ]
    ]
   },
@@ -47717,12 +47993,12 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10625218": {
-   "price": 460.0,
+   "price": 399.0,
    "rooms": "5+2",
    "m2": null,
    "telek": 600,
    "year": 1996,
-   "note": "TAVASZI ÁRCSÖKKENÉS! ÍME A TÖKÉLETES VÁLASZTÁS, AZOKNAK, AKIK ÉRTÉKELIK A MINŐSÉGET ÉS",
+   "note": "ÁRCSÖKKENÉS! ÍME A TÖKÉLETES VÁLASZTÁS, AZOKNAK, AKIK ÉRTÉKELIK A MINŐSÉGET ÉS EGY",
    "id": "h10625218",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10625218",
    "area": "II. kerület",
@@ -47733,6 +48009,10 @@
     [
      "2026-10-02",
      460.0
+    ],
+    [
+     "2026-10-03",
+     399.0
     ]
    ]
   },
@@ -47877,7 +48157,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10586441": {
-   "price": 1208.823,
+   "price": 1213.971,
    "rooms": "6",
    "m2": null,
    "telek": 951,
@@ -47893,6 +48173,10 @@
     [
      "2026-10-02",
      1208.823
+    ],
+    [
+     "2026-10-03",
+     1213.971
     ]
    ]
   },
@@ -48257,7 +48541,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10444835": {
-   "price": 248.88,
+   "price": 250.24,
    "rooms": "6",
    "m2": null,
    "telek": 1145,
@@ -48273,6 +48557,10 @@
     [
      "2026-10-02",
      248.88
+    ],
+    [
+     "2026-10-03",
+     250.24
     ]
    ]
   },
@@ -48397,7 +48685,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10381499": {
-   "price": 915.0,
+   "price": 917.5,
    "rooms": "5",
    "m2": null,
    "telek": 1084,
@@ -48413,6 +48701,10 @@
     [
      "2026-10-02",
      915.0
+    ],
+    [
+     "2026-10-03",
+     917.5
     ]
    ]
   },
@@ -48477,7 +48769,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10367815": {
-   "price": 311.1,
+   "price": 311.95,
    "rooms": "6",
    "m2": null,
    "telek": 908,
@@ -48493,6 +48785,10 @@
     [
      "2026-10-02",
      311.1
+    ],
+    [
+     "2026-10-03",
+     311.95
     ]
    ]
   },
@@ -48657,7 +48953,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10309605": {
-   "price": 1098.0,
+   "price": 1101.0,
    "rooms": "6",
    "m2": null,
    "telek": 860,
@@ -48673,6 +48969,10 @@
     [
      "2026-10-02",
      1098.0
+    ],
+    [
+     "2026-10-03",
+     1101.0
     ]
    ]
   },
@@ -48777,7 +49077,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10215949": {
-   "price": 384.3,
+   "price": 385.35,
    "rooms": "9",
    "m2": null,
    "telek": 976,
@@ -48793,6 +49093,10 @@
     [
      "2026-10-02",
      384.3
+    ],
+    [
+     "2026-10-03",
+     385.35
     ]
    ]
   },
@@ -48837,7 +49141,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10190406": {
-   "price": 384.3,
+   "price": 385.35,
    "rooms": "9",
    "m2": null,
    "telek": 976,
@@ -48853,11 +49157,15 @@
     [
      "2026-10-02",
      384.3
+    ],
+    [
+     "2026-10-03",
+     385.35
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10189991": {
-   "price": 381.528,
+   "price": 386.264,
    "rooms": "9",
    "m2": null,
    "telek": 976,
@@ -48873,11 +49181,15 @@
     [
      "2026-10-02",
      381.528
+    ],
+    [
+     "2026-10-03",
+     386.264
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10188949": {
-   "price": 384.3,
+   "price": 385.35,
    "rooms": "9",
    "m2": null,
    "telek": 976,
@@ -48893,6 +49205,10 @@
     [
      "2026-10-02",
      384.3
+    ],
+    [
+     "2026-10-03",
+     385.35
     ]
    ]
   },
@@ -48957,7 +49273,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10083324": {
-   "price": 2196.0,
+   "price": 2202.0,
    "rooms": "10+2",
    "m2": null,
    "telek": 1005,
@@ -48973,6 +49289,10 @@
     [
      "2026-10-02",
      2196.0
+    ],
+    [
+     "2026-10-03",
+     2202.0
     ]
    ]
   },
@@ -49077,7 +49397,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10068804": {
-   "price": 2104.5,
+   "price": 2110.25,
    "rooms": "10",
    "m2": null,
    "telek": 1500,
@@ -49093,6 +49413,10 @@
     [
      "2026-10-02",
      2104.5
+    ],
+    [
+     "2026-10-03",
+     2110.25
     ]
    ]
   },
@@ -49137,7 +49461,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10053536": {
-   "price": 1464.0,
+   "price": 1468.0,
    "rooms": "8",
    "m2": null,
    "telek": 1804,
@@ -49153,6 +49477,10 @@
     [
      "2026-10-02",
      1464.0
+    ],
+    [
+     "2026-10-03",
+     1468.0
     ]
    ]
   },
@@ -49197,7 +49525,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h9955504": {
-   "price": 1126.416,
+   "price": 1140.397,
    "rooms": "1",
    "m2": null,
    "telek": 860,
@@ -49213,6 +49541,10 @@
     [
      "2026-10-02",
      1126.416
+    ],
+    [
+     "2026-10-03",
+     1140.397
     ]
    ]
   },
@@ -49257,7 +49589,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h9927063": {
-   "price": 249.091,
+   "price": 250.152,
    "rooms": "6",
    "m2": null,
    "telek": 1145,
@@ -49273,6 +49605,10 @@
     [
      "2026-10-02",
      249.091
+    ],
+    [
+     "2026-10-03",
+     250.152
     ]
    ]
   },
@@ -49337,7 +49673,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h9684027": {
-   "price": 1427.4,
+   "price": 1431.3,
    "rooms": "7+2",
    "m2": null,
    "telek": 900,
@@ -49353,11 +49689,15 @@
     [
      "2026-10-02",
      1427.4
+    ],
+    [
+     "2026-10-03",
+     1431.3
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h9673753": {
-   "price": 549.0,
+   "price": 550.5,
    "rooms": "5",
    "m2": null,
    "telek": 1000,
@@ -49373,11 +49713,15 @@
     [
      "2026-10-02",
      549.0
+    ],
+    [
+     "2026-10-03",
+     550.5
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h9661657": {
-   "price": 1758.288,
+   "price": 1765.776,
    "rooms": "12",
    "m2": null,
    "telek": 2145,
@@ -49393,6 +49737,10 @@
     [
      "2026-10-02",
      1758.288
+    ],
+    [
+     "2026-10-03",
+     1765.776
     ]
    ]
   },
@@ -49417,7 +49765,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h9515383": {
-   "price": 2564.17,
+   "price": 2575.09,
    "rooms": "5",
    "m2": null,
    "telek": 1294,
@@ -49433,11 +49781,15 @@
     [
      "2026-10-02",
      2564.17
+    ],
+    [
+     "2026-10-03",
+     2575.09
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h9217068": {
-   "price": 1464.0,
+   "price": 1468.0,
    "rooms": "8",
    "m2": null,
    "telek": 1200,
@@ -49453,6 +49805,10 @@
     [
      "2026-10-02",
      1464.0
+    ],
+    [
+     "2026-10-03",
+     1468.0
     ]
    ]
   },
@@ -49628,7 +49984,7 @@
    "area": "XII. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -49748,7 +50104,7 @@
    "area": "XII. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -49768,7 +50124,7 @@
    "area": "XII. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -49928,7 +50284,7 @@
    "area": "XII. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -50297,7 +50653,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10882223": {
-   "price": 710.641,
+   "price": 713.668,
    "rooms": "6",
    "m2": null,
    "telek": 2322,
@@ -50313,6 +50669,10 @@
     [
      "2026-10-02",
      710.641
+    ],
+    [
+     "2026-10-03",
+     713.668
     ]
    ]
   },
@@ -50697,7 +51057,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10775784": {
-   "price": 699.0,
+   "price": 670.0,
    "rooms": "8",
    "m2": null,
    "telek": 860,
@@ -50713,6 +51073,10 @@
     [
      "2026-10-02",
      699.0
+    ],
+    [
+     "2026-10-03",
+     670.0
     ]
    ]
   },
@@ -50737,7 +51101,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10769089": {
-   "price": 4684.8,
+   "price": 4697.6,
    "rooms": "5",
    "m2": null,
    "telek": 1700,
@@ -50753,11 +51117,15 @@
     [
      "2026-10-02",
      4684.8
+    ],
+    [
+     "2026-10-03",
+     4697.6
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10755874": {
-   "price": 4684.8,
+   "price": 4697.6,
    "rooms": "5",
    "m2": null,
    "telek": 1700,
@@ -50773,6 +51141,10 @@
     [
      "2026-10-02",
      4684.8
+    ],
+    [
+     "2026-10-03",
+     4697.6
     ]
    ]
   },
@@ -50817,7 +51189,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10717171": {
-   "price": 1421.283,
+   "price": 1427.336,
    "rooms": "11",
    "m2": null,
    "telek": 750,
@@ -50833,6 +51205,10 @@
     [
      "2026-10-02",
      1421.283
+    ],
+    [
+     "2026-10-03",
+     1427.336
     ]
    ]
   },
@@ -51337,7 +51713,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h9955316": {
-   "price": 499.0,
+   "price": 479.0,
    "rooms": "9",
    "m2": null,
    "telek": 700,
@@ -51353,6 +51729,10 @@
     [
      "2026-10-02",
      499.0
+    ],
+    [
+     "2026-10-03",
+     479.0
     ]
    ]
   },
@@ -52068,7 +52448,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -52388,7 +52768,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -52528,7 +52908,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -52697,7 +53077,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10907217": {
-   "price": 280.0,
+   "price": 310.0,
    "rooms": "4",
    "m2": null,
    "telek": 1117,
@@ -52713,6 +53093,10 @@
     [
      "2026-10-02",
      280.0
+    ],
+    [
+     "2026-10-03",
+     310.0
     ]
    ]
   },
@@ -52808,7 +53192,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -52868,7 +53252,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -53068,7 +53452,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -53088,7 +53472,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -53328,7 +53712,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -53348,7 +53732,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -53897,7 +54281,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10824130": {
-   "price": 732.0,
+   "price": 734.0,
    "rooms": "16",
    "m2": null,
    "telek": 987,
@@ -53913,6 +54297,10 @@
     [
      "2026-10-02",
      732.0
+    ],
+    [
+     "2026-10-03",
+     734.0
     ]
    ]
   },
@@ -54228,7 +54616,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -54308,7 +54696,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -54697,7 +55085,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10753637": {
-   "price": 58.0,
+   "price": 50.0,
    "rooms": "2",
    "m2": null,
    "telek": 154,
@@ -54713,6 +55101,10 @@
     [
      "2026-10-02",
      58.0
+    ],
+    [
+     "2026-10-03",
+     50.0
     ]
    ]
   },
@@ -54848,7 +55240,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -55048,7 +55440,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -55077,7 +55469,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10694993": {
-   "price": 355.0,
+   "price": 345.0,
    "rooms": "5",
    "m2": null,
    "telek": 541,
@@ -55093,6 +55485,10 @@
     [
      "2026-10-02",
      355.0
+    ],
+    [
+     "2026-10-03",
+     345.0
     ]
    ]
   },
@@ -55108,7 +55504,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -55128,7 +55524,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -55400,7 +55796,7 @@
    "price": 199.0,
    "rooms": "4",
    "m2": null,
-   "telek": 2386,
+   "telek": 2387,
    "year": 1988,
    "note": "Ürömhegyen Ürömhegyen eladó egy felújítandó, 130 nm-es, háromszintes",
    "id": "h10642603",
@@ -55768,7 +56164,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -56468,7 +56864,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -56697,7 +57093,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10177313": {
-   "price": 549.465,
+   "price": 551.805,
    "rooms": "4",
    "m2": null,
    "telek": 1056,
@@ -56713,6 +57109,10 @@
     [
      "2026-10-02",
      549.465
+    ],
+    [
+     "2026-10-03",
+     551.805
     ]
    ]
   },
@@ -56948,7 +57348,7 @@
    "area": "III. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -57228,7 +57628,7 @@
    "area": "X. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -57308,7 +57708,7 @@
    "area": "X. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -57468,7 +57868,7 @@
    "area": "X. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -57528,7 +57928,7 @@
    "area": "X. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -57548,7 +57948,7 @@
    "area": "X. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -58668,7 +59068,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -58888,7 +59288,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -59757,7 +60157,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10892288": {
-   "price": 119.0,
+   "price": 115.0,
    "rooms": "1+2",
    "m2": null,
    "telek": 728,
@@ -59773,6 +60173,10 @@
     [
      "2026-10-02",
      119.0
+    ],
+    [
+     "2026-10-03",
+     115.0
     ]
    ]
   },
@@ -60448,7 +60852,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -60557,7 +60961,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10826159": {
-   "price": 69.9,
+   "price": 65.0,
    "rooms": "5",
    "m2": null,
    "telek": 633,
@@ -60573,16 +60977,20 @@
     [
      "2026-10-02",
      69.9
+    ],
+    [
+     "2026-10-03",
+     65.0
     ]
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10824334": {
-   "price": 72.0,
+   "price": 69.0,
    "rooms": "2",
    "m2": null,
    "telek": 150,
    "year": 1970,
-   "note": "Családias otthon saját kerttel Csepel közkedvelt részén A Medve utcában! Csepel egyik",
+   "note": "Saját kert, saját otthon Csepelen 60 m²-es, jó állapotú ház a Medve utcában Budapest XXI.",
    "id": "h10824334",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10824334",
    "area": "XXI. kerület",
@@ -60593,6 +61001,10 @@
     [
      "2026-10-02",
      72.0
+    ],
+    [
+     "2026-10-03",
+     69.0
     ]
    ]
   },
@@ -60688,7 +61100,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -60777,7 +61189,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10803830": {
-   "price": 99.9,
+   "price": 87.5,
    "rooms": "3",
    "m2": null,
    "telek": 929,
@@ -60793,6 +61205,10 @@
     [
      "2026-10-02",
      99.9
+    ],
+    [
+     "2026-10-03",
+     87.5
     ]
    ]
   },
@@ -60808,7 +61224,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -60848,7 +61264,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -60868,7 +61284,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -60988,7 +61404,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -62668,7 +63084,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -62688,7 +63104,7 @@
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -63017,7 +63433,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10363851": {
-   "price": 99.9,
+   "price": 87.5,
    "rooms": "3",
    "m2": null,
    "telek": 929,
@@ -63033,6 +63449,10 @@
     [
      "2026-10-02",
      99.9
+    ],
+    [
+     "2026-10-03",
+     87.5
     ]
    ]
   },
@@ -63557,7 +63977,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10924239": {
-   "price": 230.0,
+   "price": 199.999,
    "rooms": "5",
    "m2": null,
    "telek": 284,
@@ -63573,6 +63993,10 @@
     [
      "2026-10-02",
      230.0
+    ],
+    [
+     "2026-10-03",
+     199.999
     ]
    ]
   },
@@ -63748,7 +64172,7 @@
    "area": "XI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -64048,7 +64472,7 @@
    "area": "XI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -64208,7 +64632,7 @@
    "area": "XI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -64257,7 +64681,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10813664": {
-   "price": 1100.0,
+   "price": 990.0,
    "rooms": "5",
    "m2": null,
    "telek": 1298,
@@ -64273,6 +64697,10 @@
     [
      "2026-10-02",
      1100.0
+    ],
+    [
+     "2026-10-03",
+     990.0
     ]
    ]
   },
@@ -64488,7 +64916,7 @@
    "area": "XI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -64497,7 +64925,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10717165": {
-   "price": 915.775,
+   "price": 919.675,
    "rooms": "5",
    "m2": null,
    "telek": 863,
@@ -64513,6 +64941,10 @@
     [
      "2026-10-02",
      915.775
+    ],
+    [
+     "2026-10-03",
+     919.675
     ]
    ]
   },
@@ -64697,7 +65129,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10629415": {
-   "price": 915.0,
+   "price": 917.5,
    "rooms": "13",
    "m2": null,
    "telek": 1287,
@@ -64713,6 +65145,10 @@
     [
      "2026-10-02",
      915.0
+    ],
+    [
+     "2026-10-03",
+     917.5
     ]
    ]
   },
@@ -64808,7 +65244,7 @@
    "area": "XI. kerület",
    "first_seen": "2026-10-02",
    "last_seen": "2026-10-03",
-   "active": true,
+   "active": false,
    "price_history": [
     [
      "2026-10-02",
@@ -65215,6 +65651,2766 @@
      429.0
     ]
    ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-god/h10951189": {
+   "price": 48.5,
+   "rooms": "3",
+   "m2": null,
+   "telek": 361,
+   "year": null,
+   "note": "Tisztelt Érdeklődő! Kérjük, figyelmesen olvassa végig az ingatlannal kapcsolatos",
+   "id": "h10951189",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10951189",
+   "area": "Göd",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     48.5
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-god/h10842685": {
+   "price": 79.0,
+   "rooms": "2+1",
+   "m2": null,
+   "telek": 448,
+   "year": 1972,
+   "note": "Alsógöd csendes kertvárosi részén - kiváló lehetőség saját otthon",
+   "id": "h10842685",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10842685",
+   "area": "Göd",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     79.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951895": {
+   "price": 165.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 1110,
+   "year": 1950,
+   "note": "ÁLOMOTTHON VERESEGYHÁZON TÖBBGENERÁCIÓS LEHETŐSÉG, GYÖNYÖRŰ KERTTEL ÉS RENGETEG",
+   "id": "h10951895",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951895",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     165.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10953924": {
+   "price": 149.9,
+   "rooms": "4+1",
+   "m2": null,
+   "telek": 1191,
+   "year": 2000,
+   "note": "**PANORÁMÁS, TÁGAS CSALÁDI HÁZ 1191 M²-ES TELKEN NAGY TEREKKEL ÉS TOVÁBBI BŐVÍTÉSI",
+   "id": "h10953924",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10953924",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10952799": {
+   "price": 149.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 636,
+   "year": 2026,
+   "note": "Veresegyház kedvelt Mézesvölgy városrészében eladó egy nettó 126,63 m² lakóterületű",
+   "id": "h10952799",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10952799",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10952602": {
+   "price": 171.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 1340,
+   "year": 1990,
+   "note": "Veresegyházon, a Csomádi úton, 1340 m²-es telken kínálunk megvételre egy sokoldalúan",
+   "id": "h10952602",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10952602",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     171.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10952024": {
+   "price": 169.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 480,
+   "year": 2008,
+   "note": "Veresegyházon, a Medvepark közelében eladó egy 2008-ban épült, igényesen felújított, 137",
+   "id": "h10952024",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10952024",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     169.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951886": {
+   "price": 119.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 418,
+   "year": 1996,
+   "note": "Eladó felújított családi ház Veresegyház Tópart városrészén!Veresegyház közkedvelt",
+   "id": "h10951886",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951886",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     119.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951876": {
+   "price": 189.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 1212,
+   "year": 1991,
+   "note": "Veresegyház HegyekHarmatok közkedvelt panorámás részén, felújított családi ház eladó",
+   "id": "h10951876",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951876",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     189.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951860": {
+   "price": 109.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 1089,
+   "year": 2023,
+   "note": "Veresegyházán prémium kialakítású, elszeparált otthon eladó!Egy igazán különleges",
+   "id": "h10951860",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951860",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     109.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951694": {
+   "price": 189.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 1212,
+   "year": 1991,
+   "note": "Veresegyház HegyekHarmatok közkedvelt panorámás részén, felújított családi ház eladó",
+   "id": "h10951694",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10951694",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     189.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10950144": {
+   "price": 115.5,
+   "rooms": "5",
+   "m2": null,
+   "telek": 681,
+   "year": 1990,
+   "note": "Ritka lehetőség Veresegyház egyik legkedveltebb kertvárosi részén, a Széchenyi-dombon! Két",
+   "id": "h10950144",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10950144",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     115.5
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10950135": {
+   "price": 115.5,
+   "rooms": "4",
+   "m2": null,
+   "telek": 918,
+   "year": 1980,
+   "note": "Tóparttól pár perc sétára! Eladó 160nm-es családi ház Veresegyházon! Tóparttól pár",
+   "id": "h10950135",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10950135",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     115.5
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10950110": {
+   "price": 165.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 1110,
+   "year": 1950,
+   "note": "ÁLOMOTTHON VERESEGYHÁZON TÖBBGENERÁCIÓS LEHETŐSÉG, GYÖNYÖRŰ KERTTEL ÉS RENGETEG",
+   "id": "h10950110",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10950110",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     165.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10948634": {
+   "price": 149.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 636,
+   "year": 2026,
+   "note": "Veresegyház kedvelt Mézesvölgy városrészében eladó egy nettó 126,63 m² lakóterületű",
+   "id": "h10948634",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10948634",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10779085": {
+   "price": 157.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 788,
+   "year": 2000,
+   "note": "Eladó tágas háromszintes családi ház Veresegyházon 788 nm telken!Ez a ház ideális",
+   "id": "h10779085",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10779085",
+   "area": "Veresegyház",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     157.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10950138": {
+   "price": 65.0,
+   "rooms": "2",
+   "m2": null,
+   "telek": 1229,
+   "year": 1920,
+   "note": "Hatalmas telek Pomázon felújítandó családi ház, akár ikerház építési lehetőségével!",
+   "id": "h10950138",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10950138",
+   "area": "Pomáz",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     65.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953516": {
+   "price": 218.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 950,
+   "year": 2022,
+   "note": "LUXUS, FENTARTHATÓSÁG, MINI OÁZIS ÉS PRÉMIUM MINŐSÉG SZENTENDRÉN A BÜKKÖS PATAK",
+   "id": "h10953516",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953516",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     218.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10951560": {
+   "price": 175.5,
+   "rooms": "4",
+   "m2": null,
+   "telek": 811,
+   "year": 2027,
+   "note": "Kedves Érdeklődő! Vészesen közeleg december 31. Ha ezt a hirdetést olvassa, bizonyára egy",
+   "id": "h10951560",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10951560",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     175.5
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953012": {
+   "price": 220.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 112,
+   "year": 2024,
+   "note": "PRÉMIUM INGATLAN SZENTENDRE ÓVÁROSÁBAN!!! Eladó Szentendre belvárosában egy exkluzív",
+   "id": "h10953012",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953012",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     220.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10954100": {
+   "price": 220.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 112,
+   "year": 2024,
+   "note": "PRÉMIUM INGATLAN SZENTENDRE ÓVÁROSÁBAN!!!Eladó Szentendre belvárosában egy exkluzív, magas",
+   "id": "h10954100",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10954100",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     220.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953112": {
+   "price": 198.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 800,
+   "year": 2020,
+   "note": "IGÉNYES, ÚJSZERŰ CSALÁDI HÁZ GONDOZOTT KERTTEL, A DUNÁTÓL 10-15 PERC SÉTÁRA ELADÓ!",
+   "id": "h10953112",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953112",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     198.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953100": {
+   "price": 139.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 711,
+   "year": null,
+   "note": "TERMÉSZETKÖZELI NYUGALOM, MODERN KÉNYELEM – SZENTENDRE Van az a hely, ahol már az első",
+   "id": "h10953100",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953100",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     139.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953004": {
+   "price": 198.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 800,
+   "year": 2020,
+   "note": "IGÉNYES, ÚJSZERŰ CSALÁDI HÁZ GONDOZOTT KERTTEL, A DUNÁTÓL 1015 PERC SÉTÁRA ELADÓ! Eladó",
+   "id": "h10953004",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10953004",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     198.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10952992": {
+   "price": 159.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 1072,
+   "year": 2010,
+   "note": "ÁRESÉS SZENTENDRE FELSŐ-PISMÁNYBAN! 163 000 000 FT HELYETT MOST 159 900 000 FT! PANORÁMA, AMIT",
+   "id": "h10952992",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10952992",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     159.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10950140": {
+   "price": 350.0,
+   "rooms": "7",
+   "m2": null,
+   "telek": 211,
+   "year": 1996,
+   "note": "~ English below ~ PANORÁMÁS, KÜLÖNLEGES CSALÁDI OTTHON SZENTENDRE TÖRTÉNELMI",
+   "id": "h10950140",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10950140",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     350.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10950058": {
+   "price": 95.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 660,
+   "year": 1970,
+   "note": "A HÁZAT A SAJÁT KÉPÉRE FORMÁLHATJA. A PANORÁMA MÁR KÉSZ. Vannak dolgok egy ingatlannál",
+   "id": "h10950058",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10950058",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     95.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10871341": {
+   "price": 450.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 889,
+   "year": 2017,
+   "note": "SZENTENDREI LUXUS ÖRÖKPANORÁMA Kívül-belül olyan állapotban van, mintha tegnap készült",
+   "id": "h10871341",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10871341",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     450.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10802610": {
+   "price": 290.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 1085,
+   "year": 2020,
+   "note": "ÖRÖK PANORÁMÁS, önálló családi üdülőház eladó Szentendrén, Pismányban, aszfaltos",
+   "id": "h10802610",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10802610",
+   "area": "Szentendre",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     290.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950547": {
+   "price": 119.9,
+   "rooms": "8",
+   "m2": null,
+   "telek": 438,
+   "year": 1991,
+   "note": "KÜLÖNLEGES LEHETŐSÉG FÓTON HÁROMSZINTES IKERHÁZ SAJÁT KERTTEL ÉS GARÁZZSAL! Fóton",
+   "id": "h10950547",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950547",
+   "area": "Fót",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     119.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-fot/h10951966": {
+   "price": 59.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 725,
+   "year": 1976,
+   "note": "Fóton eladó klasszikus Kádár-kocka családi ház nagy telekkel Fóton kínálunk megvételre",
+   "id": "h10951966",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10951966",
+   "area": "Fót",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     59.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950154": {
+   "price": 139.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 995,
+   "year": 1990,
+   "note": "Többgenerációs otthon, vendégház, gyönyörű parkosított kert és medence különleges",
+   "id": "h10950154",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950154",
+   "area": "Fót",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     139.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950122": {
+   "price": 59.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 725,
+   "year": 1976,
+   "note": "Fóton eladó klasszikus Kádár-kocka családi ház nagy telekkel Fóton kínálunk megvételre",
+   "id": "h10950122",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950122",
+   "area": "Fót",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     59.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950048": {
+   "price": 93.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 750,
+   "year": 1890,
+   "note": "750 m²-es, két utcára nyíló telken, összesen több épületrésszel kínálunk egy",
+   "id": "h10950048",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10950048",
+   "area": "Fót",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     93.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-fot/h10949095": {
+   "price": 139.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 995,
+   "year": 1990,
+   "note": "Többgenerációs otthon, vendégház, gyönyörű parkosított kert és medence különleges",
+   "id": "h10949095",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10949095",
+   "area": "Fót",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     139.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-fot/h10833605": {
+   "price": 255.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 1293,
+   "year": 2011,
+   "note": "Modern családi ház hatalmas saroktelken a Fótligeti Lakóparkban! A közkedvelt Fótligeti",
+   "id": "h10833605",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10833605",
+   "area": "Fót",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     255.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10945850": {
+   "price": 150.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 415,
+   "year": 1965,
+   "note": "Nagyzuglói telek ajándék házzal Építs ikerházat vagy valósítsd meg az",
+   "id": "h10945850",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10945850",
+   "area": "XIV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     150.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10873448": {
+   "price": 469.0,
+   "rooms": "9",
+   "m2": null,
+   "telek": 1129,
+   "year": 1920,
+   "note": "Eladó egy kétszintes, 440 m2-es nagypolgári villaépület a Herminamezőn, Zuglóban, nagyszerű",
+   "id": "h10873448",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10873448",
+   "area": "XIV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     469.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10950383": {
+   "price": 55.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 80,
+   "year": 1980,
+   "note": "Eladó csendes, intim kertkapcsolatos házrész Újpalota szélén Készpénzes vevőknek! Budapest",
+   "id": "h10950383",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10950383",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     55.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10953935": {
+   "price": 149.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 364,
+   "year": 1991,
+   "note": "Budapest XV. kerületében különleges hangulatú, 4 szobás, teraszos és pincézett családi",
+   "id": "h10953935",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10953935",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10952761": {
+   "price": 41.5,
+   "rooms": "1",
+   "m2": null,
+   "telek": null,
+   "year": 2027,
+   "note": "ÚJ ÉPÍTÉSŰ, 1 SZOBÁS, ERKÉLYES LAKÁS A XV. KERÜLETBEN! 26,5 m² 1 szoba 3,41 m² erkély",
+   "id": "h10952761",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10952761",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     41.5
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10952752": {
+   "price": 75.0,
+   "rooms": "2",
+   "m2": null,
+   "telek": 100,
+   "year": 1930,
+   "note": "RÁKOSPALOTÁN - XV. KERÜLETBEN - 69 M²-ES, FÖLDSZINTI, 2 SZOBÁS HÁZRÉSZ, SAJÁT HASZNÁLATÚ",
+   "id": "h10952752",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10952752",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     75.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10952260": {
+   "price": 110.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 800,
+   "year": 1960,
+   "note": "Amennyiben Ön befektetési lehetőséget keres, ez a kivételes ingatlan tökéletes választás",
+   "id": "h10952260",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10952260",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     110.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10951831": {
+   "price": 130.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 385,
+   "year": 1940,
+   "note": "*** 2 ÖNÁLLÓ CSALÁDI HÁZ EGY TELKEN - IGAZI KURIÓZUM RÁKOSPALOTÁN *** Budapest XV.",
+   "id": "h10951831",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10951831",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     130.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10949636": {
+   "price": 149.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 364,
+   "year": 1991,
+   "note": "Budapest XV. kerületében különleges hangulatú, 4 szobás, teraszos és pincézett családi",
+   "id": "h10949636",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10949636",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10948636": {
+   "price": 299.9,
+   "rooms": "7",
+   "m2": null,
+   "telek": 836,
+   "year": 1962,
+   "note": "Rákospalota csendes, kertvárosi részén eladó egy 836 nm-es dupla telken fekvő, rengeteg",
+   "id": "h10948636",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10948636",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     299.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10910149": {
+   "price": 130.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 385,
+   "year": 1940,
+   "note": "KÉT ÖNÁLLÓ CSALÁDI HÁZ EGY TELKEN – IGAZI KURIÓZUM RÁKOSPALOTÁN Két különálló",
+   "id": "h10910149",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10910149",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     130.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849971": {
+   "price": 149.0,
+   "rooms": "4+1",
+   "m2": null,
+   "telek": 789,
+   "year": 1980,
+   "note": "Kiváló lehetőség nagycsaládosoknak vagy kétgenerációs otthonnak Pestújhelyen! Budapest",
+   "id": "h10849971",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849971",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849621": {
+   "price": 149.0,
+   "rooms": "4+1",
+   "m2": null,
+   "telek": 789,
+   "year": 1980,
+   "note": "Kiváló lehetőség nagycsaládosoknak vagy kétgenerációs otthonnak Pestújhelyen! Budapest",
+   "id": "h10849621",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849621",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849365": {
+   "price": 140.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 355,
+   "year": 1973,
+   "note": "Medencés, szaunás családi otthon a XV. kerületben csendes környezet, kiváló lokáció!A XV.",
+   "id": "h10849365",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849365",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     140.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10798046": {
+   "price": 149.0,
+   "rooms": "4+1",
+   "m2": null,
+   "telek": 789,
+   "year": 1000,
+   "note": "Kiváló lehetőség nagycsaládosoknak vagy kétgenerációs otthonnak Pestújhelyen! Budapest",
+   "id": "h10798046",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10798046",
+   "area": "XV. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10949067": {
+   "price": 225.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 1072,
+   "year": 2026,
+   "note": "Csak az iroda kínálatában! A MEGHIRDETETT ÁRRAL CSAK KORLÁTOZOTT IDEIG ÉRHETŐ EL! PRÉMIUM",
+   "id": "h10949067",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10949067",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     225.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10950699": {
+   "price": 580.0,
+   "rooms": null,
+   "m2": null,
+   "telek": 1815,
+   "year": 2000,
+   "note": "KÜLÖNLEGES OTTHON ÓMÁTYÁSFÖLDÖN-HÁROM ÖNÁLLÓ ÉLETTÉR, NAGYVONALÚ TEREK, MEDENCE",
+   "id": "h10950699",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10950699",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     580.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10953917": {
+   "price": 149.9,
+   "rooms": "6",
+   "m2": null,
+   "telek": 563,
+   "year": 1987,
+   "note": "Budapest XVI. kerületének kedvelt kertvárosi részén, Rákosszentmihályon, Sashalom",
+   "id": "h10953917",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10953917",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     149.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10952764": {
+   "price": 369.9,
+   "rooms": "6",
+   "m2": null,
+   "telek": 540,
+   "year": 2007,
+   "note": "XVI. KERÜLETBEN RÁKOSSZENTMIHÁLYON, CSENDES MELLÉKUTCÁBAN, ELADÓ EGY 400NM-ES, 6 SZOBÁS",
+   "id": "h10952764",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10952764",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     369.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10952312": {
+   "price": 133.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 750,
+   "year": 1990,
+   "note": "Otthonos családi ház a XVI. kerület kedvelt Irha utcájában azonnal költözhető állapotbanA",
+   "id": "h10952312",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10952312",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     133.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10950730": {
+   "price": 299.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 591,
+   "year": 2022,
+   "note": "KOMPROMISSZUMMENTES, NAPPALI+5 SZOBÁS, MINDEN IGÉNYT KIELÉGÍTŐ CSALÁDI OTTHON Eladó egy",
+   "id": "h10950730",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10950730",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     299.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10950217": {
+   "price": 124.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 259,
+   "year": 1990,
+   "note": "FELÚJÍTOTT ÖNÁLLÓ CSALÁDI HÁZ - NAGY TERASSZAL ÉS INTIM SAJÁT KERTTEL A XVI. KERÜLETBEN",
+   "id": "h10950217",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10950217",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     124.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10949476": {
+   "price": 124.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 259,
+   "year": 1990,
+   "note": "FELÚJÍTOTT ÖNÁLLÓ CSALÁDI HÁZ - NAGY TERASSZAL ÉS INTIM SAJÁT KERTTEL A XVI. KERÜLETBEN",
+   "id": "h10949476",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10949476",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     124.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10912497": {
+   "price": 129.9,
+   "rooms": "6",
+   "m2": null,
+   "telek": 540,
+   "year": 1968,
+   "note": "TÁGAS, KÉTLAKRÉSZES CSALÁDI HÁZ SASHALMON – 240 M² ÉLETTÉR, 540 M²-ES TELEK, RENGETEG",
+   "id": "h10912497",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10912497",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     129.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10912493": {
+   "price": 270.0,
+   "rooms": "8",
+   "m2": null,
+   "telek": 1459,
+   "year": 1985,
+   "note": "TÖBBGENERÁCIÓS CSALÁDI HÁZ RÁKOSSZENTMIHÁLYON – 1459 M²-ES, RITKA MÉRETŰ TELEK",
+   "id": "h10912493",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10912493",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     270.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10911299": {
+   "price": 155.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 732,
+   "year": 1937,
+   "note": "Mátyásföld villanegyed, presztízs ingatlan Polgári hangulat, zöld nyugalom Budapest egyik",
+   "id": "h10911299",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10911299",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     155.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10859357": {
+   "price": 130.0,
+   "rooms": "4+1",
+   "m2": null,
+   "telek": 292,
+   "year": 1950,
+   "note": "Sashalmon, Egybenyitható Két Lakásos Ikerház, Intim Kerttel és Tárolókkal Eladó! Ha egy",
+   "id": "h10859357",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10859357",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     130.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10857821": {
+   "price": 109.9,
+   "rooms": "5",
+   "m2": null,
+   "telek": 300,
+   "year": 1982,
+   "note": "Eladó 4 szintes, többfunkciós családi ház a XVI. kerület csendes részén, Csömöri úton",
+   "id": "h10857821",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10857821",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     109.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10776625": {
+   "price": 33.9,
+   "rooms": "2",
+   "m2": null,
+   "telek": 60,
+   "year": null,
+   "note": "Leírás KERTKAPCSOLATOS OTTHON Cinkota csendes, zöldövezeti részén! Eladó a XVI. kerület",
+   "id": "h10776625",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10776625",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     33.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10776248": {
+   "price": 33.9,
+   "rooms": "2",
+   "m2": null,
+   "telek": 60,
+   "year": null,
+   "note": "Leírás KERTKAPCSOLATOS OTTHON Cinkota csendes, zöldövezeti részén! Eladó a XVI. kerület",
+   "id": "h10776248",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10776248",
+   "area": "XVI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     33.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10789935": {
+   "price": 324.0,
+   "rooms": "7",
+   "m2": null,
+   "telek": 902,
+   "year": 2002,
+   "note": "Családra tervezett otthon Hidegkúton ahol a tér, a fény és a hangulat valódi értékké",
+   "id": "h10789935",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10789935",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     324.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10953033": {
+   "price": 239.0,
+   "rooms": "7",
+   "m2": null,
+   "telek": 1018,
+   "year": 1992,
+   "note": "Budapest II/A kerületének nyugodt, zöldövezeti részén kínálunk eladásra egy 250 nm-es",
+   "id": "h10953033",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10953033",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     239.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10953256": {
+   "price": 239.0,
+   "rooms": "7",
+   "m2": null,
+   "telek": 1018,
+   "year": 1992,
+   "note": "Budapest II/A kerületének nyugodt, zöldövezeti részén kínálunk eladásra egy 250 nm-es",
+   "id": "h10953256",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10953256",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     239.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10953076": {
+   "price": 470.0,
+   "rooms": "5+1",
+   "m2": null,
+   "telek": 706,
+   "year": null,
+   "note": "KÉTGENERÁCIÓS LUXUSOTTHON ERZSÉBETLIGETEN – KÉT ÖNÁLLÓ LAKÁS, EGYETLEN PRÉMIUM",
+   "id": "h10953076",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10953076",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     470.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10952775": {
+   "price": 520.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 820,
+   "year": null,
+   "note": "P21864 II/A ADYLIGETEN KIEMELKEDŐ MINŐSÉGŰ, ÚJSZERŰ ART DECO VILLA ELADÓ! Budapest II.",
+   "id": "h10952775",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10952775",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     520.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10951570": {
+   "price": 690.0,
+   "rooms": "15",
+   "m2": null,
+   "telek": null,
+   "year": null,
+   "note": "BEFEKTETŐK FIGYELEM – RITKA LEHETŐSÉG PASARÉT–TÖRÖKVÉSZ HATÁRÁN Lokáció és telek",
+   "id": "h10951570",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10951570",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     690.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10950392": {
+   "price": 159.9,
+   "rooms": "2",
+   "m2": null,
+   "telek": 964,
+   "year": 2004,
+   "note": "# Panorámás, ősfás családi ház Budaligeten bővítési lehetőséggel, Pilis-panorámával",
+   "id": "h10950392",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10950392",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     159.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10948637": {
+   "price": 687.0,
+   "rooms": "7",
+   "m2": null,
+   "telek": 1326,
+   "year": 1985,
+   "note": "II. kerületben, a kiemelkedő presztízsű Pasarét és Törökvész határán , eladó egy remek",
+   "id": "h10948637",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10948637",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     687.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10937917": {
+   "price": 1210.0,
+   "rooms": "13",
+   "m2": null,
+   "telek": 1215,
+   "year": 2026,
+   "note": "PRÉMIUM ÚJÉPÍTÉSŰ INGATLANEGYÜTTES ELADÓ A II. KERÜLETBEN, PANORÁMA A BUDAI HEGYEKRE",
+   "id": "h10937917",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10937917",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     1210.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10937502": {
+   "price": 1164.494,
+   "rooms": "10",
+   "m2": null,
+   "telek": 275,
+   "year": 2025,
+   "note": "EGYEDI LUXUS AJÁNLAT A RÓZSADOMB SZÍVÉBEN KIZÁRÓLAG AZ OTP INGATLANPONT KÍNÁLATÁBAN!",
+   "id": "h10937502",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10937502",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     1164.494
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10923937": {
+   "price": 520.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 720,
+   "year": 2018,
+   "note": "*****PANORÁMÁS MODERN MINIMÁL A FRANCIA ISKOLA KÖZELÉBEN***** Budapest, 2.kerületben",
+   "id": "h10923937",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10923937",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     520.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10903207": {
+   "price": 299.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 747,
+   "year": 2005,
+   "note": "Eladó kétgenerációs családi ház fogorvosi rendelővel a II. kerületben!!! Budapest prémium",
+   "id": "h10903207",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10903207",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     299.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10899959": {
+   "price": 248.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 741,
+   "year": 1950,
+   "note": "PANORÁMÁS,2-3 GENERÁCIÓS HÁZA FRANCIA ISKOLA KÖZELÉBENII/a. kerületben, Máriaremetén, a",
+   "id": "h10899959",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10899959",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     248.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10897972": {
+   "price": 249.9,
+   "rooms": "5",
+   "m2": null,
+   "telek": 998,
+   "year": 2010,
+   "note": "BUDALIGET, ON A 998 SQUARE METER PLOT (Lke-2/SZ-10), A 160 SQUARE METER FAMILY HOUSE (2010)for",
+   "id": "h10897972",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10897972",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     249.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10897617": {
+   "price": 535.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 964,
+   "year": 2007,
+   "note": "Exkluzív családi otthon Pesthidegkút-Ófaluban tágas terek, wellness részleg, kiváló",
+   "id": "h10897617",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10897617",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     535.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10897484": {
+   "price": 239.9,
+   "rooms": "6",
+   "m2": null,
+   "telek": 721,
+   "year": 1989,
+   "note": "Eladó egy pazar környezetben lévő, felújítást igénylő, kétgenerációs 290m2-es családi",
+   "id": "h10897484",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10897484",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     239.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10871941": {
+   "price": 479.9,
+   "rooms": "6",
+   "m2": null,
+   "telek": 947,
+   "year": 2001,
+   "note": "Panorámás, teljesen modernizált családi ház eladó Budapest II. kerületében! A II. kerület",
+   "id": "h10871941",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10871941",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     479.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10771292": {
+   "price": 759.0,
+   "rooms": "8",
+   "m2": null,
+   "telek": 1329,
+   "year": 2002,
+   "note": "Exkluzív lehetőség a II. kerület egyik legkeresettebb részén, Szemlőhegyen. Közel 500 nm",
+   "id": "h10771292",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10771292",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     759.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10763849": {
+   "price": 299.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 732,
+   "year": 2026,
+   "note": "Pesthidegkút-Ófaluban, csendes, forgalomtól mentes zsákutcában kínálunk eladásra egy",
+   "id": "h10763849",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10763849",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     299.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10759168": {
+   "price": 390.0,
+   "rooms": "4",
+   "m2": null,
+   "telek": 1373,
+   "year": 2026,
+   "note": "II. kerületi Luxusvilla Féláron megszerezhető profit, saját igényre szabva!Keresi az",
+   "id": "h10759168",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10759168",
+   "area": "II. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     390.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10953171": {
+   "price": 1399.0,
+   "rooms": "8+1",
+   "m2": null,
+   "telek": 780,
+   "year": 1922,
+   "note": "PÁRATLAN ELEGANCIA A VÁROSMAJOR SZÍVÉBEN! EXKLUZÍV LUXUSVILLA ELADÓ! Budapest egyik",
+   "id": "h10953171",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10953171",
+   "area": "XII. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     1399.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10952204": {
+   "price": 899.0,
+   "rooms": "8",
+   "m2": null,
+   "telek": 1368,
+   "year": 1919,
+   "note": "Klasszikus nagypolgári villa a Kissvábhegyen, Vár-panorámával, 1368 m²-es ősfás saroktelken",
+   "id": "h10952204",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10952204",
+   "area": "XII. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     899.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10906548": {
+   "price": 1399.0,
+   "rooms": "8+1",
+   "m2": null,
+   "telek": 780,
+   "year": 1922,
+   "note": "PÁRATLAN ELEGANCIA A VÁROSMAJOR SZÍVÉBEN! EXKLUZÍV LUXUSVILLA ELADÓ! Budapest egyik",
+   "id": "h10906548",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10906548",
+   "area": "XII. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     1399.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10952233": {
+   "price": 349.9,
+   "rooms": "8",
+   "m2": null,
+   "telek": 1024,
+   "year": 2004,
+   "note": "A III. kerület egyik csendes, zsákutcás részén kínálunk megvételre egy különleges, római",
+   "id": "h10952233",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10952233",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     349.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10953013": {
+   "price": 379.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 616,
+   "year": 2011,
+   "note": "Egész évben nyaralás! Budapesten III. kerületben, Római-part árvízmentes részén",
+   "id": "h10953013",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10953013",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     379.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10952779": {
+   "price": 199.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 491,
+   "year": 1930,
+   "note": "Vannak ingatlanok, amelyek kész otthont kínálnak, és vannak, amelyek ennél többet:",
+   "id": "h10952779",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10952779",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     199.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10950474": {
+   "price": 385.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 1001,
+   "year": 2008,
+   "note": "Exkluzív, medencés villa Óbudán - panorámás otthon a Mészkő Park közelében Óbuda egyik",
+   "id": "h10950474",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10950474",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     385.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10949066": {
+   "price": 69.0,
+   "rooms": "3+1",
+   "m2": null,
+   "telek": 378,
+   "year": null,
+   "note": "Eladó ez a kedves kis szabadon álló családi ház Budapest III. kerületében, Csillaghegy és",
+   "id": "h10949066",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10949066",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     69.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10948820": {
+   "price": 219.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 563,
+   "year": 1990,
+   "note": "Csillaghegy Dunai felöli oldalának egyik nyugodt utcájában ELADÓ egy 118 négyzetméteres 2",
+   "id": "h10948820",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10948820",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     219.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10930336": {
+   "price": 429.0,
+   "rooms": "9",
+   "m2": null,
+   "telek": 790,
+   "year": 1930,
+   "note": "Rómaifürdő egyik legelegánsabb részén Dósa utcában ELADÓ egy három szintes 9 szobás 450",
+   "id": "h10930336",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10930336",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     429.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10926075": {
+   "price": 429.0,
+   "rooms": "7",
+   "m2": null,
+   "telek": 907,
+   "year": 2009,
+   "note": "ELADÓ 432,5 NM CSALÁDI HÁZ TESTVÉRHEGYEN! 338.000.000 Ft + Áfa az ingatlan irány ára ( a",
+   "id": "h10926075",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10926075",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     429.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10924725": {
+   "price": 259.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 1291,
+   "year": 1987,
+   "note": "Csillaghegyen, sík, körbejárható, összesen 1.292 nm telken, átriumos családi ház Eladó.",
+   "id": "h10924725",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10924725",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     259.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10802579": {
+   "price": 490.0,
+   "rooms": "8",
+   "m2": null,
+   "telek": 1084,
+   "year": 1986,
+   "note": "PANORÁMÁS ELEGÁNS VILLA ELADÓ TESTVÉRHEGY-REMETEHEGY EGYIK LEGEXKLUZÍVABB RÉSZÉN, AKÁR",
+   "id": "h10802579",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10802579",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     490.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10664888": {
+   "price": 126.0,
+   "rooms": "3+1",
+   "m2": null,
+   "telek": 360,
+   "year": 1980,
+   "note": "Kiváló lehetőség Csillaghegyen, a Duna közelében! Eladásra kínálunk Csillaghegy",
+   "id": "h10664888",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10664888",
+   "area": "III. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     126.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10953921": {
+   "price": 129.99,
+   "rooms": "9",
+   "m2": null,
+   "telek": 649,
+   "year": 1971,
+   "note": "Budapest X. kerület Óhegy városrészen, 255 nm nagyságú önálló családi ház eladó, 649 nm",
+   "id": "h10953921",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10953921",
+   "area": "X. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     129.99
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951477": {
+   "price": 59.9,
+   "rooms": "2",
+   "m2": null,
+   "telek": 300,
+   "year": 1930,
+   "note": "X. kerületben, a Bajcsy Kórház közelében, kis lakásszámú, rendezett társasházban eladó",
+   "id": "h10951477",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951477",
+   "area": "X. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     59.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951473": {
+   "price": 129.99,
+   "rooms": "9",
+   "m2": null,
+   "telek": 649,
+   "year": 1971,
+   "note": "Budapest X. kerület Óhegy városrészen, 255 nm nagyságú önálló családi ház eladó, 649 nm",
+   "id": "h10951473",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951473",
+   "area": "X. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     129.99
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951461": {
+   "price": 155.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 1612,
+   "year": 1940,
+   "note": "Ritka befektetési lehetőség a Richter Gedeon gyógyszergyár közelében! ELADÓ : X. kerület",
+   "id": "h10951461",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951461",
+   "area": "X. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     155.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951407": {
+   "price": 190.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 400,
+   "year": 2026,
+   "note": "Modern, kétszintes ÖNÁLLÓ CSALÁDI HÁZ! Budapest X. kerület egyik legnyugodtabb",
+   "id": "h10951407",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951407",
+   "area": "X. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     190.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10890148": {
+   "price": 145.0,
+   "rooms": "1+2",
+   "m2": null,
+   "telek": 1042,
+   "year": 1998,
+   "note": "NAGY TELEK, IKERHÁZ ÉPÍTÉSÉRE ALKALMAS BŐVÍTHETŐ HÁZZAL ELADÓ! 10.kerület Óhegyen a",
+   "id": "h10890148",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10890148",
+   "area": "X. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     145.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10760399": {
+   "price": 249.0,
+   "rooms": "6+1",
+   "m2": null,
+   "telek": 729,
+   "year": 1965,
+   "note": "***Kiválló lehetőség! Éljen vele!*** Budapest X. kerületének kedvelt részén eladó egy",
+   "id": "h10760399",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10760399",
+   "area": "X. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     249.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10953022": {
+   "price": 99.9,
+   "rooms": "6",
+   "m2": null,
+   "telek": 773,
+   "year": 1950,
+   "note": "Budapest XXI. kerületének kertvárosias részén, Csepel-Királyerdőben, a Széchenyi István",
+   "id": "h10953022",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10953022",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     99.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10952321": {
+   "price": 69.0,
+   "rooms": "2",
+   "m2": null,
+   "telek": 150,
+   "year": 1970,
+   "note": "Saját kert, saját otthon Csepelen 60 m²-es, jó állapotú ház a Medve utcábanBudapest XXI.",
+   "id": "h10952321",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10952321",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     69.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10952022": {
+   "price": 69.0,
+   "rooms": "2",
+   "m2": null,
+   "telek": 150,
+   "year": 1970,
+   "note": "Saját kert, saját otthon Csepelen 60 m²-es, jó állapotú ház a Medve utcában Budapest XXI.",
+   "id": "h10952022",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10952022",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     69.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951894": {
+   "price": 90.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 553,
+   "year": 1970,
+   "note": "Csepelen, a Királyerdő közkedvelt részén. Az ingatlan tégla építésű",
+   "id": "h10951894",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951894",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     90.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951763": {
+   "price": 69.0,
+   "rooms": "2",
+   "m2": null,
+   "telek": 150,
+   "year": 1970,
+   "note": "Családias otthon saját kerttel Csepel közkedvelt részén A Medve utcában! Csepel egyik",
+   "id": "h10951763",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951763",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     69.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951435": {
+   "price": 166.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 543,
+   "year": 1988,
+   "note": "Különálló ház jó adottságokkal Tágas, kétgenerációs otthon Csepelen, a Királyerdőben",
+   "id": "h10951435",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951435",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     166.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951401": {
+   "price": 90.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 553,
+   "year": 1970,
+   "note": "Csepelen, a Királyerdő közkedvelt részén. Az ingatlan tégla építésű",
+   "id": "h10951401",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951401",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     90.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951397": {
+   "price": 178.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 456,
+   "year": 1995,
+   "note": "Budapest XXI. kerület Csepel kertvárosi részén, a Kis-Duna közelében családi ház eladó",
+   "id": "h10951397",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951397",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     178.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10924451": {
+   "price": 89.9,
+   "rooms": "7",
+   "m2": null,
+   "telek": 545,
+   "year": 1980,
+   "note": "Többfunkciós ingatlan Csepel-Királyerdőn - Felújítandó ház hatalmas potenciállal és",
+   "id": "h10924451",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10924451",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     89.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10923378": {
+   "price": 65.0,
+   "rooms": "2",
+   "m2": null,
+   "telek": 600,
+   "year": 1950,
+   "note": "Csepel-Királyerdőn Önálló Családi ház 600 m²-es telken Kiváló lehetőség!Budapest XXI.",
+   "id": "h10923378",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10923378",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     65.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10913757": {
+   "price": 164.9,
+   "rooms": "10",
+   "m2": null,
+   "telek": 676,
+   "year": 1998,
+   "note": "Eladó többgenerációs családi ház Csepelen, gyönyörű, parkosított telken. Kiváló",
+   "id": "h10913757",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10913757",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     164.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10893363": {
+   "price": 67.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 1087,
+   "year": 1975,
+   "note": "2 generációs, klímás, hitelezhető, téglaépítésű, önálló, családi ház eladó Csepelen",
+   "id": "h10893363",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10893363",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     67.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10846676": {
+   "price": 65.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 633,
+   "year": 1980,
+   "note": "Csepelen eladó 633 nm-es telek, rajta 2 épülettel. a házak tetőcserélye megtörtént, a",
+   "id": "h10846676",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10846676",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     65.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10845292": {
+   "price": 69.0,
+   "rooms": "2",
+   "m2": null,
+   "telek": 150,
+   "year": 1970,
+   "note": "Családias otthon kertkapcsolattal Csepel közkedvelt részén a Medve utcában! Ha olyan otthont",
+   "id": "h10845292",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10845292",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     69.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10822328": {
+   "price": 125.5,
+   "rooms": "5",
+   "m2": null,
+   "telek": 715,
+   "year": 1934,
+   "note": "Csepel nyugalmas, családi házas övezetében, nem messze a Kis-Dunától eladó egy polgári",
+   "id": "h10822328",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10822328",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     125.5
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10822301": {
+   "price": 134.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 800,
+   "year": 1980,
+   "note": "BEFEKTETŐI ARANYBÁNYA CSEPELEN 4 FUNKCIÓ EGY ÁRÁÉRT! LAKHATÁS ÉS AZONNALI PASSZÍV",
+   "id": "h10822301",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10822301",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     134.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10818415": {
+   "price": 45.9,
+   "rooms": "1",
+   "m2": null,
+   "telek": 563,
+   "year": 2023,
+   "note": "Eladásra kínálunk Csepel beruházási részén egy 563m2-es építési telket. (besorolása",
+   "id": "h10818415",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10818415",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     45.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10799606": {
+   "price": 59.0,
+   "rooms": "3",
+   "m2": null,
+   "telek": 100,
+   "year": 1999,
+   "note": "Budapest XXI. kerületében, Csepelen eladó egy körülbelül 55 m² alapterületű családi ház",
+   "id": "h10799606",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10799606",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     59.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10799584": {
+   "price": 87.5,
+   "rooms": "3",
+   "m2": null,
+   "telek": 929,
+   "year": 1940,
+   "note": "Budapesten a XXI.kerületben, frekventált helyen eladó, egy tégla építésű családi ház",
+   "id": "h10799584",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10799584",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     87.5
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10763549": {
+   "price": 69.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 100,
+   "year": 1999,
+   "note": "** Csepeli családi ház komplexum, két teljesen elkülöníthető lakórésszel kivételes",
+   "id": "h10763549",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10763549",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     69.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10763540": {
+   "price": 114.9,
+   "rooms": "4",
+   "m2": null,
+   "telek": 586,
+   "year": 1970,
+   "note": "Eladó per- és tehermentes ikerház Csepel egyik legszebb utcájában!Megvételre kínálunk egy",
+   "id": "h10763540",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10763540",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     114.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10747547": {
+   "price": 89.9,
+   "rooms": "7",
+   "m2": null,
+   "telek": 545,
+   "year": 1980,
+   "note": "Eladó szerkezetkész családi ház Csepel Királyerdőben545 m² telek közel 300 m² lakótér",
+   "id": "h10747547",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10747547",
+   "area": "XXI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     89.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10947852": {
+   "price": 599.0,
+   "rooms": "6+1",
+   "m2": null,
+   "telek": 723,
+   "year": 1938,
+   "note": "Budapest egyik különleges építészeti értékét kínáljuk megvételre a Sas-hegy keleti",
+   "id": "h10947852",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10947852",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     599.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10947642": {
+   "price": 599.0,
+   "rooms": "6+1",
+   "m2": null,
+   "telek": 723,
+   "year": 1938,
+   "note": "Budapest egyik különleges építészeti értékét kínáljuk megvételre a Sas-hegy keleti",
+   "id": "h10947642",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10947642",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     599.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10953439": {
+   "price": 430.0,
+   "rooms": "3+3",
+   "m2": null,
+   "telek": 654,
+   "year": 1996,
+   "note": "Sasadon zöldövezeti, természetvédelmi terület melletti elhelyezkedés",
+   "id": "h10953439",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10953439",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     430.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10953427": {
+   "price": 850.0,
+   "rooms": "11",
+   "m2": null,
+   "telek": 1765,
+   "year": 1980,
+   "note": "ELADÓ, JELENLEG MAGÁNKLINIKAKÉNT MŰKÖDŐ, 500 M²-ES KÉTSZINTES CSALÁDI HÁZ NAGY MÉRETŰ",
+   "id": "h10953427",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10953427",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     850.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10952723": {
+   "price": 330.0,
+   "rooms": "6",
+   "m2": null,
+   "telek": 1601,
+   "year": 2004,
+   "note": "RITKA LEHETŐSÉG XI. KERÜLET ÉS BUDAÖRS TALÁLKOZÁSÁNÁL – NAGY TELKEN ÁLLÓ, RUGALMASAN",
+   "id": "h10952723",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10952723",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     330.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10951080": {
+   "price": 199.999,
+   "rooms": "5",
+   "m2": null,
+   "telek": 284,
+   "year": 1960,
+   "note": "Többgenerációs családi ház Kelenföldön akár otthon és vállalkozás egy helyen Budapest",
+   "id": "h10951080",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10951080",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     199.999
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10950404": {
+   "price": 850.0,
+   "rooms": "11",
+   "m2": null,
+   "telek": 1765,
+   "year": 1980,
+   "note": "ELADÓ, JELENLEG MAGÁNKLINIKAKÉNT MŰKÖDŐ, 500 M²-ES KÉTSZINTES CSALÁDI HÁZ NAGY MÉRETŰ",
+   "id": "h10950404",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10950404",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     850.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10922109": {
+   "price": 599.0,
+   "rooms": "5",
+   "m2": null,
+   "telek": 1039,
+   "year": 2026,
+   "note": "Rejtett harmónia a Sasadi lankákon 464 m²-es családi rezidencia a 11. kerületbenVannak",
+   "id": "h10922109",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10922109",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     599.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10758822": {
+   "price": 81.9,
+   "rooms": "3",
+   "m2": null,
+   "telek": 650,
+   "year": 2008,
+   "note": "Kétszintes családi ház, nagy kerttel, garázzsal, tárolóval a XI.kerületben eladó",
+   "id": "h10758822",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10758822",
+   "area": "XI. kerület",
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "active": true,
+   "price_history": [
+    [
+     "2026-10-03",
+     81.9
+    ]
+   ]
   }
  },
  "runs": [
@@ -65379,6 +68575,86 @@
      "pages": 6,
      "failed": [],
      "cards": 115
+    }
+   }
+  },
+  {
+   "date": "2026-10-03",
+   "report": {
+    "Göd": {
+     "pages": 8,
+     "failed": [],
+     "cards": 145
+    },
+    "Veresegyház": {
+     "pages": 10,
+     "failed": [],
+     "cards": 184
+    },
+    "Pomáz": {
+     "pages": 5,
+     "failed": [],
+     "cards": 96
+    },
+    "Szentendre": {
+     "pages": 15,
+     "failed": [],
+     "cards": 284
+    },
+    "Fót": {
+     "pages": 10,
+     "failed": [],
+     "cards": 190
+    },
+    "Csömör": {
+     "pages": 5,
+     "failed": [],
+     "cards": 99
+    },
+    "XIV. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 111
+    },
+    "XV. kerület": {
+     "pages": 14,
+     "failed": [],
+     "cards": 278
+    },
+    "XVI. kerület": {
+     "pages": 26,
+     "failed": [],
+     "cards": 508
+    },
+    "II. kerület": {
+     "pages": 19,
+     "failed": [],
+     "cards": 361
+    },
+    "XII. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 96
+    },
+    "III. kerület": {
+     "pages": 15,
+     "failed": [],
+     "cards": 300
+    },
+    "X. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 94
+    },
+    "XXI. kerület": {
+     "pages": 15,
+     "failed": [],
+     "cards": 283
+    },
+    "XI. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 119
     }
    }
   }
