@@ -28,6 +28,10 @@ jobs:
         run: |
           git config user.name "findhouse-bot"
           git config user.email "findhouse-bot@users.noreply.github.com"
-          git add data/state.json docs/
+          git add data/state.json
           git diff --cached --quiet || git commit -m "Napi frissítés $(date +%F)"
+          git pull --rebase   # ha közben kódváltozás érkezett
+          python -m findhouse --build
+          git add docs/
+          git diff --cached --quiet || git commit -m "Oldal frissítése $(date +%F)"
           git push

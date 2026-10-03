@@ -95,12 +95,21 @@ tr.hiddenrow{opacity:.45}
 footer{color:var(--muted);font-size:12px;max-width:90ch}
 .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:8px 14px;border-radius:8px;font-size:13px}
 @media (prefers-reduced-motion:no-preference){.chip,.btn{transition:background .12s,border-color .12s}}
+tr.is-new td{background:var(--good-bg)}
+tr.is-relisted td{background:var(--warn-bg)}
+tr.is-today td:first-child{box-shadow:inset 5px 0 var(--good)}
+tr.is-relisted.is-today td:first-child{box-shadow:inset 5px 0 var(--warn)}
+.seen{font-family:var(--mono);font-size:12px;white-space:nowrap}
+.seen small{display:block;font-family:var(--sans);color:var(--muted);font-size:11px;white-space:normal;min-width:90px}
+.badge{display:inline-block;font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;border-radius:4px;padding:1px 5px;margin-left:4px;background:var(--good);color:var(--surface)}
+.badge.re{background:var(--warn)}
+.swatch{display:inline-block;width:14px;height:14px;border-radius:3px;vertical-align:-2px;margin-right:6px;border:1px solid var(--line)}
 </style>
 
 <div class="wrap">
   <header>
     <h1>FindHouse · __PMIN__–__PMAX__ millió</h1>
-    <p class="lede">Családi házak a kiválasztott településeken és kerületekben, a <b>koltozzbe.hu</b> hirdetései alapján. Utolsó frissítés: <b>__DATE__</b>. Ha ugyanazt a házat több iroda is hirdeti, egy sorba vontam, a legalacsonyabb árral. Az „új hirdetés” és „árcsökkenés” jelzés az előző futásokhoz képest értendő.</p>
+    <p class="lede">Családi házak a kiválasztott településeken és kerületekben, a <b>koltozzbe.hu</b> hirdetései alapján. Utolsó frissítés: <b>__DATE__</b>. Ha ugyanazt a házat több iroda is hirdeti, egy sorba vontam, a legalacsonyabb árral. A <b>zöld</b> sor új hirdetés, a <b>sárga</b> sor újra feltett ház (korábban már fent volt, eltűnt, majd újra megjelent). Az utolsó napon érkezettek bal szélén vastag csík és „MA” címke van.</p>
   </header>
 
   <section class="panel" aria-label="Szűrők">
@@ -124,6 +133,8 @@ footer{color:var(--muted);font-size:12px;max-width:90ch}
       <div class="chips" id="flagchips"></div>
     </div>
     <div class="row">
+      <button class="chip" id="onlynew" aria-pressed="false">Csak az újak <span class="ct" id="ctnew"></span></button>
+      <button class="chip" id="onlyre" aria-pressed="false">Csak az újra feltettek <span class="ct" id="ctre"></span></button>
       <button class="chip" id="onlystar" aria-pressed="false">★ Csak a kedvencek</button>
       <button class="chip" id="showhidden" aria-pressed="false">Kizártak mutatása</button>
       <button class="btn" id="reset">Szűrők törlése</button>
@@ -144,6 +155,8 @@ footer{color:var(--muted);font-size:12px;max-width:90ch}
   </div>
 
   <div class="legend">
+    <div><span class="swatch" style="background:var(--good-bg)"></span>új hirdetés az utolsó 3 napból; a vastag bal csík és a „MA” címke a legutóbbi futásban érkezetteket jelöli</div>
+    <div><span class="swatch" style="background:var(--warn-bg)"></span>újra feltéve: ugyanez a ház (azonos terület, szoba, m², telek, építési év) korábban már hirdetve volt; a „Feltéve” oszlopban látod, mikor jelent meg először és milyen áron</div>
     <div><span class="tag t-crit">gyanús szobaszám</span> kevesebb mint 22 m² jut egy szobára, ezért érdemes alaprajzot kérni</div>
     <div><span class="tag t-warn">új / épülő</span> nézd meg a telek tulajdonosát, az engedélyt és a műszaki tartalmat</div>
     <div><span class="tag t-warn">üdülőövezet</span> ilyenkor a hitel és a CSOK gondot okozhat</div>
@@ -158,7 +171,7 @@ footer{color:var(--muted);font-size:12px;max-width:90ch}
 const DATA = __DATA__;
 const TOWNS = __TOWNS__;
 const FLAGS = [
-  ["új hirdetés","t-good"],["árcsökkenés","t-good"],
+  ["új hirdetés","t-good"],["újra feltéve","t-warn"],["árcsökkenés","t-good"],
   ["telek < 300 m²","t-crit"],["házrész / megosztott","t-crit"],["nyaraló / üdülő","t-crit"],["haszonélvezet","t-crit"],["nem hitelezhető","t-crit"],
   ["gyanús szobaszám","t-crit"],["új / épülő","t-warn"],
   ["felújítandó","t-warn"],["régi építés","t-info"],["kis telek","t-info"],
@@ -174,7 +187,7 @@ const store = {
 };
 let stars = new Set(store.get("hl_stars", []));
 let hides = new Set(store.get("hl_hides", []));
-const defaults = {towns:[...TOWNS], pmin:"", pmax:"", rmin:"", m2min:"", tmin:"", ymin:"", bmax:"", cmax:"", q:"", hideFlags:[...EXCLUDE], onlyStar:false, showHidden:false, sort:"price", dir:1};
+const defaults = {towns:[...TOWNS], pmin:"", pmax:"", rmin:"", m2min:"", tmin:"", ymin:"", bmax:"", cmax:"", q:"", hideFlags:[...EXCLUDE], onlyStar:false, onlyNew:false, onlyRe:false, showHidden:false, sort:"price", dir:1};
 let S = Object.assign({}, defaults, store.get("hl_state3", {}));
 
 const $ = id => document.getElementById(id);
@@ -202,7 +215,7 @@ FLAGS.forEach(([f])=>{
 const COLS = [
   ["town","Település",""],["price","Ár (M Ft)","num"],["rsum","Szoba","num"],["m2","Alapter. m²","num"],
   ["telek","Telek m²","num"],["year","Épült","num"],["ppm","Ft/m²","num"],["bkv","Tömegk. → Belváros","num"],["car","Autó → Munkahely","num"],["note","Megjegyzés",""],
-  ["flags","Jelzések",""],["url","Hirdetés",""],["acts","",""]
+  ["first_seen","Feltéve",""],["flags","Jelzések",""],["url","Hirdetés",""],["acts","",""]
 ];
 function head(){
   $("thead").innerHTML = COLS.map(([k,l,c])=>{
@@ -211,7 +224,7 @@ function head(){
     return `<th class="${c}" ${sorted?`aria-sort="${S.dir>0?"ascending":"descending"}"`:""}><button type="button" data-k="${k}">${l}<span class="arr">${sorted?(S.dir>0?"▲":"▼"):"↕"}</span></button></th>`;
   }).join("");
   $("thead").querySelectorAll("button").forEach(b=>b.onclick=()=>{
-    const k=b.dataset.k; if(S.sort===k) S.dir*=-1; else {S.sort=k; S.dir = (k==="year"||k==="m2"||k==="telek"||k==="rsum")?-1:1;} render();
+    const k=b.dataset.k; if(S.sort===k) S.dir*=-1; else {S.sort=k; S.dir = (k==="first_seen"||k==="year"||k==="m2"||k==="telek"||k==="rsum")?-1:1;} render();
   });
 }
 const num = v => v===""||v==null ? null : Number(v);
@@ -230,6 +243,8 @@ function filtered(){
     if(bmax!=null && d.bkv[0]>bmax) return false;
     if(cmax!=null && d.car[0]>cmax) return false;
     if(S.hideFlags.some(f=>d.flags.includes(f))) return false;
+    if(S.onlyNew && d.status!=="new") return false;
+    if(S.onlyRe && d.status!=="relisted") return false;
     if(S.onlyStar && !stars.has(d.id)) return false;
     if(!S.showHidden && hides.has(d.id)) return false;
     if(q && !(d.note+" "+d.town+" "+d.rooms+" "+d.flags.join(" ")).toLowerCase().includes(q)) return false;
@@ -247,7 +262,11 @@ function row(d){
   const alt = d.others.length ? `<span class="alt">máshol: ${d.others.map(fmtP).join(", ")}</span>` : "";
   const more = d.dupurls.length ? `<details><summary>+${d.dupurls.length} hirdetés</summary>${d.dupurls.map(u=>`<a href="${u}" target="_blank" rel="noopener">${u.split("/").pop()}</a>`).join("")}</details>` : "";
   const flags = d.flags.map(f=>`<span class="tag ${FLAGCLS[f]||"t-info"}">${f}</span>`).join("");
-  return `<tr class="${st?"starred":""} ${hd?"hiddenrow":""}">
+  const md = s => s ? s.slice(5).replace("-",".")+"." : "";
+  const badge = d.today ? `<span class="badge${d.status==="relisted"?" re":""}">ma</span>` : "";
+  const orig = d.orig_first ? `<small>először ${md(d.orig_first)}${d.orig_price?` · ${fmtP(d.orig_price)} M`:""}</small>` : "";
+  const cls = d.status==="new" ? "is-new" : d.status==="relisted" ? "is-relisted" : "";
+  return `<tr class="${cls} ${d.today?"is-today":""} ${st?"starred":""} ${hd?"hiddenrow":""}">
     <td><span class="town">${d.town}</span><span class="transit">${d.transit}</span></td>
     <td class="num"><span class="price">${fmtP(d.price)}</span>${alt}</td>
     <td class="num">${d.rooms ?? "—"}</td>
@@ -258,6 +277,7 @@ function row(d){
     <td class="num">${d.bkv[0]}–${d.bkv[1]}′</td>
     <td class="num">${d.car[0]}–${d.car[1]}′</td>
     <td class="note">${d.note || '<span style="color:var(--muted)">—</span>'}</td>
+    <td class="seen">${md(d.first_seen)}${badge}${orig}</td>
     <td><div class="flags">${flags}</div></td>
     <td class="links"><a href="${d.url}" target="_blank" rel="noopener">Megnyitás ↗</a>${more}</td>
     <td><div class="acts">
@@ -274,6 +294,8 @@ function render(){
   townBox.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed", S.towns.includes(b.dataset.town)));
   flagBox.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed", S.hideFlags.includes(b.dataset.flag)));
   $("onlystar").setAttribute("aria-pressed", S.onlyStar);
+  $("onlynew").setAttribute("aria-pressed", S.onlyNew);
+  $("onlyre").setAttribute("aria-pressed", S.onlyRe);
   $("showhidden").setAttribute("aria-pressed", S.showHidden);
   head();
   current = filtered();
@@ -285,6 +307,10 @@ function render(){
 }
 
 ["pmin","pmax","rmin","m2min","tmin","ymin","bmax","cmax","q"].forEach(k=>$(k).addEventListener("input",e=>{S[k]=e.target.value; render();}));
+$("onlynew").onclick=()=>{S.onlyNew=!S.onlyNew; if(S.onlyNew) S.onlyRe=false; render();};
+$("onlyre").onclick=()=>{S.onlyRe=!S.onlyRe; if(S.onlyRe) S.onlyNew=false; render();};
+$("ctnew").textContent=DATA.filter(d=>d.status==="new").length;
+$("ctre").textContent=DATA.filter(d=>d.status==="relisted").length;
 $("onlystar").onclick=()=>{S.onlyStar=!S.onlyStar; render();};
 $("showhidden").onclick=()=>{S.showHidden=!S.showHidden; render();};
 $("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE]}); render();};
@@ -296,8 +322,8 @@ $("tbody").addEventListener("click",e=>{
 
 function toast(msg){ const t=$("toast"); t.textContent=msg; t.hidden=false; clearTimeout(toast._t); toast._t=setTimeout(()=>t.hidden=true,2200); }
 $("copy").onclick=()=>{
-  const hdr=["Település","Ár (M Ft)","Szoba","Alapterület m²","Telek m²","Épült","Ft/m²","Tömegk. belváros (perc)","Autó munkahely (perc)","Megjegyzés","Jelzések","Hirdetések száma","Link","Kedvenc"];
-  const lines=[hdr.join("\t")].concat(current.map(d=>[d.town,String(d.price).replace(".",","),d.rooms??"",d.m2??"",d.telek??"",d.year??"",d.ppm??"",d.bkv.join("–"),d.car.join("–"),d.note,d.flags.join(", "),d.n,d.url,stars.has(d.id)?"★":""].join("\t")));
+  const hdr=["Település","Ár (M Ft)","Szoba","Alapterület m²","Telek m²","Épült","Ft/m²","Tömegk. belváros (perc)","Autó munkahely (perc)","Megjegyzés","Feltéve","Jelzések","Hirdetések száma","Link","Kedvenc"];
+  const lines=[hdr.join("\t")].concat(current.map(d=>[d.town,String(d.price).replace(".",","),d.rooms??"",d.m2??"",d.telek??"",d.year??"",d.ppm??"",d.bkv.join("–"),d.car.join("–"),d.note,d.first_seen+(d.orig_first?" (először "+d.orig_first+")":""),d.flags.join(", "),d.n,d.url,stars.has(d.id)?"★":""].join("\t")));
   const txt=lines.join("\n");
   const fallback=()=>{ const ta=document.createElement("textarea"); ta.value=txt; ta.style.position="fixed"; ta.style.opacity="0"; document.body.appendChild(ta); ta.select(); try{document.execCommand("copy"); toast(`${current.length} sor a vágólapon`);}catch(e){toast("A másolás nem sikerült");} ta.remove(); };
   if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(txt).then(()=>toast(`${current.length} sor a vágólapon, illeszd be Excelbe vagy Sheetsbe`)).catch(fallback); } else fallback();

@@ -7,7 +7,8 @@ Saját házkereső: minden nap letölti a koltozzbe.hu családiház-hirdetéseit
 - **Területek és ársáv:** a `config.json`-ban állíthatók. Most 6 település (Göd, Veresegyház, Pomáz, Szentendre, Fót, Csömör) és 9 kerület (XIV., XV., XVI., X., XXI., II., XII., III., XI.), 50–130 millió Ft között. Alapból rejtve: 300 m² alatti telek, házrész, nyaraló, haszonélvezet, nem hitelezhető (a hirdetés rövid szövege alapján).
 - **Összevonás:** ha ugyanazt a házat több iroda hirdeti (egyezik a terület, a szobaszám, az m², a telek és az építési év), egy sorba kerül, a legalacsonyabb árral.
 - **Jelzések:**
-  - új hirdetés (az utolsó 3 napban jelent meg)
+  - új hirdetés (az utolsó 3 napban jelent meg; zöld sor, a legutóbbi futás újdonságai „MA” címkével)
+  - újra feltéve (ugyanez a ház korábban már fent volt, eltűnt, majd új vagy ugyanazzal a hirdetéssel visszakerült; sárga sor, az első megjelenés dátumával és árával)
   - árcsökkenés
   - gyanús szobaszám (kevesebb mint 22 m² jut egy szobára)
   - új vagy épülő ház

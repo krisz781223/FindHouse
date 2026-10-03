@@ -33,6 +33,9 @@ def update_state(state: dict, rows: list[dict], report: dict, today: str) -> dic
             L[key] = {**r, "first_seen": today, "last_seen": today, "active": True,
                       "price_history": [[today, r["price"]]]}
         else:
+            if not cur.get("active", True):
+                # ugyanaz a hirdetés eltűnt, majd újra megjelent
+                cur.setdefault("relisted", []).append(today)
             if cur["price_history"][-1][1] != r["price"]:
                 cur["price_history"].append([today, r["price"]])
             for k in ("price", "rooms", "m2", "telek", "year", "area"):
@@ -74,7 +77,17 @@ def build_rows(state: dict, cfg: dict, today: str) -> list[dict]:
     areas = {a["name"]: a for a in cfg["areas"]}
     lo, hi = cfg["price_min"], cfg["price_max"]
     new_after = (dt.date.fromisoformat(today) - dt.timedelta(days=cfg["new_days"])).isoformat()
-    active = [x for x in state["listings"].values() if x.get("active") and x.get("area") in areas]
+    # Az első teljes letöltés napján látott hirdetések a kiindulási állapot, nem "újak".
+    full_runs = [r["date"] for r in state.get("runs", []) if isinstance(r.get("report"), dict)]
+    baseline = full_runs[0] if full_runs else today
+    new_after = max(new_after, baseline)
+    alls = list(state["listings"].values())
+    active = [x for x in alls if x.get("active") and x.get("area") in areas]
+    # inaktív (eltűnt) hirdetések ujjlenyomat szerint, az újrafeltöltések felismeréséhez
+    gone = defaultdict(list)
+    for x in alls:
+        if not x.get("active") and x.get("m2") and x.get("telek"):
+            gone[(x["area"], x.get("rooms"), x.get("m2"), x.get("telek"), x.get("year"))].append(x)
     groups = defaultdict(list)  # same house listed by several agencies
     for x in active:
         groups[(x["area"], x.get("rooms"), x.get("m2"), x.get("telek"), x.get("year"))].append(x)
@@ -87,10 +100,24 @@ def build_rows(state: dict, cfg: dict, today: str) -> list[dict]:
         a = areas[m["area"]]
         rsum, flags = _flags(m.get("rooms"), m.get("m2"), m.get("telek"), m.get("year"), m.get("note"))
         first_seen = min(x["first_seen"] for x in g)
-        if first_seen > new_after:
+        key = (m["area"], m.get("rooms"), m.get("m2"), m.get("telek"), m.get("year"))
+        earlier = [x for x in gone.get(key, []) if x["first_seen"] < first_seen]
+        relisted_same = [d for x in g for d in x.get("relisted", [])]
+        status, orig_first, orig_price, fresh = "", first_seen, None, first_seen
+        if earlier or relisted_same:
+            # ugyanez a ház korábban már fent volt
+            src = min(earlier, key=lambda x: x["first_seen"]) if earlier else m
+            orig_first = min([first_seen] + [x["first_seen"] for x in earlier])
+            orig_price = src["price_history"][0][1]
+            since = fresh = max(relisted_same) if relisted_same else first_seen
+            if since > new_after:
+                status = "relisted"
+                flags.insert(0, "újra feltéve")
+        elif first_seen > new_after:
+            status = "new"
             flags.insert(0, "új hirdetés")
         hist = m["price_history"]
-        if len(hist) > 1 and hist[-1][1] < max(p for _, p in hist):
+        if (len(hist) > 1 and hist[-1][1] < max(p for _, p in hist)) or (orig_price and m["price"] < orig_price):
             flags.insert(0, "árcsökkenés")
         bkv = list(a["bkv"])
         if m["area"] == "Szentendre":
@@ -105,7 +132,9 @@ def build_rows(state: dict, cfg: dict, today: str) -> list[dict]:
             note=m.get("note") or "", flags=flags, n=len(g),
             others=sorted({x["price"] for x in g[1:] if x["price"] != m["price"]}),
             transit=a["transit"], url=m["url"], dupurls=[x["url"] for x in g[1:]],
-            bkv=bkv, car=list(a["car"]), first_seen=first_seen))
+            bkv=bkv, car=list(a["car"]), first_seen=first_seen, status=status,
+            today=bool(status) and fresh == today,
+            orig_first=orig_first if orig_first != first_seen else None, orig_price=orig_price))
     return out
 
 

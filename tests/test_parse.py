@@ -42,3 +42,42 @@ def test_pipeline_new_and_price_drop():
     assert rows[0]["price"] == 95 and "árcsökkenés" in rows[0]["flags"] and "új hirdetés" not in rows[0]["flags"]
     pipeline.update_state(st, [], rep, "2026-09-21")   # listing disappeared
     assert pipeline.build_rows(st, cfg, "2026-09-21") == []
+
+
+def _cfg():
+    return {"price_min": 50, "price_max": 130, "new_days": 3,
+            "areas": [{"name": "Göd", "slug": "god", "transit": "x", "bkv": [1, 2], "car": [3, 4]}],
+            "szentendre_bkv_overrides": {"near_hev": [0, 0], "hills": [0, 0]}}
+
+
+def test_baseline_new_and_relisted():
+    from findhouse import pipeline
+    rep = {"Göd": {"failed": []}}
+    a = {"url": "u1", "id": "h1", "area": "Göd", "price": 100, "rooms": "4", "m2": 120, "telek": 800, "year": 1999, "note": ""}
+    b = {"url": "u2", "id": "h2", "area": "Göd", "price": 90, "rooms": "3", "m2": 95, "telek": 600, "year": 1985, "note": ""}
+    st = {"listings": {}, "runs": []}
+    pipeline.update_state(st, [a], rep, "2026-10-02")          # first full run = baseline
+    rows = pipeline.build_rows(st, _cfg(), "2026-10-02")
+    assert rows[0]["status"] == "" and "új hirdetés" not in rows[0]["flags"]
+    pipeline.update_state(st, [a, b], rep, "2026-10-03")        # b is genuinely new
+    rows = {r["url"]: r for r in pipeline.build_rows(st, _cfg(), "2026-10-03")}
+    assert rows["u2"]["status"] == "new" and rows["u2"]["today"] and "új hirdetés" in rows["u2"]["flags"]
+    pipeline.update_state(st, [b], rep, "2026-10-04")           # a disappears
+    pipeline.update_state(st, [b, {**a, "url": "u3", "id": "h3", "price": 97}], rep, "2026-10-08")  # same house, new ad
+    rows = {r["url"]: r for r in pipeline.build_rows(st, _cfg(), "2026-10-08")}
+    r = rows["u3"]
+    assert r["status"] == "relisted" and "újra feltéve" in r["flags"] and "új hirdetés" not in r["flags"]
+    assert r["orig_first"] == "2026-10-02" and r["orig_price"] == 100 and "árcsökkenés" in r["flags"]
+    assert rows["u2"]["status"] == ""                           # older than 3 days
+
+
+def test_same_url_reappears():
+    from findhouse import pipeline
+    rep = {"Göd": {"failed": []}}
+    a = {"url": "u1", "id": "h1", "area": "Göd", "price": 100, "rooms": "4", "m2": 120, "telek": 800, "year": 1999, "note": ""}
+    st = {"listings": {}, "runs": []}
+    pipeline.update_state(st, [a], rep, "2026-10-02")
+    pipeline.update_state(st, [], rep, "2026-10-05")
+    pipeline.update_state(st, [a], rep, "2026-10-09")
+    r = pipeline.build_rows(st, _cfg(), "2026-10-09")[0]
+    assert r["status"] == "relisted" and r["today"]
