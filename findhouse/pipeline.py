@@ -138,11 +138,13 @@ def build_rows(state: dict, cfg: dict, today: str) -> list[dict]:
     return out
 
 
-def build_site(rows: list[dict], cfg: dict, today: str) -> None:
-    t = SITE_TEMPLATE.read_text("utf-8")
+def build_site(rows: list[dict], cfg: dict, today: str, template: Path = None, out: Path = None, data_json: bool = True) -> None:
+    t = (template or SITE_TEMPLATE).read_text("utf-8")
     t = t.replace("__DATA__", json.dumps(rows, ensure_ascii=False))
     t = t.replace("__TOWNS__", json.dumps([a["name"] for a in cfg["areas"]], ensure_ascii=False))
     t = t.replace("__DATE__", today).replace("__PMIN__", str(cfg["price_min"])).replace("__PMAX__", str(cfg["price_max"]))
-    SITE_OUT.parent.mkdir(parents=True, exist_ok=True)
-    SITE_OUT.write_text(t, "utf-8")
-    (SITE_OUT.parent / "data.json").write_text(json.dumps(rows, ensure_ascii=False), "utf-8")
+    out = out or SITE_OUT
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(t, "utf-8")
+    if data_json:
+        (out.parent / "data.json").write_text(json.dumps(rows, ensure_ascii=False), "utf-8")

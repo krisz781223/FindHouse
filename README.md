@@ -37,6 +37,10 @@ Az eredmény a `docs/index.html`, ezt böngészőben meg tudod nyitni. A `python
 
 Ha a futás napló „HTTP 403” vagy „Nothing scraped” hibát ír, a hirdetési oldal valószínűleg letiltja a GitHub szervereiről érkező kéréseket. Ilyenkor futtasd a saját gépedről (vagy egy Azure-ban futó időzített feladatból), és pushold fel az eredményt.
 
+## Közös jelölésű oldal (Claude)
+
+A `python -m findhouse --artifact kimenet.html` a legutóbbi letöltés adataiból a `site/artifact.html` sablonnal épít egy oldalt, amelyen a ★ és ✕ jelölések közösek (Claude-artifactként közzétéve). Egy napi ütemezett feladat ezzel frissíti a közös listát.
+
 ## Szerkezet
 
 | Útvonal | Mi van benne |
