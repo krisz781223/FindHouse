@@ -1,7 +1,7 @@
 """Usage:
   python -m findhouse            # scrape all areas, update state, rebuild the site
   python -m findhouse --build    # only rebuild the site from data/state.json
-  python -m findhouse --artifact OUT.html   # shared-marks page for Claude (site/artifact.html)
+  python -m findhouse --artifact OUT.html   # same page for Claude (shared marks when served there)
 """
 import argparse, json, logging, datetime as dt
 from pathlib import Path
@@ -23,7 +23,7 @@ def main():
         today = runs[-1] if runs else today
     if args.artifact:
         rows = pipeline.build_rows(state, cfg, today)
-        pipeline.build_site(rows, cfg, today, template=pipeline.ROOT / "site" / "artifact.html", out=Path(args.artifact), data_json=False)
+        pipeline.build_site(rows, cfg, today, out=Path(args.artifact), data_json=False)
         logging.info("artifact page built with %d houses -> %s", len(rows), args.artifact)
         return
     if not (args.build or args.artifact):

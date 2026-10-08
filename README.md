@@ -39,7 +39,7 @@ Ha a futás napló „HTTP 403” vagy „Nothing scraped” hibát ír, a hirde
 
 ## Közös jelölésű oldal (Claude)
 
-A `python -m findhouse --artifact kimenet.html` a legutóbbi letöltés adataiból a `site/artifact.html` sablonnal épít egy oldalt, amelyen a ★ és ✕ jelölések közösek (Claude-artifactként közzétéve). Egy napi ütemezett feladat ezzel frissíti a közös listát.
+A `python -m findhouse --artifact kimenet.html` a legutóbbi letöltés adataiból ugyanazzal a sablonnal épít egy oldalt, amelyen a ★ és ✕ jelölések közösek (Claude-artifactként közzétéve). Egy napi ütemezett feladat ezzel frissíti a közös listát.
 
 ## Szerkezet
 
