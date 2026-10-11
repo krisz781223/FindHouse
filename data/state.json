@@ -72448,10 +72448,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 84,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72479,6 +72480,7 @@
     "m2": 26,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72600,6 +72602,7 @@
     "m2": 81,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72627,6 +72630,7 @@
     "m2": 92,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72654,6 +72658,7 @@
     "m2": 68,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72764,10 +72769,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72842,6 +72848,7 @@
     "m2": 68,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72909,6 +72916,7 @@
     "m2": 44,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -72936,6 +72944,7 @@
     "m2": 44,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73050,6 +73059,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73104,6 +73114,7 @@
     "m2": 75,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73238,6 +73249,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73308,10 +73320,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 104,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73359,6 +73372,7 @@
     "m2": 31,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73386,6 +73400,7 @@
     "m2": 62,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73413,6 +73428,7 @@
     "m2": 52,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73460,6 +73476,7 @@
     "m2": 25,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73514,6 +73531,7 @@
     "m2": 75,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73541,6 +73559,7 @@
     "m2": 75,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73568,6 +73587,7 @@
     "m2": 75,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73635,6 +73655,7 @@
     "m2": 65,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73658,10 +73679,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 104,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -73769,6 +73791,7 @@
     "m2": 31,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74123,6 +74146,7 @@
     "m2": 104,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74150,6 +74174,7 @@
     "m2": 31,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74217,6 +74242,7 @@
     "m2": 77,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74264,6 +74290,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74311,6 +74338,7 @@
     "m2": 31,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74338,6 +74366,7 @@
     "m2": 31,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74365,6 +74394,7 @@
     "m2": 31,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -74412,6 +74442,7 @@
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103259,6 +103290,7 @@
     "m2": 63,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103333,6 +103365,7 @@
     "m2": 220,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103376,10 +103409,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 150,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103407,6 +103441,7 @@
     "m2": 56,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103430,10 +103465,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 88,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103457,10 +103493,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103484,10 +103521,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 52,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103515,6 +103553,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103616,6 +103655,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103663,6 +103703,7 @@
     "m2": 34,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103844,6 +103885,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -103938,6 +103980,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104012,6 +104055,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104066,6 +104110,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104093,6 +104138,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104180,6 +104226,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104207,6 +104254,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104234,6 +104282,7 @@
     "m2": 50,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104498,10 +104547,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104525,10 +104575,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104670,6 +104721,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104820,10 +104872,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -104974,10 +105027,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 56,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -105175,10 +105229,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -105336,10 +105391,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -105387,6 +105443,7 @@
     "m2": 40,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -105591,10 +105648,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106072,6 +106130,7 @@
     "m2": 230,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106139,6 +106198,7 @@
     "m2": 51,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106186,6 +106246,7 @@
     "m2": 40,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106269,10 +106330,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106296,10 +106358,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 140,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106354,6 +106417,7 @@
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106617,10 +106681,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106704,10 +106769,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106798,10 +106864,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -106865,10 +106932,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107012,10 +107080,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107173,10 +107242,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107220,10 +107290,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107247,10 +107318,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 90,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107461,10 +107533,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107515,10 +107588,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107546,6 +107620,7 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107683,10 +107758,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 71,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107710,10 +107786,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107737,10 +107814,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 190,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107889,6 +107967,7 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107936,6 +108015,7 @@
     "m2": 92,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -107959,10 +108039,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 152,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108050,6 +108131,7 @@
     "m2": 74,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108077,6 +108159,7 @@
     "m2": 78,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108104,6 +108187,7 @@
     "m2": 87,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108127,10 +108211,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 97,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108154,10 +108239,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 47,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108232,6 +108318,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108259,6 +108346,7 @@
     "m2": 105,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108286,6 +108374,7 @@
     "m2": 58,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108309,10 +108398,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 77,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108390,10 +108480,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108417,10 +108508,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 82,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108468,6 +108560,7 @@
     "m2": 79,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108518,10 +108611,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 43,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108549,6 +108643,7 @@
     "m2": 110,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108626,10 +108721,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108677,6 +108773,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108727,10 +108824,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 80,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108879,6 +108977,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -108906,6 +109005,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109023,10 +109123,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 43,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109050,10 +109151,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 76,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109101,6 +109203,7 @@
     "m2": 100,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109124,10 +109227,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 40,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109249,6 +109353,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109312,10 +109417,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 60,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109339,10 +109445,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 60,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109410,6 +109517,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109457,6 +109565,7 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109565,6 +109674,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109592,6 +109702,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109619,6 +109730,7 @@
     "m2": 180,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109646,6 +109758,7 @@
     "m2": 43,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109673,6 +109786,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109696,10 +109810,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 113,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109747,6 +109862,7 @@
     "m2": 95,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109801,6 +109917,7 @@
     "m2": 61,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109828,6 +109945,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109902,6 +110020,7 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -109992,10 +110111,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110110,6 +110230,7 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110164,6 +110285,7 @@
     "m2": 30,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110278,6 +110400,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110301,10 +110424,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 91,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110379,6 +110503,7 @@
     "m2": 29,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110402,10 +110527,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 179,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110460,6 +110586,7 @@
     "m2": 30,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110487,6 +110614,7 @@
     "m2": 58,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110557,10 +110685,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 91,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110658,10 +110787,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 43,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110689,6 +110819,7 @@
     "m2": 58,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110716,6 +110847,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110759,10 +110891,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 60,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110790,6 +110923,7 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110837,6 +110971,7 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110914,10 +111049,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 22,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110945,6 +111081,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -110968,10 +111105,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 85,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111015,10 +111153,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 60,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111042,10 +111181,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 22,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111069,10 +111209,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 60,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111116,10 +111257,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 22,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111170,10 +111312,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 60,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111197,10 +111340,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 22,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111228,6 +111372,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111278,10 +111423,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 46,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111309,6 +111455,7 @@
     "m2": 44,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111416,6 +111563,7 @@
     "m2": 92,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111483,6 +111631,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111510,6 +111659,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111537,6 +111687,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111591,6 +111742,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111618,6 +111770,7 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111665,6 +111818,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111692,6 +111846,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111766,6 +111921,7 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111787,7 +111943,15 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10913327": {
    "price": 48.5,
@@ -111807,7 +111971,15 @@
      "2026-10-11",
      48.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Átlagos",
+    "m2": 77,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10912863": {
    "price": 149.0,
@@ -111880,6 +112052,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111961,6 +112134,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -111984,10 +112158,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -112009,7 +112184,15 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10910911": {
    "price": 60.0,
@@ -112035,6 +112218,7 @@
     "m2": 60,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -112062,6 +112246,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -112089,6 +112274,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -112164,7 +112350,15 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10909338": {
    "price": 44.9,
@@ -112184,7 +112378,15 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10909301": {
    "price": 74.9,
@@ -112298,7 +112500,15 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10906915": {
    "price": 119.9,
@@ -112378,7 +112588,15 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10905944": {
    "price": 100.0,
@@ -112404,6 +112622,7 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -112445,7 +112664,15 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10905783": {
    "price": 44.9,
@@ -112465,7 +112692,15 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10905779": {
    "price": 94.9,
@@ -112518,6 +112753,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -112599,7 +112835,15 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10905099": {
    "price": 94.9,
@@ -112666,7 +112910,15 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10904601": {
    "price": 48.5,
@@ -112686,7 +112938,15 @@
      "2026-10-11",
      48.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Átlagos",
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10904217": {
    "price": 117.0,
@@ -112726,7 +112986,15 @@
      "2026-10-11",
      37.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10904147": {
    "price": 140.0,
@@ -112888,10 +113156,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -112933,7 +113202,15 @@
      "2026-10-11",
      49.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 55,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10896677": {
    "price": 44.9,
@@ -112953,7 +113230,15 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 41,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10896398": {
    "price": 139.9,
@@ -112999,6 +113284,7 @@
     "m2": 35,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -113047,7 +113333,15 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10894321": {
    "price": 94.9,
@@ -113096,10 +113390,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 69,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -113121,7 +113416,15 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10891466": {
    "price": 65.9,
@@ -113143,10 +113446,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -113168,7 +113472,15 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10891120": {
    "price": 94.9,
@@ -113194,6 +113506,7 @@
     "m2": 120,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -113215,7 +113528,15 @@
      "2026-10-11",
      37.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10890020": {
    "price": 140.0,
@@ -113255,7 +113576,15 @@
      "2026-10-11",
      48.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 77,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10885544": {
    "price": 139.9,
@@ -113489,7 +113818,15 @@
      "2026-10-11",
      45.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 34,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10879830": {
    "price": 69.0,
@@ -113515,6 +113852,7 @@
     "m2": 75,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -113583,7 +113921,15 @@
      "2026-10-11",
      37.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10878753": {
    "price": 37.9,
@@ -113603,7 +113949,15 @@
      "2026-10-11",
      37.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10878723": {
    "price": 155.0,
@@ -113853,10 +114207,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -113911,6 +114266,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -113952,7 +114308,15 @@
      "2026-10-11",
      50.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 46,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875537": {
    "price": 49.0,
@@ -113972,7 +114336,15 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875465": {
    "price": 65.9,
@@ -113994,10 +114366,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114072,6 +114445,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114099,6 +114473,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114120,7 +114495,15 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873991": {
    "price": 65.9,
@@ -114142,10 +114525,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114189,10 +114573,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114214,7 +114599,15 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873165": {
    "price": 84.9,
@@ -114236,10 +114629,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114267,6 +114661,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114314,6 +114709,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114341,6 +114737,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114368,6 +114765,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114475,6 +114873,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114502,6 +114901,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114563,7 +114963,15 @@
      "2026-10-11",
      44.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Átlagos",
+    "m2": 47,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10865216": {
    "price": 66.9,
@@ -114589,6 +114997,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114760,10 +115169,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 140,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114818,6 +115228,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114892,6 +115303,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -114940,7 +115352,15 @@
      "2026-10-11",
      44.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Átlagos",
+    "m2": 47,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858082": {
    "price": 74.9,
@@ -114993,6 +115413,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115100,6 +115521,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115121,7 +115543,15 @@
      "2026-10-11",
      35.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10851470": {
    "price": 54.9,
@@ -115147,6 +115577,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115174,6 +115605,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115221,6 +115653,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115248,6 +115681,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115335,6 +115769,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115376,7 +115811,15 @@
      "2026-10-11",
      44.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 47,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10840460": {
    "price": 145.9,
@@ -115523,7 +115966,15 @@
      "2026-10-11",
      32.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 37,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10836730": {
    "price": 130.0,
@@ -115596,6 +116047,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115643,6 +116095,7 @@
     "m2": 53,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115690,6 +116143,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115757,6 +116211,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115820,10 +116275,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -115845,7 +116301,15 @@
      "2026-10-11",
      35.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Átlagos",
+    "m2": 29,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10828452": {
    "price": 84.99,
@@ -115981,10 +116445,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116012,6 +116477,7 @@
     "m2": 62,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116059,6 +116525,7 @@
     "m2": 79,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116102,10 +116569,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116129,10 +116597,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116156,10 +116625,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116203,10 +116673,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116230,10 +116701,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116257,10 +116729,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116344,10 +116817,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116415,6 +116889,7 @@
     "m2": 70,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116456,7 +116931,15 @@
      "2026-10-11",
      52.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 49,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10793651": {
    "price": 118.9,
@@ -116602,6 +117085,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116649,6 +117133,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116670,7 +117155,15 @@
      "2026-10-11",
      66.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 50,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10790299": {
    "price": 109.0,
@@ -116696,6 +117189,7 @@
     "m2": 260,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116717,7 +117211,15 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10788323": {
    "price": 168.9,
@@ -116823,6 +117325,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116850,6 +117353,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116924,6 +117428,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -116971,6 +117476,7 @@
     "m2": 68,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117058,6 +117564,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117132,6 +117639,7 @@
     "m2": 112,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117179,6 +117687,7 @@
     "m2": 68,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117206,6 +117715,7 @@
     "m2": 68,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117409,10 +117919,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 160,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117436,10 +117947,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 160,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117487,6 +117999,7 @@
     "m2": 98,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117514,6 +118027,7 @@
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117577,10 +118091,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117604,10 +118119,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117629,7 +118145,15 @@
      "2026-10-11",
      45.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Átlagos",
+    "m2": 43,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10747177": {
    "price": 120.0,
@@ -117669,7 +118193,15 @@
      "2026-10-11",
      35.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10743686": {
    "price": 49.0,
@@ -117689,7 +118221,15 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10743678": {
    "price": 84.9,
@@ -117715,6 +118255,7 @@
     "m2": null,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117809,6 +118350,7 @@
     "m2": 295,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117836,6 +118378,7 @@
     "m2": 80,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117863,6 +118406,7 @@
     "m2": 55,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -117884,7 +118428,15 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10729428": {
    "price": 190.0,
@@ -117977,6 +118529,7 @@
     "m2": 98,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118000,10 +118553,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118027,10 +118581,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118054,10 +118609,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118081,10 +118637,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118128,10 +118685,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118246,6 +118804,7 @@
     "m2": 98,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118269,10 +118828,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 108,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118363,10 +118923,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 125,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118474,6 +119035,7 @@
     "m2": 113,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118929,6 +119491,7 @@
     "m2": 220,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -118972,10 +119535,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 28,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -119086,10 +119650,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 28,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -119240,10 +119805,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 150,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -119479,6 +120045,7 @@
     "m2": 80,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -119533,6 +120100,7 @@
     "m2": 95,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -119580,6 +120148,7 @@
     "m2": 96,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -119903,10 +120472,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 149,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -120121,6 +120691,7 @@
     "m2": 260,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -120144,10 +120715,11 @@
     ]
    ],
    "detail": {
-    "condition": null,
+    "condition": "Átlagos",
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -120175,6 +120747,7 @@
     "m2": 135,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -120249,6 +120822,7 @@
     "m2": 73,
     "telek": null,
     "zartkert": false,
+    "v": 2,
     "fetched": "2026-10-11"
    }
   },
@@ -121317,6 +121891,101 @@
      "pages": 40,
      "failed": [],
      "cards": 800
+    },
+    "XIX. kerület": {
+     "pages": 11,
+     "failed": [],
+     "cards": 207
+    },
+    "XX. kerület": {
+     "pages": 27,
+     "failed": [],
+     "cards": 525
+    }
+   }
+  },
+  {
+   "date": "2026-10-11",
+   "report": {
+    "Göd": {
+     "pages": 8,
+     "failed": [],
+     "cards": 144
+    },
+    "Veresegyház": {
+     "pages": 10,
+     "failed": [],
+     "cards": 184
+    },
+    "Pomáz": {
+     "pages": 5,
+     "failed": [],
+     "cards": 99
+    },
+    "Szentendre": {
+     "pages": 15,
+     "failed": [],
+     "cards": 291
+    },
+    "Fót": {
+     "pages": 10,
+     "failed": [],
+     "cards": 193
+    },
+    "Csömör": {
+     "pages": 6,
+     "failed": [],
+     "cards": 103
+    },
+    "XIV. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 112
+    },
+    "XV. kerület": {
+     "pages": 14,
+     "failed": [],
+     "cards": 278
+    },
+    "XVI. kerület": {
+     "pages": 26,
+     "failed": [],
+     "cards": 504
+    },
+    "II. kerület": {
+     "pages": 19,
+     "failed": [],
+     "cards": 378
+    },
+    "XII. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 91
+    },
+    "III. kerület": {
+     "pages": 15,
+     "failed": [],
+     "cards": 288
+    },
+    "X. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 95
+    },
+    "XXI. kerület": {
+     "pages": 14,
+     "failed": [],
+     "cards": 273
+    },
+    "XI. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 123
+    },
+    "IV. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 92
     },
     "XIX. kerület": {
      "pages": 11,
