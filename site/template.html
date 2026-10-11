@@ -172,8 +172,8 @@ footer{color:var(--muted);font-size:12px;max-width:90ch}
       <div class="field"><label class="lbl" for="m2min">Min. m²</label><input type="number" id="m2min" min="0" step="5" inputmode="numeric" placeholder="—"></div>
       <div class="field"><label class="lbl" for="tmin">Min. telek m²</label><input type="number" id="tmin" min="0" step="50" inputmode="numeric" placeholder="—"></div>
       <div class="field"><label class="lbl" for="ymin">Épült legalább</label><input type="number" id="ymin" min="1850" max="2030" step="1" inputmode="numeric" placeholder="év"></div>
-      <div class="field"><label class="lbl" for="bmax">Max. tömegk. perc</label><input type="number" id="bmax" min="0" step="5" inputmode="numeric" placeholder="—"></div>
-      <div class="field"><label class="lbl" for="cmax">Max. autó perc</label><input type="number" id="cmax" min="0" step="5" inputmode="numeric" placeholder="—"></div>
+      <div class="field"><label class="lbl" for="bmax">Max. tömegk. perc (átlag)</label><input type="number" id="bmax" min="0" step="5" inputmode="numeric" placeholder="—"></div>
+      <div class="field"><label class="lbl" for="cmax">Max. autó perc (átlag)</label><input type="number" id="cmax" min="0" step="5" inputmode="numeric" placeholder="—"></div>
     </div>
     <div class="group">
       <span class="lbl">Elrejtés jelzés szerint</span>
@@ -232,8 +232,13 @@ const hiddenBy  = id => marks[id]?.hides || new Set();
 const isStar = id => starredBy(id).size>0, isHid = id => hiddenBy(id).size>0;
 const who = set => [...set].map(u=>u===me?"te":(names[u]||"valaki")).join(", ");
 
-const defaults = {towns:[...TOWNS], pmin:"", pmax:"", rmin:"", m2min:"", tmin:"", ymin:"", bmax:"", cmax:"", q:"", hideFlags:[...EXCLUDE], onlyStar:false, onlyNew:false, onlyRe:false, showHidden:false, sort:"price", dir:1};
+const defaults = {towns:[...TOWNS], pmin:"", pmax:"", rmin:"", m2min:"", tmin:"", ymin:"", bmax:"60", cmax:"45", q:"", hideFlags:[...EXCLUDE], onlyStar:false, onlyNew:false, onlyRe:false, showHidden:false, sort:"price", dir:1};
 let S = Object.assign({}, defaults, store.get("hl_state3", {}));
+// v2: alapból 60 perc tömegközlekedés és 45 perc autó (a becsült sáv közepe számít)
+if(!S.v2){ if(S.bmax===""||S.bmax==null) S.bmax=defaults.bmax; if(S.cmax===""||S.cmax==null) S.cmax=defaults.cmax; S.v2=true; }
+// újonnan felvett települések/kerületek alapból látszanak
+if(Array.isArray(S.knownTowns)){ TOWNS.forEach(t=>{ if(!S.knownTowns.includes(t) && !S.towns.includes(t)) S.towns.push(t); }); }
+S.knownTowns=[...TOWNS];
 S.towns = S.towns.filter(t=>TOWNS.includes(t));
 let shown = PAGE;
 
@@ -272,8 +277,8 @@ function filtered(){
     if(m2min!=null && (d.m2==null || d.m2<m2min)) return false;
     if(tmin!=null && (d.telek==null || d.telek<tmin)) return false;
     if(ymin!=null && (d.year==null || d.year<ymin)) return false;
-    if(bmax!=null && d.bkv[0]>bmax) return false;
-    if(cmax!=null && d.car[0]>cmax) return false;
+    if(bmax!=null && (d.bkv[0]+d.bkv[1])/2>bmax) return false;
+    if(cmax!=null && (d.car[0]+d.car[1])/2>cmax) return false;
     if(S.hideFlags.some(f=>d.flags.includes(f)) && !(S.onlyStar && isStar(d.id))) return false;
     if(S.onlyNew && d.status!=="new") return false;
     if(S.onlyRe && d.status!=="relisted") return false;
@@ -342,7 +347,7 @@ function syncControls(){
   townBox.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed", S.towns.includes(b.dataset.town)));
   flagBox.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed", S.hideFlags.includes(b.dataset.flag)));
   [["onlynew","onlyNew"],["onlyre","onlyRe"],["onlystar","onlyStar"],["showhidden","showHidden"]].forEach(([id,k])=>{ $(id).classList.toggle("on",!!S[k]); $(id).setAttribute("aria-pressed",!!S[k]); });
-  let n=0; if(S.towns.length!==TOWNS.length) n++; ["pmin","pmax","rmin","m2min","tmin","ymin","bmax","cmax"].forEach(k=>{ if(S[k]!==""&&S[k]!=null) n++; });
+  let n=0; if(S.towns.length!==TOWNS.length) n++; ["pmin","pmax","rmin","m2min","tmin","ymin","bmax","cmax"].forEach(k=>{ if(S[k]!==""&&S[k]!=null&&String(S[k])!==String(defaults[k])) n++; });
   if(S.hideFlags.length!==EXCLUDE.length || EXCLUDE.some(f=>!S.hideFlags.includes(f))) n++;
   $("fcount").textContent = n? n : "";
   $("ctstar").textContent = DATA.filter(d=>isStar(d.id)).length || "";
@@ -371,7 +376,7 @@ $("onlynew").onclick=()=>{S.onlyNew=!S.onlyNew; if(S.onlyNew) S.onlyRe=false; up
 $("onlyre").onclick=()=>{S.onlyRe=!S.onlyRe; if(S.onlyRe) S.onlyNew=false; update();};
 $("onlystar").onclick=()=>{S.onlyStar=!S.onlyStar; update();};
 $("showhidden").onclick=()=>{S.showHidden=!S.showHidden; update();};
-$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE]}); update();};
+$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE],v2:true,knownTowns:[...TOWNS]}); update();};
 $("more").onclick=()=>{ shown+=PAGE; render(); };
 $("ctnew").textContent=DATA.filter(d=>d.status==="new").length||"";
 $("ctre").textContent=DATA.filter(d=>d.status==="relisted").length||"";
