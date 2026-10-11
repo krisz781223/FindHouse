@@ -272,5 +272,13 @@
     "Átlagos": 0.18,
     "Jó": 0.06,
     "Közepes": 0.15
+  },
+  "detail_focus": {
+    "_megjegyzés": "ezek a hirdetések kapnak elsőbbséget a saját oldal olvasásánál (a közös lista alapszűrője)",
+    "price_max": 105,
+    "rooms_min": 3,
+    "telek_min": 400,
+    "bkv_mid_max": 60,
+    "car_mid_max": 45
   }
 }

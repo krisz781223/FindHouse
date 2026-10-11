@@ -70,7 +70,17 @@ def detail_candidates(state: dict, cfg: dict, today: str) -> list[dict]:
            and (not x.get("detail") or x["detail"].get("fetched", "") < stale
                 or (x["detail"].get("v", 1) < 2 and not x["detail"].get("condition")))]
     rooms = lambda x: sum(int(n) for n in __import__("re").findall(r"\d+", x.get("rooms") or "")) or 0
-    out.sort(key=lambda x: (x.get("first_seen", ""), rooms(x) >= 3, (x.get("telek") or 999) >= 400), reverse=True)
+    f = cfg.get("detail_focus", {})
+    amap = {a["name"]: a for a in cfg["areas"]}
+    mid = lambda r: (r[0] + r[1]) / 2
+
+    def focus(x):
+        a = amap[x["area"]]
+        return (x["price"] <= f.get("price_max", 1e9) and rooms(x) >= f.get("rooms_min", 0)
+                and (x.get("telek") or 10**6) >= f.get("telek_min", 0)
+                and mid(a["bkv"]) <= f.get("bkv_mid_max", 999) and mid(a["car"]) <= f.get("car_mid_max", 999))
+    # first the listings that pass the shared list's default filter, newest first
+    out.sort(key=lambda x: (focus(x), x.get("first_seen", "")), reverse=True)
     return out
 
 
