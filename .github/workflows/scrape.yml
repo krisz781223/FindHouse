@@ -3,7 +3,12 @@ name: Napi házkeresés
 on:
   schedule:
     - cron: "17 4 * * *"   # minden nap 06:17 (nyári idő) / 05:17 (téli idő) magyar idő szerint
-  workflow_dispatch: {}      # kézi indítás az Actions fülön
+  workflow_dispatch:         # kézi indítás az Actions fülön
+    inputs:
+      detail_cap:
+        description: "Ennyi hirdetés saját oldalát nyitja meg (üresen: config szerint)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -15,7 +20,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 100
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -24,6 +29,8 @@ jobs:
       - run: pip install -r requirements.txt pytest
       - run: python -m pytest -q
       - run: python -m findhouse
+        env:
+          DETAIL_CAP: ${{ github.event.inputs.detail_cap }}
       - name: Commit results
         run: |
           git config user.name "findhouse-bot"

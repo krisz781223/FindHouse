@@ -100,6 +100,9 @@ button,input,select{font:inherit}
 .facts dd{margin:0;font-family:var(--mono);font-size:14px}
 .commute{font-size:13px;color:var(--muted);display:flex;flex-wrap:wrap;gap:2px 12px}
 .commute b{color:var(--ink);font-family:var(--mono);font-weight:500}
+.cost{display:flex;flex-wrap:wrap;gap:4px 12px;align-items:baseline;font-size:13px;color:var(--muted);background:var(--surface-2);border-radius:8px;padding:6px 10px}
+.cost b{color:var(--ink);font-family:var(--mono);font-weight:600}
+.cost .cond{color:var(--ink);font-weight:600}
 .note{margin:0;color:var(--ink);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere}
 .flags{display:flex;flex-wrap:wrap;gap:4px}
 .tag{font-size:11px;border-radius:4px;padding:2px 6px;white-space:nowrap}
@@ -138,6 +141,7 @@ footer{color:var(--muted);font-size:12px;max-width:90ch}
     <div class="barrow">
       <input type="search" id="q" placeholder="Keresés: település, panoráma, garázs…" aria-label="Keresés">
       <select id="sort" aria-label="Rendezés">
+        <option value="cost:1">Teljes költség ↑</option>
         <option value="price:1">Ár ↑</option>
         <option value="price:-1">Ár ↓</option>
         <option value="first_seen:-1">Legújabb elöl</option>
@@ -167,7 +171,7 @@ footer{color:var(--muted);font-size:12px;max-width:90ch}
     </div>
     <div class="grid">
       <div class="field"><label class="lbl" for="pmin">Ár min (M Ft)</label><input type="number" id="pmin" step="1" inputmode="decimal" placeholder="—"></div>
-      <div class="field"><label class="lbl" for="pmax">Ár max (M Ft)</label><input type="number" id="pmax" step="1" inputmode="decimal" placeholder="—"></div>
+      <div class="field"><label class="lbl" for="pmax">Max. teljes költség (M Ft)</label><input type="number" id="pmax" step="1" inputmode="decimal" placeholder="—"></div>
       <div class="field"><label class="lbl" for="rmin">Min. szoba</label><input type="number" id="rmin" min="0" step="1" inputmode="numeric" placeholder="—"></div>
       <div class="field"><label class="lbl" for="m2min">Min. m²</label><input type="number" id="m2min" min="0" step="5" inputmode="numeric" placeholder="—"></div>
       <div class="field"><label class="lbl" for="tmin">Min. telek m²</label><input type="number" id="tmin" min="0" step="50" inputmode="numeric" placeholder="—"></div>
@@ -207,15 +211,15 @@ const TOWNS = __TOWNS__;
 const LBL = {bkv:"Tömegk. → Belváros", car:"Autó → Munkahely"};
 const FLAGS = [
   ["új hirdetés","t-good"],["újra feltéve","t-warn"],["árcsökkenés","t-good"],
-  ["telek < 300 m²","t-crit"],["házrész / megosztott","t-crit"],["nyaraló / üdülő","t-crit"],["haszonélvezet","t-crit"],["nem hitelezhető","t-crit"],
+  ["telek < 300 m²","t-crit"],["házrész / megosztott","t-crit"],["nyaraló / üdülő","t-crit"],["haszonélvezet","t-crit"],["nem hitelezhető","t-crit"],["zártkert / külterület","t-crit"],
   ["gyanús szobaszám","t-crit"],["új / épülő","t-warn"],
   ["felújítandó","t-warn"],["régi építés","t-info"],["kis telek","t-info"],
   ["hiányzó m²","t-info"],["nem tipikus családi ház","t-info"]
 ];
-const EXCLUDE = ["telek < 300 m²","házrész / megosztott","nyaraló / üdülő","haszonélvezet","nem hitelezhető"];
+const EXCLUDE = ["telek < 300 m²","házrész / megosztott","nyaraló / üdülő","haszonélvezet","nem hitelezhető","zártkert / külterület"];
 const FLAGCLS = Object.fromEntries(FLAGS);
 const PAGE = 40;
-DATA.forEach(d=>{ d.id = d.url.split("/").pop(); });
+DATA.forEach(d=>{ d.id = d.url.split("/").pop(); d.cost = d.total ?? d.price; });
 
 const store = {
   get(k,def){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : def; }catch(e){ return def; } },
@@ -232,7 +236,7 @@ const hiddenBy  = id => marks[id]?.hides || new Set();
 const isStar = id => starredBy(id).size>0, isHid = id => hiddenBy(id).size>0;
 const who = set => [...set].map(u=>u===me?"te":(names[u]||"valaki")).join(", ");
 
-const defaults = {towns:[...TOWNS], pmin:"", pmax:"105", rmin:"3", m2min:"75", tmin:"400", ymin:"", bmax:"60", cmax:"45", q:"", hideFlags:[...EXCLUDE], onlyStar:false, onlyNew:false, onlyRe:false, showHidden:false, sort:"price", dir:1};
+const defaults = {towns:[...TOWNS], pmin:"", pmax:"105", rmin:"3", m2min:"75", tmin:"400", ymin:"", bmax:"60", cmax:"45", q:"", hideFlags:[...EXCLUDE], onlyStar:false, onlyNew:false, onlyRe:false, showHidden:false, sort:"cost", dir:1};
 let S = Object.assign({}, defaults, store.get("hl_state3", {}));
 // v2: alapból 60 perc tömegközlekedés és 45 perc autó (a becsült sáv közepe számít)
 if(!S.v2){ if(S.bmax===""||S.bmax==null) S.bmax=defaults.bmax; if(S.cmax===""||S.cmax==null) S.cmax=defaults.cmax; S.v2=true; }
@@ -240,6 +244,7 @@ if(!S.v2){ if(S.bmax===""||S.bmax==null) S.bmax=defaults.bmax; if(S.cmax===""||S
 if(Array.isArray(S.knownTowns)){ TOWNS.forEach(t=>{ if(!S.knownTowns.includes(t) && !S.towns.includes(t)) S.towns.push(t); }); }
 S.knownTowns=[...TOWNS];
 // v3: közös alapszűrő (max. 105 M Ft, min. 3 szoba, min. 75 m², min. 400 m² telek) – egyszer mindenkinél beáll
+if(!S.v4){ if(!S.hideFlags.includes("zártkert / külterület")) S.hideFlags.push("zártkert / külterület"); if(S.sort==="price") S.sort="cost"; S.v4=true; }
 if(!S.v3){ ["pmax","rmin","m2min","tmin"].forEach(k=>S[k]=defaults[k]); S.v3=true; }
 S.towns = S.towns.filter(t=>TOWNS.includes(t));
 let shown = PAGE;
@@ -274,7 +279,7 @@ function filtered(){
   return DATA.filter(d=>{
     if(!S.towns.includes(d.town)) return false;
     if(pmin!=null && d.price<pmin) return false;
-    if(pmax!=null && d.price>pmax) return false;
+    if(pmax!=null && d.cost>pmax) return false;  // felújítással együtt, ha ismert
     if(rmin!=null && d.rsum!=null && d.rsum<rmin) return false;  // hiányzó adat nem rejt el
     if(m2min!=null && d.m2!=null && d.m2<m2min) return false;  // hiányzó adat nem rejt el
     if(tmin!=null && d.telek!=null && d.telek<tmin) return false;  // hiányzó adat nem rejt el
@@ -330,6 +335,7 @@ function card(d){
       <div><dt>Épült</dt><dd>${d.year ?? "—"}</dd></div>
       <div><dt>Ft/m²</dt><dd>${d.ppm? fmt(Math.round(d.ppm/1000))+" e" : "—"}</dd></div>
     </dl>
+    <div class="cost">${d.condition?`<span class="cond">${esc(d.condition)}</span>`:`<span>állapot: nincs adat</span>`}${d.reno!=null?`<span>felújítás ~<b>${fmtP(d.reno)} M</b></span><span>teljes ~<b>${fmtP(d.total)} M</b></span>`:""}</div>
     <div class="commute"><span>${LBL.bkv} <b>${d.bkv[0]}–${d.bkv[1]}′</b></span><span>${LBL.car} <b>${d.car[0]}–${d.car[1]}′</b></span></div>
     ${d.note?`<p class="note">${esc(d.note)}</p>`:""}
     ${flags?`<div class="flags">${flags}</div>`:""}
@@ -345,7 +351,7 @@ function card(d){
 let current=[];
 function syncControls(){
   ["pmin","pmax","rmin","m2min","tmin","ymin","bmax","cmax","q"].forEach(k=>{ if(document.activeElement!==$(k)) $(k).value=S[k]??""; });
-  $("sort").value = `${S.sort}:${S.dir}`; if(!$("sort").value){ $("sort").value="price:1"; }
+  $("sort").value = `${S.sort}:${S.dir}`; if(!$("sort").value){ $("sort").value="cost:1"; }
   townBox.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed", S.towns.includes(b.dataset.town)));
   flagBox.querySelectorAll(".chip").forEach(b=>b.setAttribute("aria-pressed", S.hideFlags.includes(b.dataset.flag)));
   [["onlynew","onlyNew"],["onlyre","onlyRe"],["onlystar","onlyStar"],["showhidden","showHidden"]].forEach(([id,k])=>{ $(id).classList.toggle("on",!!S[k]); $(id).setAttribute("aria-pressed",!!S[k]); });
@@ -378,7 +384,7 @@ $("onlynew").onclick=()=>{S.onlyNew=!S.onlyNew; if(S.onlyNew) S.onlyRe=false; up
 $("onlyre").onclick=()=>{S.onlyRe=!S.onlyRe; if(S.onlyRe) S.onlyNew=false; update();};
 $("onlystar").onclick=()=>{S.onlyStar=!S.onlyStar; update();};
 $("showhidden").onclick=()=>{S.showHidden=!S.showHidden; update();};
-$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE],v2:true,v3:true,knownTowns:[...TOWNS]}); update();};
+$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE],v2:true,v3:true,v4:true,knownTowns:[...TOWNS]}); update();};
 $("more").onclick=()=>{ shown+=PAGE; render(); };
 $("ctnew").textContent=DATA.filter(d=>d.status==="new").length||"";
 $("ctre").textContent=DATA.filter(d=>d.status==="relisted").length||"";

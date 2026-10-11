@@ -35,6 +35,11 @@ def main():
             raise SystemExit("Nothing scraped – the site may have changed or blocked the request. State left untouched.")
         state = pipeline.update_state(state, rows, report, today)
         pipeline.save_state(state)
+        from .scrape import fetch_details
+        import os
+        cap = int(os.environ["DETAIL_CAP"]) if os.environ.get("DETAIL_CAP") else None
+        fetch_details(state, cfg, today, cap)
+        pipeline.save_state(state)
         cfg = json.loads((pipeline.ROOT / "config.json").read_text("utf-8"))
     rows = pipeline.build_rows(state, cfg, today)
     pipeline.build_site(rows, cfg, today)

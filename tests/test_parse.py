@@ -81,3 +81,25 @@ def test_same_url_reappears():
     pipeline.update_state(st, [a], rep, "2026-10-09")
     r = pipeline.build_rows(st, _cfg(), "2026-10-09")[0]
     assert r["status"] == "relisted" and r["today"]
+
+
+def test_detail_page_and_renovation():
+    from findhouse.parse import parse_detail_page
+    from findhouse import pipeline
+    html = '''<html><head><meta name="description" content="Csepel kertvárosában eladó ház"></head><body>
+    <nav>Zártkert eladó</nav><form>Állapot <select><option>Új építésű</option></select></form>
+    <div>96 m²</div><p>Csepel kertvárosában kínálunk megvételre egy hosszú leírású, felújítandó családi házat a 692 m²-es telken.</p>
+    <h2>Részletes adatok</h2><dl><dt>Állapot:</dt><dd>Felújítandó</dd><dt>Telekméret:</dt><dd>1 930 m2</dd></dl></body></html>'''
+    d = parse_detail_page(html)
+    assert d == {"condition": "Felújítandó", "m2": 96, "telek": 1930, "zartkert": False}
+    z = parse_detail_page(html.replace("hosszú leírású,", "zártkerti besorolású,"))
+    assert z["zartkert"] is True
+    cfg = {"renovation_m_ft_per_m2": {"Felújítandó": 0.3, "Felújított": 0.02}}
+    assert pipeline._renovation(cfg, "Felújítandó", "", 100) == 30.0
+    assert pipeline._renovation(cfg, None, "Szépen felújított ház", None) == 2.2
+    assert pipeline._renovation(cfg, None, "Csendes utcában", 100) is None
+
+
+def test_card_m2_with_superscript():
+    r = parse_card_text("89.9 M Ft 936 458 Ft/m2 XXI. - Eladó családi ház Csepel ... 4 szoba96 m² telekméret:692 m² építés éve:1950")
+    assert r["m2"] == 96 and r["telek"] == 692

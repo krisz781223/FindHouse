@@ -73,6 +73,23 @@ def _flags(rooms, m2, telek, year, note):
     return rsum, f
 
 
+def _renovation(cfg: dict, cond: str | None, note: str | None, m2: int | None) -> float | None:
+    """Rough renovation cost in M Ft from the condition (detail page) or, failing that, the card text."""
+    rates = {k: v for k, v in cfg.get("renovation_m_ft_per_m2", {}).items() if not k.startswith("_")}
+    if not rates:
+        return None
+    rate = rates.get(cond) if cond else None
+    if rate is None:
+        n = (note or "").lower()
+        if "felújítandó" in n or "felújításra szorul" in n:
+            rate = rates.get("Felújítandó")
+        elif "felújított" in n or "újszerű" in n:
+            rate = rates.get("Felújított")
+    if rate is None:
+        return None
+    return round(rate * (m2 or 110), 1)
+
+
 def build_rows(state: dict, cfg: dict, today: str) -> list[dict]:
     areas = {a["name"]: a for a in cfg["areas"]}
     lo, hi = cfg["price_min"], cfg["price_max"]
@@ -98,7 +115,16 @@ def build_rows(state: dict, cfg: dict, today: str) -> list[dict]:
         if not (lo <= m["price"] <= hi):
             continue
         a = areas[m["area"]]
-        rsum, flags = _flags(m.get("rooms"), m.get("m2"), m.get("telek"), m.get("year"), m.get("note"))
+        det = next((x["detail"] for x in g if x.get("detail")), {}) or {}
+        m2 = m.get("m2") or det.get("m2")
+        telek = m.get("telek") or det.get("telek")
+        rsum, flags = _flags(m.get("rooms"), m2, telek, m.get("year"), m.get("note"))
+        if det.get("zartkert") and "zártkert / külterület" not in flags:
+            flags.insert(0, "zártkert / külterület")
+        cond = det.get("condition")
+        if cond == "Bontandó" and "nem hitelezhető" not in flags:
+            flags.append("nem hitelezhető")
+        reno = _renovation(cfg, cond, m.get("note"), m2)
         first_seen = min(x["first_seen"] for x in g)
         key = (m["area"], m.get("rooms"), m.get("m2"), m.get("telek"), m.get("year"))
         earlier = [x for x in gone.get(key, []) if x["first_seen"] < first_seen]
@@ -126,9 +152,10 @@ def build_rows(state: dict, cfg: dict, today: str) -> list[dict]:
             if "hév" in n: bkv = ov["near_hev"]
             elif any(k in n for k in ("pismány", "boldogtanya", "tyúkosdűlő", "petyina")): bkv = ov["hills"]
         out.append(dict(
-            town=m["area"], price=m["price"], rooms=m.get("rooms"), rsum=rsum, m2=m.get("m2"),
-            telek=m.get("telek"), year=m.get("year"),
-            ppm=round(m["price"] * 1e6 / m["m2"]) if m.get("m2") else None,
+            town=m["area"], price=m["price"], rooms=m.get("rooms"), rsum=rsum, m2=m2,
+            telek=telek, year=m.get("year"),
+            ppm=round(m["price"] * 1e6 / m2) if m2 else None,
+            condition=cond, reno=reno, total=round(m["price"] + reno, 1) if reno is not None else None,
             note=m.get("note") or "", flags=flags, n=len(g),
             others=sorted({x["price"] for x in g[1:] if x["price"] != m["price"]}),
             transit=a["transit"], url=m["url"], dupurls=[x["url"] for x in g[1:]],

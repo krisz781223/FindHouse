@@ -31,7 +31,8 @@ def parse_card_text(text: str) -> dict:
         out["rooms"] = re.sub(r"\s", "", m.group(1))
     # m2: the number right before "m2" that is not part of "Ft/m2"
     tail = t.split("szoba", 1)[-1] if "szoba" in t else t
-    m = re.search(r"(\d{2,4})\s*m2", tail)
+    tail = tail.split("telekméret", 1)[0]
+    m = re.search(r"(\d{2,4})\s*m(?:2|²)", tail)
     if m:
         out["m2"] = int(m.group(1))
     m = TELEK.search(t)
@@ -74,3 +75,49 @@ def parse_list_page(html: str, slug: str) -> tuple[list[dict], int]:
         if pm:
             last = max(last, int(pm.group(1)))
     return list(seen.values()), last
+
+
+ZARTKERT = re.compile(r"zártkert|külterület|zárt kert", re.I)
+CONDITIONS = ["Új építésű", "Újszerű", "Felújított", "Jó állapotú", "Közepes állapotú", "Felújítandó",
+              "Befejezetlen", "Bontandó"]
+
+
+def _label(text: str, label: str) -> str | None:
+    m = re.search(rf"{label}\s*:?\s*\n?\s*([^\n]+)", text)
+    return m.group(1).strip() if m else None
+
+
+def parse_detail_page(html: str) -> dict:
+    """Read the attributes a list card does not show: condition, floor area, plot, zártkert hints.
+
+    Only the listing's own parts are used (the "Részletes adatok" block, the header and the
+    description), so menus or search filters elsewhere on the page cannot leak in."""
+    soup = BeautifulSoup(html, "html.parser")
+    for t in soup(["script", "style", "noscript", "nav", "footer", "form"]):
+        t.decompose()
+    text = soup.get_text("\n", strip=True)
+    details = text.split("Részletes adatok", 1)[-1] if "Részletes adatok" in text else text
+    out = {"condition": None, "m2": None, "telek": None, "zartkert": False}
+    for m in re.finditer(r"Állapot\s*:?\s*\n?\s*([^\n]+)", details):
+        v = m.group(1).strip()
+        hit = next((c for c in CONDITIONS if v.lower().startswith(c.lower())), None)
+        if hit:
+            out["condition"] = hit
+            break
+    m = re.search(r"\n(\d{2,4})\s*m²\s*\n", "\n" + text + "\n")
+    if m:
+        out["m2"] = int(m.group(1))
+    tel = _label(details, r"Telekméret")
+    if tel:
+        mm = re.search(r"(\d[\d\s.]*)\s*(m2|m²|ha)", tel)
+        if mm:
+            v = float(re.sub(r"[\s.]", "", mm.group(1)))
+            out["telek"] = int(v * 10000) if mm.group(2) == "ha" else int(v)
+    # zártkert/külterület: only in the description (longest leaf text block) and the meta description
+    leaves = [el.get_text(" ", strip=True) for el in soup.find_all(["p", "div"])
+              if not el.find(["p", "div", "section", "ul"])]
+    desc = max(leaves, key=len) if leaves else ""
+    meta = soup.find("meta", attrs={"name": "description"})
+    desc += " " + (meta.get("content", "") if meta else "")
+    out["zartkert"] = bool(ZARTKERT.search(desc))
+    return out

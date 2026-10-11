@@ -2,7 +2,7 @@
 from __future__ import annotations
 import random, time, logging
 import requests
-from .parse import parse_list_page
+from .parse import parse_list_page, parse_detail_page
 
 log = logging.getLogger(__name__)
 HEADERS = {
@@ -57,3 +57,36 @@ def scrape_all(cfg: dict) -> tuple[list[dict], dict]:
         report[area["name"]] = {**stats, "cards": len(rows)}
         all_rows.extend(rows)
     return all_rows, report
+
+
+def detail_candidates(state: dict, cfg: dict, today: str) -> list[dict]:
+    """Active listings in the configured areas, cheap enough to matter, without fresh details."""
+    import datetime as dt
+    areas = {a["name"] for a in cfg["areas"]}
+    stale = (dt.date.fromisoformat(today) - dt.timedelta(days=45)).isoformat()
+    out = [x for x in state["listings"].values()
+           if x.get("active") and x.get("area") in areas and x.get("price") is not None
+           and x["price"] <= cfg.get("detail_price_max", 112)
+           and (not x.get("detail") or x["detail"].get("fetched", "") < stale)]
+    rooms = lambda x: sum(int(n) for n in __import__("re").findall(r"\d+", x.get("rooms") or "")) or 0
+    out.sort(key=lambda x: (x.get("first_seen", ""), rooms(x) >= 3, (x.get("telek") or 999) >= 400), reverse=True)
+    return out
+
+
+def fetch_details(state: dict, cfg: dict, today: str, cap: int | None = None) -> int:
+    """Open each candidate's own page and store condition, m², plot and zártkert hints."""
+    cap = cap if cap is not None else cfg.get("detail_max_per_run", 150)
+    lo, hi = cfg.get("detail_delay_seconds", [2, 4])
+    session = requests.Session()
+    done = 0
+    for x in detail_candidates(state, cfg, today)[:cap]:
+        html = fetch(session, x["url"], tries=2)
+        if html is None:
+            continue
+        d = parse_detail_page(html)
+        d["fetched"] = today
+        x["detail"] = d
+        done += 1
+        time.sleep(random.uniform(lo, hi))
+    log.info("details fetched: %d", done)
+    return done

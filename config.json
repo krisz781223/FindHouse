@@ -253,5 +253,21 @@
       60,
       75
     ]
+  },
+  "detail_price_max": 112,
+  "detail_max_per_run": 150,
+  "detail_delay_seconds": [
+    2,
+    4
+  ],
+  "renovation_m_ft_per_m2": {
+    "_megjegyzés": "becsült felújítási költség millió Ft / m², állapot szerint; ismeretlen alapterületnél 110 m²-rel számol",
+    "Új építésű": 0.0,
+    "Újszerű": 0.01,
+    "Felújított": 0.02,
+    "Jó állapotú": 0.06,
+    "Közepes állapotú": 0.15,
+    "Felújítandó": 0.3,
+    "Befejezetlen": 0.25
   }
 }
