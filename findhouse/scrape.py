@@ -67,7 +67,8 @@ def detail_candidates(state: dict, cfg: dict, today: str) -> list[dict]:
     out = [x for x in state["listings"].values()
            if x.get("active") and x.get("area") in areas and x.get("price") is not None
            and x["price"] <= cfg.get("detail_price_max", 112)
-           and (not x.get("detail") or x["detail"].get("fetched", "") < stale)]
+           and (not x.get("detail") or x["detail"].get("fetched", "") < stale
+                or (x["detail"].get("v", 1) < 2 and not x["detail"].get("condition")))]
     rooms = lambda x: sum(int(n) for n in __import__("re").findall(r"\d+", x.get("rooms") or "")) or 0
     out.sort(key=lambda x: (x.get("first_seen", ""), rooms(x) >= 3, (x.get("telek") or 999) >= 400), reverse=True)
     return out

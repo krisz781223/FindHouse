@@ -91,7 +91,7 @@ def test_detail_page_and_renovation():
     <div>96 m²</div><p>Csepel kertvárosában kínálunk megvételre egy hosszú leírású, felújítandó családi házat a 692 m²-es telken.</p>
     <h2>Részletes adatok</h2><dl><dt>Állapot:</dt><dd>Felújítandó</dd><dt>Telekméret:</dt><dd>1 930 m2</dd></dl></body></html>'''
     d = parse_detail_page(html)
-    assert d == {"condition": "Felújítandó", "m2": 96, "telek": 1930, "zartkert": False}
+    assert d == {"condition": "Felújítandó", "m2": 96, "telek": 1930, "zartkert": False, "v": 2}
     z = parse_detail_page(html.replace("hosszú leírású,", "zártkerti besorolású,"))
     assert z["zartkert"] is True
     cfg = {"renovation_m_ft_per_m2": {"Felújítandó": 0.3, "Felújított": 0.02}}

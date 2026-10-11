@@ -78,7 +78,7 @@ def parse_list_page(html: str, slug: str) -> tuple[list[dict], int]:
 
 
 ZARTKERT = re.compile(r"zártkert|külterület|zárt kert", re.I)
-CONDITIONS = ["Új építésű", "Újszerű", "Felújított", "Jó állapotú", "Közepes állapotú", "Felújítandó",
+CONDITIONS = ["Új építésű", "Újszerű", "Felújított", "Jó állapotú", "Közepes állapotú", "Átlagos", "Felújítandó",
               "Befejezetlen", "Bontandó"]
 
 
@@ -98,12 +98,13 @@ def parse_detail_page(html: str) -> dict:
     text = soup.get_text("\n", strip=True)
     details = text.split("Részletes adatok", 1)[-1] if "Részletes adatok" in text else text
     out = {"condition": None, "m2": None, "telek": None, "zartkert": False}
-    for m in re.finditer(r"Állapot\s*:?\s*\n?\s*([^\n]+)", details):
+    for m in re.finditer(r"Állapot\s*:\s*\n?\s*([^\n]+)", details):
         v = m.group(1).strip()
         hit = next((c for c in CONDITIONS if v.lower().startswith(c.lower())), None)
-        if hit:
-            out["condition"] = hit
+        if hit or (2 < len(v) < 30 and not v.endswith(":")):
+            out["condition"] = hit or v[0].upper() + v[1:]
             break
+    out["v"] = 2
     m = re.search(r"\n(\d{2,4})\s*m²\s*\n", "\n" + text + "\n")
     if m:
         out["m2"] = int(m.group(1))
