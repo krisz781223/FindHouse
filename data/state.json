@@ -67353,7 +67353,7 @@
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10952761": {
    "price": 41.5,
    "rooms": "1",
-   "m2": null,
+   "m2": 41,
    "telek": 10,
    "year": 2027,
    "note": "ÚJ ÉPÍTÉSŰ, 1 SZOBÁS, ERKÉLYES LAKÁS A XV. KERÜLETBEN! 26,5 m² 1 szoba 3,41 m² erkély",
@@ -72419,7 +72419,14 @@
      "2026-10-11",
      75.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10433527": {
    "price": 78.85,
@@ -72439,7 +72446,14 @@
      "2026-10-11",
      78.85
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 84,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10433525": {
    "price": 37.0,
@@ -72459,7 +72473,14 @@
      "2026-10-11",
      37.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 26,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10433524": {
    "price": 48.5,
@@ -72479,7 +72500,14 @@
      "2026-10-11",
      48.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 48,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10956196": {
    "price": 93.0,
@@ -72499,7 +72527,14 @@
      "2026-10-11",
      93.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 91,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10953074": {
    "price": 180.0,
@@ -72559,7 +72594,14 @@
      "2026-10-11",
      49.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 81,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10947953": {
    "price": 93.0,
@@ -72579,7 +72621,14 @@
      "2026-10-11",
      93.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 92,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10941868": {
    "price": 75.9,
@@ -72599,7 +72648,14 @@
      "2026-10-11",
      75.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 68,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10938782": {
    "price": 275.0,
@@ -72659,7 +72715,14 @@
      "2026-10-11",
      34.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 25,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10932967": {
    "price": 275.0,
@@ -72699,7 +72762,14 @@
      "2026-10-11",
      87.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10931402": {
    "price": 275.0,
@@ -72739,7 +72809,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 162,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10930795": {
    "price": 75.9,
@@ -72759,7 +72836,14 @@
      "2026-10-11",
      75.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 68,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10930378": {
    "price": 143.5,
@@ -72819,7 +72903,14 @@
      "2026-10-11",
      66.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 44,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10924599": {
    "price": 39.9,
@@ -72839,7 +72930,14 @@
      "2026-10-11",
      39.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 44,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10923033": {
    "price": 219.9,
@@ -72879,7 +72977,14 @@
      "2026-10-11",
      89.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 62,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10918661": {
    "price": 143.5,
@@ -72939,7 +73044,14 @@
      "2026-10-11",
      55.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10910137": {
    "price": 89.0,
@@ -72959,7 +73071,14 @@
      "2026-10-11",
      89.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 62,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10910136": {
    "price": 78.9,
@@ -72979,7 +73098,14 @@
      "2026-10-11",
      78.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 75,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10905797": {
    "price": 89.0,
@@ -72999,7 +73125,14 @@
      "2026-10-11",
      89.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 62,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10905769": {
    "price": 143.5,
@@ -73099,7 +73232,14 @@
      "2026-10-11",
      98.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10893244": {
    "price": 143.5,
@@ -73139,7 +73279,14 @@
      "2026-10-11",
      45.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 28,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10875477": {
    "price": 98.0,
@@ -73159,7 +73306,14 @@
      "2026-10-11",
      98.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 104,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10873158": {
    "price": 150.0,
@@ -73199,7 +73353,14 @@
      "2026-10-11",
      38.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 31,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10861975": {
    "price": 89.0,
@@ -73219,7 +73380,14 @@
      "2026-10-11",
      89.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 62,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10853514": {
    "price": 53.9,
@@ -73239,7 +73407,14 @@
      "2026-10-11",
      53.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 52,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10848217": {
    "price": 78.9,
@@ -73279,7 +73454,14 @@
      "2026-10-11",
      32.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 25,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10841752": {
    "price": 31.9,
@@ -73299,7 +73481,14 @@
      "2026-10-11",
      31.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 33,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10840966": {
    "price": 78.9,
@@ -73319,7 +73508,14 @@
      "2026-10-11",
      78.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 75,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10840625": {
    "price": 78.9,
@@ -73339,7 +73535,14 @@
      "2026-10-11",
      78.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 75,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10840542": {
    "price": 78.9,
@@ -73359,7 +73562,14 @@
      "2026-10-11",
      78.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 75,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10827457": {
    "price": 265.0,
@@ -73419,7 +73629,14 @@
      "2026-10-11",
      49.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 65,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10797974": {
    "price": 98.0,
@@ -73439,7 +73656,14 @@
      "2026-10-11",
      98.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 104,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10795010": {
    "price": 280.0,
@@ -73539,7 +73763,14 @@
      "2026-10-11",
      38.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 31,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10758612": {
    "price": 143.5,
@@ -73859,7 +74090,14 @@
      "2026-10-11",
      89.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Újszerű",
+    "m2": 66,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10694994": {
    "price": 98.0,
@@ -73879,7 +74117,14 @@
      "2026-10-11",
      98.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 104,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10676290": {
    "price": 38.0,
@@ -73899,7 +74144,14 @@
      "2026-10-11",
      38.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 31,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10632752": {
    "price": 239.0,
@@ -73959,7 +74211,14 @@
      "2026-10-11",
      85.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 77,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10606453": {
    "price": 140.0,
@@ -73999,7 +74258,14 @@
      "2026-10-11",
      75.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10589535": {
    "price": 222.6,
@@ -74039,7 +74305,14 @@
      "2026-10-11",
      38.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 31,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10516962": {
    "price": 38.0,
@@ -74059,7 +74332,14 @@
      "2026-10-11",
      38.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 31,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10482471": {
    "price": 38.0,
@@ -74079,7 +74359,14 @@
      "2026-10-11",
      38.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 31,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10445553": {
    "price": 150.0,
@@ -74119,7 +74406,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10183137": {
    "price": 330.0,
@@ -102959,7 +103253,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 63,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10940319": {
    "price": 139.9,
@@ -102999,7 +103300,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 63,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10915883": {
    "price": 99.9,
@@ -103019,7 +103327,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 220,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10720345": {
    "price": 260.0,
@@ -103059,7 +103374,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10752162": {
    "price": 58.0,
@@ -103079,7 +103401,14 @@
      "2026-10-11",
      58.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 56,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10790332": {
    "price": 32.0,
@@ -103099,7 +103428,14 @@
      "2026-10-11",
      32.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 88,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10879065": {
    "price": 109.0,
@@ -103119,7 +103455,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10496732": {
    "price": 47.0,
@@ -103139,7 +103482,14 @@
      "2026-10-11",
      47.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 52,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10958832": {
    "price": 110.0,
@@ -103159,7 +103509,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10958508": {
    "price": 32.9,
@@ -103179,7 +103536,14 @@
      "2026-10-11",
      32.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 34,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10956459": {
    "price": 60.0,
@@ -103199,7 +103563,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10955326": {
    "price": 155.0,
@@ -103239,7 +103610,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10951760": {
    "price": 119.0,
@@ -103279,7 +103657,14 @@
      "2026-10-11",
      32.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 34,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10950394": {
    "price": 119.0,
@@ -103319,7 +103704,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 200,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10947512": {
    "price": 52.5,
@@ -103339,7 +103731,14 @@
      "2026-10-11",
      52.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10945456": {
    "price": 184.9,
@@ -103439,7 +103838,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10941091": {
    "price": 129.9,
@@ -103479,7 +103885,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Újszerű",
+    "m2": 63,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10940193": {
    "price": 190.0,
@@ -103519,7 +103932,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10935201": {
    "price": 89.9,
@@ -103539,7 +103959,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10933077": {
    "price": 119.0,
@@ -103579,7 +104006,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10931473": {
    "price": 65.9,
@@ -103599,7 +104033,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 51,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10926174": {
    "price": 110.0,
@@ -103619,7 +104060,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10925423": {
    "price": 110.0,
@@ -103639,7 +104087,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10925405": {
    "price": 119.0,
@@ -103719,7 +104174,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10920946": {
    "price": 110.0,
@@ -103739,7 +104201,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10920630": {
    "price": 65.9,
@@ -103759,7 +104228,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 50,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10918538": {
    "price": 150.0,
@@ -103799,7 +104275,14 @@
      "2026-10-11",
      32.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 34,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10916719": {
    "price": 119.0,
@@ -103959,7 +104442,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10910101": {
    "price": 99.5,
@@ -103979,7 +104469,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10909966": {
    "price": 109.0,
@@ -103999,7 +104496,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10909346": {
    "price": 109.0,
@@ -104019,7 +104523,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10909319": {
    "price": 99.5,
@@ -104039,7 +104550,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10909309": {
    "price": 129.9,
@@ -104079,7 +104597,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10905712": {
    "price": 149.9,
@@ -104139,7 +104664,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10903718": {
    "price": 169.0,
@@ -104239,7 +104771,14 @@
      "2026-10-11",
      75.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 140,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10900899": {
    "price": 119.0,
@@ -104279,7 +104818,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10900046": {
    "price": 119.9,
@@ -104379,7 +104925,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10893247": {
    "price": 149.9,
@@ -104419,7 +104972,14 @@
      "2026-10-11",
      69.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 56,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10890025": {
    "price": 149.9,
@@ -104479,7 +105039,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10881217": {
    "price": 144.9,
@@ -104559,7 +105126,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10876388": {
    "price": 129.9,
@@ -104599,7 +105173,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10876249": {
    "price": 99.5,
@@ -104619,7 +105200,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10876221": {
    "price": 139.9,
@@ -104679,7 +105267,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10873251": {
    "price": 139.9,
@@ -104739,7 +105334,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10871874": {
    "price": 149.9,
@@ -104779,7 +105381,14 @@
      "2026-10-11",
      41.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10863978": {
    "price": 99.9,
@@ -104799,7 +105408,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 200,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10862739": {
    "price": 119.9,
@@ -104839,7 +105455,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10859361": {
    "price": 119.9,
@@ -104939,7 +105562,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10852799": {
    "price": 109.0,
@@ -104959,7 +105589,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10846940": {
    "price": 99.5,
@@ -104979,7 +105616,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10846715": {
    "price": 103.0,
@@ -104999,7 +105643,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10846711": {
    "price": 149.9,
@@ -105079,7 +105730,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10831170": {
    "price": 103.0,
@@ -105099,7 +105757,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10830018": {
    "price": 149.9,
@@ -105139,7 +105804,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10823417": {
    "price": 149.9,
@@ -105219,7 +105891,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10818273": {
    "price": 103.0,
@@ -105239,7 +105918,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10816815": {
    "price": 103.0,
@@ -105259,7 +105945,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10816424": {
    "price": 103.0,
@@ -105279,7 +105972,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10815485": {
    "price": 150.0,
@@ -105339,7 +106039,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10813651": {
    "price": 103.0,
@@ -105359,7 +106066,14 @@
      "2026-10-11",
      103.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 230,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10809227": {
    "price": 119.9,
@@ -105419,7 +106133,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 51,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10796460": {
    "price": 129.9,
@@ -105459,7 +106180,14 @@
      "2026-10-11",
      57.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10793478": {
    "price": 279.0,
@@ -105539,7 +106267,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10789320": {
    "price": 95.0,
@@ -105559,7 +106294,14 @@
      "2026-10-11",
      95.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 140,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10789191": {
    "price": 109.9,
@@ -105579,7 +106321,14 @@
      "2026-10-11",
      109.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 200,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10788048": {
    "price": 65.0,
@@ -105599,7 +106348,14 @@
      "2026-10-11",
      65.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10785524": {
    "price": 200.0,
@@ -105859,7 +106615,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10757140": {
    "price": 149.9,
@@ -105939,7 +106702,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10747175": {
    "price": 99.5,
@@ -105959,7 +106729,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10746660": {
    "price": 119.9,
@@ -106019,7 +106796,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10742042": {
    "price": 169.0,
@@ -106079,7 +106863,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10741893": {
    "price": 129.9,
@@ -106219,7 +107010,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10725273": {
    "price": 99.5,
@@ -106239,7 +107037,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10725228": {
    "price": 89.9,
@@ -106259,7 +107064,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10721638": {
    "price": 169.0,
@@ -106359,7 +107171,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10685215": {
    "price": 139.9,
@@ -106399,7 +107218,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10684938": {
    "price": 99.5,
@@ -106419,7 +107245,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10684212": {
    "price": 129.9,
@@ -106599,7 +107432,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10593034": {
    "price": 109.0,
@@ -106619,7 +107459,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10550702": {
    "price": 89.9,
@@ -106639,7 +107486,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10549602": {
    "price": 109.0,
@@ -106659,7 +107513,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10547597": {
    "price": 89.9,
@@ -106679,7 +107540,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10542027": {
    "price": 129.9,
@@ -106739,7 +107607,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10534494": {
    "price": 89.9,
@@ -106759,7 +107634,14 @@
      "2026-10-11",
      89.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10517427": {
    "price": 130.0,
@@ -106799,7 +107681,14 @@
      "2026-10-11",
      75.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 71,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10499368": {
    "price": 109.0,
@@ -106819,7 +107708,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10493580": {
    "price": 109.0,
@@ -106839,7 +107735,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 190,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10475770": {
    "price": 99.5,
@@ -106859,7 +107762,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10442296": {
    "price": 139.9,
@@ -106919,7 +107829,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10286861": {
    "price": 99.5,
@@ -106939,7 +107856,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10284805": {
    "price": 99.5,
@@ -106959,7 +107883,14 @@
      "2026-10-11",
      99.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10248594": {
    "price": 291.0,
@@ -106999,7 +107930,14 @@
      "2026-10-11",
      79.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 92,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10248430": {
    "price": 94.9,
@@ -107019,7 +107957,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 152,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10240288": {
    "price": 139.9,
@@ -107099,7 +108044,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 74,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10957795": {
    "price": 99.0,
@@ -107119,7 +108071,14 @@
      "2026-10-11",
      99.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 78,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10387414": {
    "price": 89.0,
@@ -107139,7 +108098,14 @@
      "2026-10-11",
      89.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 87,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873103": {
    "price": 75.9,
@@ -107159,7 +108125,14 @@
      "2026-10-11",
      75.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 97,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858223": {
    "price": 44.5,
@@ -107179,7 +108152,14 @@
      "2026-10-11",
      44.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 47,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10648123": {
    "price": 50.0,
@@ -107199,7 +108179,14 @@
      "2026-10-11",
      50.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 46,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10557008": {
    "price": 119.0,
@@ -107239,7 +108226,14 @@
      "2026-10-11",
      95.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10958605": {
    "price": 65.0,
@@ -107259,7 +108253,14 @@
      "2026-10-11",
      65.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 105,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10933450": {
    "price": 62.9,
@@ -107279,7 +108280,14 @@
      "2026-10-11",
      62.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 58,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10902082": {
    "price": 48.5,
@@ -107299,7 +108307,14 @@
      "2026-10-11",
      48.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 77,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10821490": {
    "price": 84.99,
@@ -107319,7 +108334,14 @@
      "2026-10-11",
      84.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 79,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10814007": {
    "price": 52.9,
@@ -107339,7 +108361,14 @@
      "2026-10-11",
      52.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 49,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10729451": {
    "price": 84.9,
@@ -107359,7 +108388,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10789991": {
    "price": 69.9,
@@ -107379,7 +108415,14 @@
      "2026-10-11",
      69.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 82,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10479385": {
    "price": 159.0,
@@ -107419,7 +108462,14 @@
      "2026-10-11",
      84.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 79,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10663208": {
    "price": 50.0,
@@ -107439,7 +108489,14 @@
      "2026-10-11",
      50.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 46,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10894831": {
    "price": 45.0,
@@ -107459,7 +108516,14 @@
      "2026-10-11",
      45.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 43,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10784769": {
    "price": 94.99,
@@ -107479,7 +108543,14 @@
      "2026-10-11",
      94.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 110,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10784765": {
    "price": 98.9,
@@ -107499,7 +108570,14 @@
      "2026-10-11",
      98.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 178,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10915710": {
    "price": 54.9,
@@ -107519,7 +108597,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Újszerű",
+    "m2": 65,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10138562": {
    "price": 74.9,
@@ -107539,7 +108624,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10425185": {
    "price": 114.99,
@@ -107579,7 +108671,14 @@
      "2026-10-11",
      95.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10739399": {
    "price": 32.9,
@@ -107599,7 +108698,14 @@
      "2026-10-11",
      32.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 129,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10549293": {
    "price": 74.9,
@@ -107619,7 +108725,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10431025": {
    "price": 119.0,
@@ -107659,7 +108772,14 @@
      "2026-10-11",
      97.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 260,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10331551": {
    "price": 32.0,
@@ -107679,7 +108799,14 @@
      "2026-10-11",
      32.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 135,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10331524": {
    "price": 84.9,
@@ -107699,7 +108826,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 295,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10934778": {
    "price": 159.0,
@@ -107739,7 +108873,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10929725": {
    "price": 36.8,
@@ -107759,7 +108900,14 @@
      "2026-10-11",
      36.8
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918863": {
    "price": 53.0,
@@ -107779,7 +108927,14 @@
      "2026-10-11",
      53.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 54,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918567": {
    "price": 114.9,
@@ -107819,7 +108974,14 @@
      "2026-10-11",
      52.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 49,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10902747": {
    "price": 140.0,
@@ -107859,7 +109021,14 @@
      "2026-10-11",
      45.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 43,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10534155": {
    "price": 94.0,
@@ -107879,7 +109048,14 @@
      "2026-10-11",
      94.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 76,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10958820": {
    "price": 129.99,
@@ -107919,7 +109095,14 @@
      "2026-10-11",
      54.999
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 100,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10957074": {
    "price": 48.5,
@@ -107939,7 +109122,14 @@
      "2026-10-11",
      48.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10955819": {
    "price": 129.99,
@@ -107999,7 +109189,14 @@
      "2026-10-11",
      49.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 40,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10953679": {
    "price": 54.9,
@@ -108019,7 +109216,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 61,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10953630": {
    "price": 66.9,
@@ -108039,7 +109243,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10953619": {
    "price": 139.9,
@@ -108099,7 +109310,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951498": {
    "price": 60.0,
@@ -108119,7 +109337,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951486": {
    "price": 139.9,
@@ -108179,7 +109404,14 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951437": {
    "price": 140.0,
@@ -108219,7 +109451,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951424": {
    "price": 32.9,
@@ -108239,7 +109478,14 @@
      "2026-10-11",
      32.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 129,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951387": {
    "price": 94.9,
@@ -108259,7 +109505,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951383": {
    "price": 59.9,
@@ -108279,7 +109532,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951380": {
    "price": 66.9,
@@ -108299,7 +109559,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951372": {
    "price": 54.9,
@@ -108319,7 +109586,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10950641": {
    "price": 80.0,
@@ -108339,7 +109613,14 @@
      "2026-10-11",
      80.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 180,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10950347": {
    "price": 57.9,
@@ -108359,7 +109640,14 @@
      "2026-10-11",
      57.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 43,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10949545": {
    "price": 42.9,
@@ -108379,7 +109667,14 @@
      "2026-10-11",
      42.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10948910": {
    "price": 85.0,
@@ -108399,7 +109694,14 @@
      "2026-10-11",
      85.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 113,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10947866": {
    "price": 129.99,
@@ -108439,7 +109741,14 @@
      "2026-10-11",
      102.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 95,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10947012": {
    "price": 43.0,
@@ -108459,7 +109768,14 @@
      "2026-10-11",
      43.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 30,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10945789": {
    "price": 54.9,
@@ -108479,7 +109795,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 61,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10944881": {
    "price": 54.9,
@@ -108499,7 +109822,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10944656": {
    "price": 129.99,
@@ -108539,7 +109869,14 @@
      "2026-10-11",
      43.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 30,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10944626": {
    "price": 74.9,
@@ -108559,7 +109896,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10944600": {
    "price": 140.0,
@@ -108619,7 +109963,14 @@
      "2026-10-11",
      52.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 49,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10941842": {
    "price": 74.9,
@@ -108639,7 +109990,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10941129": {
    "price": 119.0,
@@ -108719,7 +110077,14 @@
      "2026-10-11",
      43.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 30,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940554": {
    "price": 74.9,
@@ -108739,7 +110104,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940526": {
    "price": 84.9,
@@ -108759,7 +110131,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 220,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940375": {
    "price": 43.0,
@@ -108779,7 +110158,14 @@
      "2026-10-11",
      43.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 30,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940114": {
    "price": 139.9,
@@ -108819,7 +110205,14 @@
      "2026-10-11",
      43.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 30,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940105": {
    "price": 129.99,
@@ -108879,7 +110272,14 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940094": {
    "price": 74.9,
@@ -108899,7 +110299,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 91,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940090": {
    "price": 94.9,
@@ -108919,7 +110326,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10939834": {
    "price": 139.9,
@@ -108959,7 +110373,14 @@
      "2026-10-11",
      35.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 29,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10938320": {
    "price": 110.0,
@@ -108979,7 +110400,14 @@
      "2026-10-11",
      110.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 179,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10938318": {
    "price": 62.5,
@@ -108999,7 +110427,14 @@
      "2026-10-11",
      62.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 91,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10937468": {
    "price": 32.9,
@@ -109019,7 +110454,14 @@
      "2026-10-11",
      32.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 30,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10936023": {
    "price": 62.9,
@@ -109039,7 +110481,14 @@
      "2026-10-11",
      62.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 58,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10936000": {
    "price": 32.5,
@@ -109059,7 +110508,14 @@
      "2026-10-11",
      32.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 37,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10935535": {
    "price": 132.0,
@@ -109099,7 +110555,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 91,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10935238": {
    "price": 120.0,
@@ -109139,7 +110602,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10935195": {
    "price": 79.9,
@@ -109159,7 +110629,14 @@
      "2026-10-11",
      79.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 95,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10934814": {
    "price": 45.0,
@@ -109179,7 +110656,14 @@
      "2026-10-11",
      45.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 43,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10933636": {
    "price": 62.9,
@@ -109199,7 +110683,14 @@
      "2026-10-11",
      62.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 58,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10933184": {
    "price": 60.0,
@@ -109219,7 +110710,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10933084": {
    "price": 147.9,
@@ -109259,7 +110757,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10932826": {
    "price": 74.9,
@@ -109279,7 +110784,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10932696": {
    "price": 119.9,
@@ -109319,7 +110831,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10931975": {
    "price": 58.9,
@@ -109339,7 +110858,14 @@
      "2026-10-11",
      58.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 43,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10931305": {
    "price": 75.9,
@@ -109359,7 +110885,14 @@
      "2026-10-11",
      75.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 104,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10931185": {
    "price": 23.9,
@@ -109379,7 +110912,14 @@
      "2026-10-11",
      23.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 22,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10930227": {
    "price": 44.9,
@@ -109399,7 +110939,14 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10929449": {
    "price": 89.5,
@@ -109419,7 +110966,14 @@
      "2026-10-11",
      89.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 85,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10929063": {
    "price": 149.0,
@@ -109459,7 +111013,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10928676": {
    "price": 23.9,
@@ -109479,7 +111040,14 @@
      "2026-10-11",
      23.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 22,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10927666": {
    "price": 60.0,
@@ -109499,7 +111067,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10927073": {
    "price": 135.9,
@@ -109539,7 +111114,14 @@
      "2026-10-11",
      23.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 22,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10925812": {
    "price": 59.9,
@@ -109559,7 +111141,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10925384": {
    "price": 60.0,
@@ -109579,7 +111168,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10924799": {
    "price": 23.9,
@@ -109599,7 +111195,14 @@
      "2026-10-11",
      23.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 22,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10924787": {
    "price": 54.9,
@@ -109619,7 +111222,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10924569": {
    "price": 94.9,
@@ -109639,7 +111249,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10923930": {
    "price": 69.99,
@@ -109659,7 +111276,14 @@
      "2026-10-11",
      69.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 46,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10923842": {
    "price": 49.9,
@@ -109679,7 +111303,14 @@
      "2026-10-11",
      49.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 44,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10923041": {
    "price": 129.99,
@@ -109779,7 +111410,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 92,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10921901": {
    "price": 140.0,
@@ -109839,7 +111477,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10919576": {
    "price": 96.0,
@@ -109859,7 +111504,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10919414": {
    "price": 53.0,
@@ -109879,7 +111531,14 @@
      "2026-10-11",
      53.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918423": {
    "price": 53.0,
@@ -109899,7 +111558,14 @@
      "2026-10-11",
      53.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 54,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918165": {
    "price": 44.9,
@@ -109919,7 +111585,14 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918065": {
    "price": 74.9,
@@ -109939,7 +111612,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10917148": {
    "price": 149.0,
@@ -109979,7 +111659,14 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10914186": {
    "price": 44.9,
@@ -109999,7 +111686,14 @@
      "2026-10-11",
      44.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10914183": {
    "price": 149.0,
@@ -110039,7 +111733,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10913451": {
    "price": 74.9,
@@ -110059,7 +111760,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 64,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10913356": {
    "price": 74.9,
@@ -110139,7 +111847,14 @@
      "2026-10-11",
      44.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10912159": {
    "price": 94.9,
@@ -110159,7 +111874,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10911452": {
    "price": 79.9,
@@ -110179,7 +111901,14 @@
      "2026-10-11",
      79.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 95,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10911431": {
    "price": 74.9,
@@ -110199,7 +111928,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10911398": {
    "price": 66.9,
@@ -110219,7 +111955,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10911360": {
    "price": 65.9,
@@ -110239,7 +111982,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10910949": {
    "price": 74.9,
@@ -110279,7 +112029,14 @@
      "2026-10-11",
      60.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10910305": {
    "price": 54.9,
@@ -110299,7 +112056,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10910280": {
    "price": 66.9,
@@ -110319,7 +112083,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10910106": {
    "price": 84.9,
@@ -110339,7 +112110,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 295,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10910032": {
    "price": 84.9,
@@ -110359,7 +112137,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 220,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10909448": {
    "price": 49.0,
@@ -110419,7 +112204,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10909261": {
    "price": 119.0,
@@ -110479,7 +112271,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10907037": {
    "price": 74.9,
@@ -110599,7 +112398,14 @@
      "2026-10-11",
      100.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 90,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10905804": {
    "price": 139.9,
@@ -110679,7 +112485,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10905651": {
    "price": 54.9,
@@ -110699,7 +112512,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10905462": {
    "price": 140.0,
@@ -110799,7 +112619,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10904819": {
    "price": 139.9,
@@ -111059,7 +112886,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10896775": {
    "price": 129.9,
@@ -111159,7 +112993,14 @@
      "2026-10-11",
      37.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 35,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10894963": {
    "price": 104.5,
@@ -111179,7 +113020,14 @@
      "2026-10-11",
      104.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 110,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10894331": {
    "price": 44.9,
@@ -111219,7 +113067,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10892974": {
    "price": 73.5,
@@ -111239,7 +113094,14 @@
      "2026-10-11",
      73.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 69,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10891508": {
    "price": 74.9,
@@ -111279,7 +113141,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10891122": {
    "price": 44.9,
@@ -111319,7 +113188,14 @@
      "2026-10-11",
      94.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 120,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10890508": {
    "price": 37.9,
@@ -111459,7 +113335,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10881904": {
    "price": 117.0,
@@ -111579,7 +113462,14 @@
      "2026-10-11",
      104.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 110,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10880302": {
    "price": 45.9,
@@ -111619,7 +113509,14 @@
      "2026-10-11",
      69.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 75,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10879808": {
    "price": 74.9,
@@ -111639,7 +113536,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10879639": {
    "price": 135.0,
@@ -111739,7 +113643,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 74,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10877807": {
    "price": 139.9,
@@ -111779,7 +113690,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10877783": {
    "price": 120.0,
@@ -111879,7 +113797,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10876126": {
    "price": 99.9,
@@ -111899,7 +113824,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 96,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875839": {
    "price": 84.9,
@@ -111919,7 +113851,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875792": {
    "price": 84.9,
@@ -111939,7 +113878,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 220,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875754": {
    "price": 96.0,
@@ -111959,7 +113905,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875705": {
    "price": 209.5,
@@ -112039,7 +113992,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875418": {
    "price": 201.9,
@@ -112079,7 +114039,14 @@
      "2026-10-11",
      32.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 135,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10874013": {
    "price": 54.9,
@@ -112099,7 +114066,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10874007": {
    "price": 96.0,
@@ -112119,7 +114093,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10874000": {
    "price": 49.0,
@@ -112159,7 +114140,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873944": {
    "price": 139.9,
@@ -112199,7 +114187,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873181": {
    "price": 49.0,
@@ -112239,7 +114234,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873122": {
    "price": 54.9,
@@ -112259,7 +114261,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10872615": {
    "price": 216.2,
@@ -112299,7 +114308,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10869763": {
    "price": 54.9,
@@ -112319,7 +114335,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10869050": {
    "price": 54.9,
@@ -112339,7 +114362,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10868280": {
    "price": 117.0,
@@ -112439,7 +114469,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10866072": {
    "price": 66.9,
@@ -112459,7 +114496,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10865672": {
    "price": 140.0,
@@ -112539,7 +114583,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10865132": {
    "price": 59.9,
@@ -112559,7 +114610,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10861957": {
    "price": 59.9,
@@ -112579,7 +114637,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10861707": {
    "price": 349.0,
@@ -112639,7 +114704,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10860512": {
    "price": 84.9,
@@ -112659,7 +114731,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 220,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10860453": {
    "price": 97.9,
@@ -112679,7 +114758,14 @@
      "2026-10-11",
      97.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 140,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10859774": {
    "price": 59.9,
@@ -112699,7 +114785,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10859348": {
    "price": 84.9,
@@ -112719,7 +114812,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10859319": {
    "price": 119.0,
@@ -112759,7 +114859,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858646": {
    "price": 54.9,
@@ -112779,7 +114886,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858481": {
    "price": 59.9,
@@ -112799,7 +114913,14 @@
      "2026-10-11",
      59.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 72,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858436": {
    "price": 44.5,
@@ -112839,7 +114960,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10857872": {
    "price": 96.0,
@@ -112859,7 +114987,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10857820": {
    "price": 119.0,
@@ -112959,7 +115094,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10851754": {
    "price": 35.9,
@@ -112999,7 +115141,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10851455": {
    "price": 66.9,
@@ -113019,7 +115168,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10850867": {
    "price": 244.9,
@@ -113059,7 +115215,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10849897": {
    "price": 54.9,
@@ -113079,7 +115242,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10849068": {
    "price": 114.9,
@@ -113159,7 +115329,14 @@
      "2026-10-11",
      95.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10842730": {
    "price": 199.9,
@@ -113319,7 +115496,14 @@
      "2026-10-11",
      84.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 79,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10836835": {
    "price": 32.5,
@@ -113379,7 +115563,14 @@
      "2026-10-11",
      87.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 125,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10835285": {
    "price": 95.5,
@@ -113399,7 +115590,14 @@
      "2026-10-11",
      95.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10835246": {
    "price": 119.0,
@@ -113439,7 +115637,14 @@
      "2026-10-11",
      54.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 53,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10833438": {
    "price": 114.9,
@@ -113479,7 +115684,14 @@
      "2026-10-11",
      66.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10832998": {
    "price": 114.9,
@@ -113539,7 +115751,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10831644": {
    "price": 210.0,
@@ -113599,7 +115818,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10829368": {
    "price": 35.9,
@@ -113639,7 +115865,14 @@
      "2026-10-11",
      84.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 79,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10828313": {
    "price": 65.9,
@@ -113679,7 +115912,14 @@
      "2026-10-11",
      84.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 79,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10820885": {
    "price": 114.9,
@@ -113739,7 +115979,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10818648": {
    "price": 69.99,
@@ -113759,7 +116006,14 @@
      "2026-10-11",
      69.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 62,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10817568": {
    "price": 114.9,
@@ -113799,7 +116053,14 @@
      "2026-10-11",
      84.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 79,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10815586": {
    "price": 139.99,
@@ -113839,7 +116100,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10809593": {
    "price": 65.9,
@@ -113859,7 +116127,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10806586": {
    "price": 65.9,
@@ -113879,7 +116154,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10802309": {
    "price": 114.99,
@@ -113919,7 +116201,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10800780": {
    "price": 65.9,
@@ -113939,7 +116228,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10800583": {
    "price": 65.9,
@@ -113959,7 +116255,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10800526": {
    "price": 114.9,
@@ -114039,7 +116342,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10797688": {
    "price": 168.9,
@@ -114099,7 +116409,14 @@
      "2026-10-11",
      65.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 70,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10795076": {
    "price": 114.9,
@@ -114279,7 +116596,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10791132": {
    "price": 168.9,
@@ -114319,7 +116643,14 @@
      "2026-10-11",
      95.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10790378": {
    "price": 66.0,
@@ -114359,7 +116690,14 @@
      "2026-10-11",
      109.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 260,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10788921": {
    "price": 49.0,
@@ -114479,7 +116817,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10787322": {
    "price": 96.0,
@@ -114499,7 +116844,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10787284": {
    "price": 168.9,
@@ -114539,7 +116891,14 @@
      "2026-10-11",
      79.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 95,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10783004": {
    "price": 96.0,
@@ -114559,7 +116918,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10780796": {
    "price": 168.9,
@@ -114599,7 +116965,14 @@
      "2026-10-11",
      59.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 68,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10780183": {
    "price": 168.9,
@@ -114679,7 +117052,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10778201": {
    "price": 168.9,
@@ -114719,7 +117099,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 96,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10776520": {
    "price": 96.0,
@@ -114739,7 +117126,14 @@
      "2026-10-11",
      96.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 112,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10776401": {
    "price": 199.9,
@@ -114779,7 +117173,14 @@
      "2026-10-11",
      59.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 68,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10773790": {
    "price": 59.99,
@@ -114799,7 +117200,14 @@
      "2026-10-11",
      59.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 68,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10773118": {
    "price": 114.9,
@@ -114999,7 +117407,14 @@
      "2026-10-11",
      94.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 160,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10759301": {
    "price": 99.8,
@@ -115019,7 +117434,14 @@
      "2026-10-11",
      99.8
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 160,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10752712": {
    "price": 119.0,
@@ -115059,7 +117481,14 @@
      "2026-10-11",
      98.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 98,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10752177": {
    "price": 84.0,
@@ -115079,7 +117508,14 @@
      "2026-10-11",
      84.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10752175": {
    "price": 189.0,
@@ -115139,7 +117575,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10750630": {
    "price": 84.9,
@@ -115159,7 +117602,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10749433": {
    "price": 45.0,
@@ -115259,7 +117709,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": null,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10742120": {
    "price": 120.0,
@@ -115299,7 +117756,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10738411": {
    "price": 126.5,
@@ -115339,7 +117803,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 295,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10730993": {
    "price": 74.9,
@@ -115359,7 +117830,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10729764": {
    "price": 51.9,
@@ -115379,7 +117857,14 @@
      "2026-10-11",
      51.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 55,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10729448": {
    "price": 49.0,
@@ -115439,7 +117924,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10729213": {
    "price": 84.9,
@@ -115479,7 +117971,14 @@
      "2026-10-11",
      98.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 98,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10726432": {
    "price": 84.9,
@@ -115499,7 +117998,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10726407": {
    "price": 84.9,
@@ -115519,7 +118025,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10724594": {
    "price": 84.9,
@@ -115539,7 +118052,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10723569": {
    "price": 84.9,
@@ -115559,7 +118079,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10722144": {
    "price": 32.9,
@@ -115599,7 +118126,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10720994": {
    "price": 159.0,
@@ -115679,7 +118213,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 113,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10711617": {
    "price": 79.0,
@@ -115699,7 +118240,14 @@
      "2026-10-11",
      79.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 98,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10708279": {
    "price": 84.0,
@@ -115719,7 +118267,14 @@
      "2026-10-11",
      84.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 108,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10702168": {
    "price": 139.9,
@@ -115779,7 +118334,14 @@
      "2026-10-11",
      24.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 26,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10698366": {
    "price": 84.0,
@@ -115799,7 +118361,14 @@
      "2026-10-11",
      84.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 125,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10698004": {
    "price": 126.5,
@@ -115899,7 +118468,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 113,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10689477": {
    "price": 30.9,
@@ -116019,7 +118595,14 @@
      "2026-10-11",
      97.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 260,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10679828": {
    "price": 201.9,
@@ -116159,7 +118742,14 @@
      "2026-10-11",
      49.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 63,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10670651": {
    "price": 150.0,
@@ -116219,7 +118809,14 @@
      "2026-10-11",
      69.99
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 107,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10660620": {
    "price": 45.0,
@@ -116279,7 +118876,14 @@
      "2026-10-11",
      59.5
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 106,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10647893": {
    "price": 50.0,
@@ -116319,7 +118923,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 220,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10635547": {
    "price": 50.0,
@@ -116359,7 +118970,14 @@
      "2026-10-11",
      26.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 28,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10633625": {
    "price": 119.99,
@@ -116419,7 +119037,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 96,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10619896": {
    "price": 119.0,
@@ -116459,7 +119084,14 @@
      "2026-10-11",
      24.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 28,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10616739": {
    "price": 149.9,
@@ -116579,7 +119211,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 96,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10592613": {
    "price": 97.9,
@@ -116599,7 +119238,14 @@
      "2026-10-11",
      97.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 150,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10578170": {
    "price": 175.0,
@@ -116659,7 +119305,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10567897": {
    "price": 48.5,
@@ -116699,7 +119352,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10554179": {
    "price": 119.0,
@@ -116739,7 +119399,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10550849": {
    "price": 120.0,
@@ -116779,7 +119446,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10545952": {
    "price": 74.9,
@@ -116799,7 +119473,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10542787": {
    "price": 99.9,
@@ -116819,7 +119500,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 96,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10541275": {
    "price": 79.9,
@@ -116839,7 +119527,14 @@
      "2026-10-11",
      79.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 95,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10517597": {
    "price": 159.0,
@@ -116879,7 +119574,14 @@
      "2026-10-11",
      99.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 96,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10503736": {
    "price": 119.0,
@@ -117199,7 +119901,14 @@
      "2026-10-11",
      87.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 149,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10394447": {
    "price": 195.0,
@@ -117239,7 +119948,14 @@
      "2026-10-11",
      84.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 220,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10380944": {
    "price": 120.0,
@@ -117399,7 +120115,14 @@
      "2026-10-11",
      97.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 260,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10234991": {
    "price": 74.9,
@@ -117419,7 +120142,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10229148": {
    "price": 32.0,
@@ -117439,7 +120169,14 @@
      "2026-10-11",
      32.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 135,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10202387": {
    "price": 200.0,
@@ -117479,7 +120216,14 @@
      "2026-10-11",
      76.0
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 80,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10137206": {
    "price": 74.9,
@@ -117499,7 +120243,14 @@
      "2026-10-11",
      74.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 73,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10020298": {
    "price": 190.0,
@@ -117579,7 +120330,14 @@
      "2026-10-11",
      79.9
     ]
-   ]
+   ],
+   "detail": {
+    "condition": "Felújítandó",
+    "m2": 300,
+    "telek": null,
+    "zartkert": false,
+    "fetched": "2026-10-11"
+   }
   }
  },
  "runs": [
@@ -118559,6 +121317,101 @@
      "pages": 40,
      "failed": [],
      "cards": 800
+    },
+    "XIX. kerület": {
+     "pages": 11,
+     "failed": [],
+     "cards": 207
+    },
+    "XX. kerület": {
+     "pages": 27,
+     "failed": [],
+     "cards": 525
+    }
+   }
+  },
+  {
+   "date": "2026-10-11",
+   "report": {
+    "Göd": {
+     "pages": 8,
+     "failed": [],
+     "cards": 144
+    },
+    "Veresegyház": {
+     "pages": 10,
+     "failed": [],
+     "cards": 184
+    },
+    "Pomáz": {
+     "pages": 5,
+     "failed": [],
+     "cards": 99
+    },
+    "Szentendre": {
+     "pages": 15,
+     "failed": [],
+     "cards": 291
+    },
+    "Fót": {
+     "pages": 10,
+     "failed": [],
+     "cards": 193
+    },
+    "Csömör": {
+     "pages": 6,
+     "failed": [],
+     "cards": 103
+    },
+    "XIV. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 112
+    },
+    "XV. kerület": {
+     "pages": 14,
+     "failed": [],
+     "cards": 278
+    },
+    "XVI. kerület": {
+     "pages": 26,
+     "failed": [],
+     "cards": 504
+    },
+    "II. kerület": {
+     "pages": 19,
+     "failed": [],
+     "cards": 378
+    },
+    "XII. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 91
+    },
+    "III. kerület": {
+     "pages": 15,
+     "failed": [],
+     "cards": 288
+    },
+    "X. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 95
+    },
+    "XXI. kerület": {
+     "pages": 14,
+     "failed": [],
+     "cards": 273
+    },
+    "XI. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 123
+    },
+    "IV. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 92
     },
     "XIX. kerület": {
      "pages": 11,
