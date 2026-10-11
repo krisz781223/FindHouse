@@ -218,32 +218,6 @@
       ]
     },
     {
-      "name": "XVII. kerület",
-      "slug": "budapest-xvii-kerulet",
-      "transit": "busz / vonat → Örs (M2)",
-      "bkv": [
-        50,
-        65
-      ],
-      "car": [
-        10,
-        20
-      ]
-    },
-    {
-      "name": "XVIII. kerület",
-      "slug": "budapest-xviii-kerulet",
-      "transit": "busz → M3 / Kőbánya-Kispest",
-      "bkv": [
-        50,
-        65
-      ],
-      "car": [
-        25,
-        35
-      ]
-    },
-    {
       "name": "XIX. kerület",
       "slug": "budapest-xix-kerulet",
       "transit": "M3 → Deák (M2)",

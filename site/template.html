@@ -232,13 +232,15 @@ const hiddenBy  = id => marks[id]?.hides || new Set();
 const isStar = id => starredBy(id).size>0, isHid = id => hiddenBy(id).size>0;
 const who = set => [...set].map(u=>u===me?"te":(names[u]||"valaki")).join(", ");
 
-const defaults = {towns:[...TOWNS], pmin:"", pmax:"", rmin:"", m2min:"", tmin:"", ymin:"", bmax:"60", cmax:"45", q:"", hideFlags:[...EXCLUDE], onlyStar:false, onlyNew:false, onlyRe:false, showHidden:false, sort:"price", dir:1};
+const defaults = {towns:[...TOWNS], pmin:"", pmax:"105", rmin:"3", m2min:"75", tmin:"400", ymin:"", bmax:"60", cmax:"45", q:"", hideFlags:[...EXCLUDE], onlyStar:false, onlyNew:false, onlyRe:false, showHidden:false, sort:"price", dir:1};
 let S = Object.assign({}, defaults, store.get("hl_state3", {}));
 // v2: alapból 60 perc tömegközlekedés és 45 perc autó (a becsült sáv közepe számít)
 if(!S.v2){ if(S.bmax===""||S.bmax==null) S.bmax=defaults.bmax; if(S.cmax===""||S.cmax==null) S.cmax=defaults.cmax; S.v2=true; }
 // újonnan felvett települések/kerületek alapból látszanak
 if(Array.isArray(S.knownTowns)){ TOWNS.forEach(t=>{ if(!S.knownTowns.includes(t) && !S.towns.includes(t)) S.towns.push(t); }); }
 S.knownTowns=[...TOWNS];
+// v3: közös alapszűrő (max. 105 M Ft, min. 3 szoba, min. 75 m², min. 400 m² telek) – egyszer mindenkinél beáll
+if(!S.v3){ ["pmax","rmin","m2min","tmin"].forEach(k=>S[k]=defaults[k]); S.v3=true; }
 S.towns = S.towns.filter(t=>TOWNS.includes(t));
 let shown = PAGE;
 
@@ -273,9 +275,9 @@ function filtered(){
     if(!S.towns.includes(d.town)) return false;
     if(pmin!=null && d.price<pmin) return false;
     if(pmax!=null && d.price>pmax) return false;
-    if(rmin!=null && (d.rsum==null || d.rsum<rmin)) return false;
-    if(m2min!=null && (d.m2==null || d.m2<m2min)) return false;
-    if(tmin!=null && (d.telek==null || d.telek<tmin)) return false;
+    if(rmin!=null && d.rsum!=null && d.rsum<rmin) return false;  // hiányzó adat nem rejt el
+    if(m2min!=null && d.m2!=null && d.m2<m2min) return false;  // hiányzó adat nem rejt el
+    if(tmin!=null && d.telek!=null && d.telek<tmin) return false;  // hiányzó adat nem rejt el
     if(ymin!=null && (d.year==null || d.year<ymin)) return false;
     if(bmax!=null && (d.bkv[0]+d.bkv[1])/2>bmax) return false;
     if(cmax!=null && (d.car[0]+d.car[1])/2>cmax) return false;
@@ -376,7 +378,7 @@ $("onlynew").onclick=()=>{S.onlyNew=!S.onlyNew; if(S.onlyNew) S.onlyRe=false; up
 $("onlyre").onclick=()=>{S.onlyRe=!S.onlyRe; if(S.onlyRe) S.onlyNew=false; update();};
 $("onlystar").onclick=()=>{S.onlyStar=!S.onlyStar; update();};
 $("showhidden").onclick=()=>{S.showHidden=!S.showHidden; update();};
-$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE],v2:true,knownTowns:[...TOWNS]}); update();};
+$("reset").onclick=()=>{S=Object.assign({},defaults,{towns:[...TOWNS],hideFlags:[...EXCLUDE],v2:true,v3:true,knownTowns:[...TOWNS]}); update();};
 $("more").onclick=()=>{ shown+=PAGE; render(); };
 $("ctnew").textContent=DATA.filter(d=>d.status==="new").length||"";
 $("ctre").textContent=DATA.filter(d=>d.status==="relisted").length||"";
