@@ -59,7 +59,9 @@ def _flags(rooms, m2, telek, year, note):
     rsum = sum(int(x) for x in re.findall(r"\d+", rooms)) if rooms else None
     f, n = [], (note or "").lower()
     if telek is not None and telek < 300: f.append("telek < 300 m²")
-    if any(k in n for k in ("házrész", "lakrész", "használati megosztás", "osztatlan", "leválasztott", "lakásos")): f.append("házrész / megosztott")
+    if any(k in n for k in ("házrész", "lakrész", "használati megosztás", "osztatlan", "leválasztott", "lakásos")) \
+            or re.search(r"(kétszintes|belső|sorházi|ikerházi|önálló bejáratú)\s+lakás|ikerház fele|fél ház|\b1/2\b|tulajdoni hányad|eszmei", n):
+        f.append("házrész / megosztott")
     if any(k in n for k in ("hétvégi", "üdülő", "nyaraló", "zártkert", "külterület", "vízparti telek", "dűlő")): f.append("nyaraló / üdülő")
     if "haszonélvez" in n: f.append("haszonélvezet")
     if any(k in n for k in ("csak készpénz", "kp-s", "kizárólag kp", "nem hitelezhető", "startra nem", "bontandó")): f.append("nem hitelezhető")
