@@ -103,3 +103,10 @@ def test_detail_page_and_renovation():
 def test_card_m2_with_superscript():
     r = parse_card_text("89.9 M Ft 936 458 Ft/m2 XXI. - Eladó családi ház Csepel ... 4 szoba96 m² telekméret:692 m² építés éve:1950")
     assert r["m2"] == 96 and r["telek"] == 692
+
+
+def test_card_m2_split_superscript_and_ppm_fallback():
+    r = parse_card_text("144.9 M Ft 1 114 615 Ft/m 2 XIV. - Eladó családi ház Világos ... 4 szoba 130 m 2 telekméret:321 m² építés éve:1970")
+    assert r["m2"] == 130
+    r = parse_card_text("144.9 M Ft 1 114 615 Ft/m 2 XIV. - Eladó családi ház Világos ... 4 szoba telekméret:321 m²")
+    assert r["m2"] == 130

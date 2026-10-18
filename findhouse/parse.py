@@ -32,9 +32,16 @@ def parse_card_text(text: str) -> dict:
     # m2: the number right before "m2" that is not part of "Ft/m2"
     tail = t.split("szoba", 1)[-1] if "szoba" in t else t
     tail = tail.split("telekméret", 1)[0]
-    m = re.search(r"(\d{2,4})\s*m(?:2|²)", tail)
+    m = re.search(r"(\d{2,4})\s*m\s*(?:2|²)", tail)   # "130 m2", "130 m²" or "130 m<sup>2</sup>"
     if m:
         out["m2"] = int(m.group(1))
+    elif out["price"]:
+        # fallback: price / (Ft per m²) shown on the card
+        pm = re.search(r"(\d{1,3}(?:[ \u00a0]\d{3})+)\s*Ft\s*/\s*m", t)
+        if pm:
+            ppm = int(re.sub(r"\D", "", pm.group(1)))
+            if ppm > 50000:
+                out["m2"] = round(out["price"] * 1e6 / ppm)
     m = TELEK.search(t)
     if m:
         v = _num(m.group(1))
