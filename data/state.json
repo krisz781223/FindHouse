@@ -178565,6 +178565,101 @@
      "cards": 487
     }
    }
+  },
+  {
+   "date": "2026-11-19",
+   "report": {
+    "Göd": {
+     "pages": 8,
+     "failed": [],
+     "cards": 141
+    },
+    "Veresegyház": {
+     "pages": 10,
+     "failed": [],
+     "cards": 193
+    },
+    "Pomáz": {
+     "pages": 5,
+     "failed": [],
+     "cards": 91
+    },
+    "Szentendre": {
+     "pages": 17,
+     "failed": [],
+     "cards": 323
+    },
+    "Fót": {
+     "pages": 11,
+     "failed": [],
+     "cards": 218
+    },
+    "Csömör": {
+     "pages": 7,
+     "failed": [],
+     "cards": 129
+    },
+    "XIV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 122
+    },
+    "XV. kerület": {
+     "pages": 16,
+     "failed": [],
+     "cards": 304
+    },
+    "XVI. kerület": {
+     "pages": 32,
+     "failed": [],
+     "cards": 627
+    },
+    "II. kerület": {
+     "pages": 22,
+     "failed": [],
+     "cards": 431
+    },
+    "XII. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 102
+    },
+    "III. kerület": {
+     "pages": 16,
+     "failed": [],
+     "cards": 320
+    },
+    "X. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 94
+    },
+    "XXI. kerület": {
+     "pages": 12,
+     "failed": [],
+     "cards": 234
+    },
+    "XI. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 132
+    },
+    "IV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 122
+    },
+    "XIX. kerület": {
+     "pages": 11,
+     "failed": [],
+     "cards": 214
+    },
+    "XX. kerület": {
+     "pages": 25,
+     "failed": [],
+     "cards": 487
+    }
+   }
   }
  ]
 }
