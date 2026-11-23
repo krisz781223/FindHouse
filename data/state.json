@@ -8738,7 +8738,7 @@
    "id": "h10732468",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10732468",
    "area": "XIV. kerület",
-   "price": 124.9,
+   "price": 123.9,
    "rooms": "3+1",
    "m2": 106,
    "telek": 368,
@@ -8751,6 +8751,10 @@
     [
      "2026-09-26",
      124.9
+    ],
+    [
+     "2026-11-23",
+     123.9
     ]
    ],
    "seed": true,
@@ -13251,8 +13255,8 @@
    "year": 1971,
    "note": "Budapest X. kerület Óhegy városrészen, 255 nm nagyságú önálló családi ház eladó, 649 nm",
    "first_seen": "2026-10-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-01",
@@ -13262,7 +13266,8 @@
    "seed": true,
    "relisted": [
     "2026-10-27",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10933063": {
@@ -13302,19 +13307,23 @@
    "id": "h10928944",
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10928944",
    "area": "X. kerület",
-   "price": 59.9,
+   "price": 56.9,
    "rooms": "2",
    "m2": 52,
    "telek": 300,
    "year": 1930,
    "note": "X. kerületben, a Bajcsy Kórház közelében, kis lakásszámú, rendezett társasházban eladó",
    "first_seen": "2026-10-01",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-01",
      59.9
+    ],
+    [
+     "2026-11-23",
+     56.9
     ]
    ],
    "seed": true,
@@ -13325,7 +13334,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-15"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10928140": {
    "id": "h10928140",
@@ -13995,8 +14007,8 @@
    "year": 2008,
    "note": "Kétszintes családi ház, nagy kerttel, garázzsal, tárolóval a XI.kerületben eladó ! Telek:",
    "first_seen": "2026-10-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-01",
@@ -14013,7 +14025,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10757240": {
@@ -14598,8 +14611,8 @@
    "year": 1940,
    "note": "Felújítandó vagy bontandó 4 lakásos ingatlan Csepel kertvárosban - Befektetők, családok",
    "first_seen": "2026-10-01",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-01",
@@ -14614,7 +14627,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10875611": {
    "id": "h10875611",
@@ -19093,13 +19109,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10900954",
    "area": "Veresegyház",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      128.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10888925": {
@@ -23806,8 +23825,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10924054",
    "area": "Szentendre",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -23818,7 +23837,8 @@
     "2026-10-12",
     "2026-10-25",
     "2026-11-02",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10920551": {
@@ -24260,8 +24280,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10876311",
    "area": "Szentendre",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -24269,7 +24289,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10876307": {
@@ -24326,8 +24347,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10875490",
    "area": "Szentendre",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -24335,7 +24356,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10875486": {
@@ -28211,8 +28233,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10875763",
    "area": "Fót",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -28220,7 +28242,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10873864": {
@@ -31960,8 +31983,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10875865",
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -31971,6 +31994,9 @@
      "2026-11-07",
      385.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10875701": {
@@ -31984,8 +32010,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10875701",
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -31993,7 +32019,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10875517": {
@@ -32007,8 +32034,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10875517",
    "area": "XIV. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -32018,6 +32045,9 @@
      "2026-10-23",
      229.9
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10869984": {
@@ -35210,8 +35240,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10912305",
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -35222,7 +35252,8 @@
     "2026-10-08",
     "2026-10-15",
     "2026-10-27",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ],
    "detail": {
     "condition": null,
@@ -35580,8 +35611,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10905638",
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -35597,7 +35628,8 @@
     "fetched": "2026-10-13"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10903334": {
@@ -36326,8 +36358,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10876283",
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -36343,7 +36375,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10876273": {
@@ -36381,8 +36414,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10875932",
    "area": "XV. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -36402,7 +36435,8 @@
     "fetched": "2026-10-13"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10875778": {
@@ -41273,8 +41307,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10937566",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -41283,7 +41317,8 @@
    ],
    "relisted": [
     "2026-10-19",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10936033": {
@@ -41640,8 +41675,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10931310",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -41651,7 +41686,8 @@
    "relisted": [
     "2026-10-29",
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10930971": {
@@ -43292,13 +43328,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10877657",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      440.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876489": {
@@ -43312,8 +43351,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876489",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43327,6 +43366,9 @@
      "2026-10-23",
      132.5
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876480": {
@@ -43380,8 +43422,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876470",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43389,7 +43431,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876460": {
@@ -43423,8 +43466,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876333",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43434,6 +43477,9 @@
      "2026-10-19",
      299.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876229": {
@@ -43447,8 +43493,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876229",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43456,7 +43502,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10876175": {
@@ -43490,13 +43537,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875874",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      264.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875870": {
@@ -43601,8 +43651,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875715",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43610,7 +43660,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875687": {
@@ -43624,13 +43675,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875687",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-08",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      210.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875684": {
@@ -43644,13 +43698,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875684",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      240.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875681": {
@@ -43664,8 +43721,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875681",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43679,6 +43736,9 @@
      "2026-11-01",
      320.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875657": {
@@ -43692,8 +43752,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875657",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43707,7 +43767,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-14"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875453": {
    "price": 380.0,
@@ -43720,13 +43783,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875453",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-08",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      380.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875427": {
@@ -43740,8 +43806,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10875427",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -43749,7 +43815,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10874331": {
@@ -44232,13 +44299,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10852775",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-08",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      179.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10852771": {
@@ -45327,13 +45397,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10809623",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      155.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10808755": {
@@ -46370,13 +46443,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10769887",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-06",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      264.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10769863": {
@@ -49776,13 +49852,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10334857",
    "area": "XVI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-04",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      125.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10333868": {
@@ -50288,8 +50367,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10935863",
    "area": "II. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -50298,7 +50377,8 @@
    ],
    "relisted": [
     "2026-10-07",
-    "2026-10-23"
+    "2026-10-23",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10902536": {
@@ -51184,8 +51264,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10934833",
    "area": "II. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -51194,7 +51274,8 @@
    ],
    "relisted": [
     "2026-10-07",
-    "2026-10-23"
+    "2026-10-23",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10932948": {
@@ -51228,8 +51309,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10932467",
    "area": "II. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -51239,7 +51320,8 @@
    "relisted": [
     "2026-10-27",
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10930073": {
@@ -52968,13 +53050,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10876431",
    "area": "II. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      388.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10875730": {
@@ -61954,8 +62039,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10945857",
    "area": "III. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -61967,7 +62052,8 @@
     "2026-10-28",
     "2026-11-02",
     "2026-11-11",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10945030": {
@@ -63247,8 +63333,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10876119",
    "area": "III. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -63256,7 +63342,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10876114": {
@@ -65301,13 +65388,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10704470",
    "area": "III. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      134.9
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10704218": {
@@ -68054,8 +68144,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10865207",
    "area": "X. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -68066,7 +68156,8 @@
     "2026-10-05",
     "2026-10-19",
     "2026-11-02",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10865102": {
@@ -68080,8 +68171,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10865102",
    "area": "X. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -68094,7 +68185,8 @@
     "2026-10-19",
     "2026-10-29",
     "2026-11-05",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10865093": {
@@ -69611,8 +69703,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10928544",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -69625,7 +69717,8 @@
     "2026-10-23",
     "2026-10-28",
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ],
    "detail": {
     "condition": null,
@@ -70391,8 +70484,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10905766",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -70408,7 +70501,8 @@
     "fetched": "2026-10-14"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10905758": {
@@ -71140,13 +71234,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10876424",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      210.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10876305": {
@@ -71160,8 +71257,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10876305",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -71181,7 +71278,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10876278": {
@@ -71195,8 +71293,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10876278",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -71210,7 +71308,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-14"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10876227": {
    "price": 134.9,
@@ -71246,8 +71347,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10876050",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -71263,7 +71364,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10875953": {
@@ -71308,8 +71410,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10875893",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
@@ -71325,7 +71427,8 @@
     "fetched": "2026-10-14"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10868820": {
@@ -72849,13 +72952,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10749797",
    "area": "XXI. kerület",
    "first_seen": "2026-10-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-02",
      183.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10743424": {
@@ -77476,8 +77582,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10842685",
    "area": "Göd",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -77495,7 +77601,8 @@
     "2026-10-27",
     "2026-11-02",
     "2026-11-09",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ],
    "detail": {
     "condition": "Felújítandó",
@@ -78279,8 +78386,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10833605",
    "area": "Fót",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-01",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -78290,7 +78397,8 @@
    "relisted": [
     "2026-10-15",
     "2026-10-27",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10945850": {
@@ -78571,8 +78679,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849971",
    "area": "XV. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -78585,7 +78693,8 @@
    ],
    "relisted": [
     "2026-10-23",
-    "2026-10-27"
+    "2026-10-27",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849621": {
@@ -78599,8 +78708,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849621",
    "area": "XV. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -78613,7 +78722,8 @@
    ],
    "relisted": [
     "2026-10-23",
-    "2026-10-27"
+    "2026-10-27",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10849365": {
@@ -79420,8 +79530,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10871941",
    "area": "II. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -79433,7 +79543,8 @@
     "2026-10-23",
     "2026-10-29",
     "2026-11-07",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10771292": {
@@ -79742,8 +79853,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10926075",
    "area": "III. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -79755,7 +79866,8 @@
     "2026-10-29",
     "2026-11-02",
     "2026-11-11",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10924725": {
@@ -79900,13 +80012,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951473",
    "area": "X. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
      129.99
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951461": {
@@ -79920,13 +80035,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951461",
    "area": "X. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
      155.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-x-kerulet/h10951407": {
@@ -80094,8 +80212,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951894",
    "area": "XXI. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -80114,7 +80232,8 @@
     "2026-10-29",
     "2026-11-02",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10951763": {
@@ -80367,8 +80486,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10845292",
    "area": "XXI. kerület",
    "first_seen": "2026-10-03",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-03",
@@ -80379,7 +80498,8 @@
     "2026-10-07",
     "2026-10-25",
     "2026-10-29",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ],
    "detail": {
     "condition": "Felújított",
@@ -81204,8 +81324,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-csomor/h10846937",
    "area": "Csömör",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-05",
@@ -81219,7 +81339,8 @@
     "2026-10-27",
     "2026-11-01",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10756840": {
@@ -81293,8 +81414,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10886515",
    "area": "XV. kerület",
    "first_seen": "2026-10-05",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-05",
@@ -81310,7 +81431,8 @@
     "2026-10-19",
     "2026-10-27",
     "2026-11-05",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ],
    "detail": {
     "condition": "Felújított",
@@ -82208,8 +82330,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10846507",
    "area": "Szentendre",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-07",
@@ -82219,7 +82341,8 @@
    "relisted": [
     "2026-10-25",
     "2026-11-02",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10956488": {
@@ -82345,8 +82468,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10870870",
    "area": "XIV. kerület",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-11-08",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-07",
@@ -82360,7 +82483,8 @@
    "relisted": [
     "2026-10-29",
     "2026-11-02",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10957617": {
@@ -83048,8 +83172,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10905035",
    "area": "II. kerület",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-07",
@@ -83059,7 +83183,8 @@
    "relisted": [
     "2026-10-23",
     "2026-10-29",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10899466": {
@@ -83360,8 +83485,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10926726",
    "area": "XXI. kerület",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-31",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-07",
@@ -83370,7 +83495,8 @@
    ],
    "relisted": [
     "2026-10-25",
-    "2026-10-29"
+    "2026-10-29",
+    "2026-11-23"
    ],
    "detail": {
     "condition": null,
@@ -83465,8 +83591,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10958055",
    "area": "Pomáz",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-08",
@@ -83478,7 +83604,8 @@
     "2026-11-01",
     "2026-11-07",
     "2026-11-11",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10958804": {
@@ -83844,8 +83971,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10958500",
    "area": "XVI. kerület",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-08",
@@ -83864,7 +83991,8 @@
     "2026-10-27",
     "2026-10-29",
     "2026-11-07",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10958476": {
@@ -115998,8 +116126,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10944649",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -116007,7 +116135,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10941239": {
@@ -116187,8 +116316,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10935201",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -116203,7 +116332,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10933077": {
@@ -116295,8 +116425,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10926174",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -116314,7 +116444,8 @@
    "relisted": [
     "2026-10-23",
     "2026-11-01",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10925423": {
@@ -116356,8 +116487,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10925405",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -116365,7 +116496,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10925396": {
@@ -116630,8 +116762,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10912163",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -116641,7 +116773,8 @@
    "relisted": [
     "2026-10-25",
     "2026-11-02",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10911283": {
@@ -116857,8 +116990,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10905811",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -116873,7 +117006,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10905712": {
@@ -116910,8 +117044,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10905665",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -116919,7 +117053,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10904244": {
@@ -117415,8 +117550,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10877660",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -117431,7 +117566,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10876388": {
@@ -117527,8 +117663,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10876221",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -117536,7 +117672,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10876039": {
@@ -117550,13 +117687,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10876039",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
      119.9
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10875443": {
@@ -117765,8 +117905,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10862739",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -117775,7 +117915,8 @@
    ],
    "relisted": [
     "2026-11-02",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10860516": {
@@ -117885,8 +118026,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10857859",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -117897,7 +118038,8 @@
     "2026-10-19",
     "2026-11-01",
     "2026-11-07",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10854099": {
@@ -118150,13 +118292,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10830018",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-08",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
      149.9
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10828045": {
@@ -118260,8 +118405,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10822499",
    "area": "XIX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -118276,7 +118421,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10818273": {
@@ -121769,8 +121915,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10953630",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -121788,7 +121934,8 @@
    "relisted": [
     "2026-10-19",
     "2026-11-01",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10953619": {
@@ -121802,8 +121949,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10953619",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-06",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -121812,7 +121959,8 @@
    ],
    "relisted": [
     "2026-10-25",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10952838": {
@@ -121942,8 +122090,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951462",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -121961,7 +122109,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951437": {
    "price": 140.0,
@@ -121974,8 +122125,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951437",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -121983,7 +122134,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951426": {
@@ -121997,8 +122149,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951426",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -122012,7 +122164,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951424": {
    "price": 31.9,
@@ -122025,8 +122180,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951424",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -122045,7 +122200,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951387": {
@@ -122059,8 +122215,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951387",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -122077,7 +122233,10 @@
     "telek": null,
     "zartkert": false,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951383": {
    "price": 59.9,
@@ -122117,8 +122276,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951380",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -122132,7 +122291,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951372": {
    "price": 54.9,
@@ -122145,8 +122307,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951372",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -122160,7 +122322,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10950641": {
    "price": 80.0,
@@ -122722,8 +122887,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940526",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -122738,7 +122903,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940375": {
@@ -122780,13 +122946,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940114",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
      139.9
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940109": {
@@ -124074,8 +124243,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10922132",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -124085,7 +124254,8 @@
    "relisted": [
     "2026-10-23",
     "2026-10-28",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10922079": {
@@ -124127,8 +124297,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10921901",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -124138,7 +124308,8 @@
    "relisted": [
     "2026-10-23",
     "2026-10-28",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10921567": {
@@ -124219,8 +124390,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10919576",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -124240,7 +124411,8 @@
     "2026-10-28",
     "2026-11-02",
     "2026-11-07",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10919414": {
@@ -124315,8 +124487,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918165",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -124339,7 +124511,8 @@
     "2026-10-15",
     "2026-10-23",
     "2026-11-02",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918065": {
@@ -126821,13 +126994,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10877680",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
      119.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10877330": {
@@ -126861,13 +127037,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10876520",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
      126.5
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10876454": {
@@ -126908,8 +127087,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10876126",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -126922,7 +127101,10 @@
     "telek": null,
     "zartkert": false,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875839": {
    "price": 84.9,
@@ -126935,8 +127117,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875839",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -126952,7 +127134,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875792": {
@@ -126966,8 +127149,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875792",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -126980,7 +127163,10 @@
     "telek": null,
     "zartkert": false,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875754": {
    "price": 96.0,
@@ -127044,8 +127230,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875694",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -127059,7 +127245,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875537": {
    "price": 47.5,
@@ -127104,8 +127293,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875465",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -127123,7 +127312,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875418": {
    "price": 201.9,
@@ -127136,8 +127328,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10875418",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -127145,7 +127337,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10874427": {
@@ -127186,8 +127379,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10874013",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -127204,7 +127397,8 @@
    },
    "relisted": [
     "2026-11-11",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10874007": {
@@ -127282,8 +127476,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873991",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -127301,7 +127495,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873944": {
    "price": 139.9,
@@ -128022,8 +128219,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10859348",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -128042,7 +128239,8 @@
     "2026-10-19",
     "2026-10-29",
     "2026-11-05",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10859319": {
@@ -128076,8 +128274,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10859303",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -128092,7 +128290,8 @@
     "fetched": "2026-10-11"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858646": {
@@ -128219,8 +128418,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10857872",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -128237,7 +128436,8 @@
    },
    "relisted": [
     "2026-10-23",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10857820": {
@@ -128251,8 +128451,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10857820",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -128262,7 +128462,8 @@
    "relisted": [
     "2026-10-23",
     "2026-11-01",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10854380": {
@@ -128771,8 +128972,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10840271",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -128791,7 +128992,8 @@
     "2026-10-27",
     "2026-11-01",
     "2026-11-05",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10840145": {
@@ -129157,8 +129359,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10831350",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -129169,7 +129371,8 @@
     "2026-10-15",
     "2026-10-28",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ],
    "detail": {
     "condition": null,
@@ -129842,8 +130045,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10798082",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -129861,7 +130064,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-11"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10797688": {
    "price": 168.9,
@@ -130480,8 +130686,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10787284",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
@@ -130489,7 +130695,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10784677": {
@@ -133882,13 +134089,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10371664",
    "area": "XX. kerület",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-04",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-11",
      120.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10368723": {
@@ -134393,8 +134603,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10962901",
    "area": "Göd",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -134415,7 +134625,8 @@
    },
    "relisted": [
     "2026-10-27",
-    "2026-10-29"
+    "2026-10-29",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10962878": {
@@ -134429,8 +134640,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10962878",
    "area": "Göd",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -134453,7 +134664,8 @@
     "2026-10-23",
     "2026-10-28",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10962869": {
@@ -134635,8 +134847,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10962051",
    "area": "Göd",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -134654,7 +134866,8 @@
    "relisted": [
     "2026-10-28",
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10961957": {
@@ -134821,8 +135034,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10962937",
    "area": "Veresegyház",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -134834,7 +135047,8 @@
     "2026-10-29",
     "2026-11-02",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10962875": {
@@ -135036,8 +135250,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10960637",
    "area": "Pomáz",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-06",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -135046,7 +135260,8 @@
    ],
    "relisted": [
     "2026-10-25",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10959525": {
@@ -135220,8 +135435,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10963467",
    "area": "Szentendre",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -135230,7 +135445,8 @@
    ],
    "relisted": [
     "2026-11-02",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10963462": {
@@ -135352,8 +135568,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10962910",
    "area": "Szentendre",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -135362,7 +135578,8 @@
    ],
    "relisted": [
     "2026-11-02",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10962907": {
@@ -135402,8 +135619,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10962893",
    "area": "Szentendre",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -135419,7 +135636,8 @@
     "fetched": "2026-10-12"
    },
    "relisted": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10962886": {
@@ -136298,8 +136516,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-csomor/h10962861",
    "area": "Csömör",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136309,7 +136527,8 @@
    "relisted": [
     "2026-10-19",
     "2026-11-02",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-csomor/h10961670": {
@@ -136489,8 +136708,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10962611",
    "area": "XV. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136501,7 +136720,8 @@
     "2026-10-19",
     "2026-10-25",
     "2026-11-01",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10962424": {
@@ -136547,8 +136767,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10962081",
    "area": "XV. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136559,7 +136779,8 @@
     "2026-10-19",
     "2026-10-25",
     "2026-11-01",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10961774": {
@@ -136805,8 +137026,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10963553",
    "area": "XVI. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136815,7 +137036,8 @@
    ],
    "relisted": [
     "2026-11-01",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10963512": {
@@ -136862,8 +137084,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10963457",
    "area": "XVI. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136872,7 +137094,8 @@
    ],
    "relisted": [
     "2026-10-27",
-    "2026-10-29"
+    "2026-10-29",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962947": {
@@ -136886,8 +137109,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962947",
    "area": "XVI. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136896,7 +137119,8 @@
    ],
    "relisted": [
     "2026-11-01",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962894": {
@@ -136910,8 +137134,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962894",
    "area": "XVI. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136929,7 +137153,8 @@
    "relisted": [
     "2026-10-19",
     "2026-10-27",
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962885": {
@@ -136943,8 +137168,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962885",
    "area": "XVI. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -136953,7 +137178,8 @@
    ],
    "relisted": [
     "2026-10-27",
-    "2026-10-29"
+    "2026-10-29",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962766": {
@@ -137431,8 +137657,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10962919",
    "area": "II. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -137441,7 +137667,8 @@
    ],
    "relisted": [
     "2026-10-28",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10962683": {
@@ -137740,8 +137967,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10820072",
    "area": "II. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -137760,7 +137987,8 @@
     "2026-10-23",
     "2026-10-29",
     "2026-11-11",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10713729": {
@@ -139143,8 +139371,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10963301",
    "area": "XX. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-08",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -139160,7 +139388,8 @@
     "fetched": "2026-10-12"
    },
    "relisted": [
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10962448": {
@@ -139805,8 +140034,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10954519",
    "area": "XX. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -139820,7 +140049,8 @@
    "relisted": [
     "2026-10-23",
     "2026-10-29",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10952093": {
@@ -139865,8 +140095,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10949474",
    "area": "XX. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -139885,7 +140115,8 @@
     "2026-10-23",
     "2026-10-28",
     "2026-11-05",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10947876": {
@@ -140102,8 +140333,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10902860",
    "area": "XX. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -140119,7 +140350,8 @@
     "fetched": "2026-10-12"
    },
    "relisted": [
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10899818": {
@@ -140220,8 +140452,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10868557",
    "area": "XX. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -140229,7 +140461,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858081": {
@@ -140296,8 +140529,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10852668",
    "area": "XX. kerület",
    "first_seen": "2026-10-12",
-   "last_seen": "2026-11-06",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-12",
@@ -140318,7 +140551,8 @@
    },
    "relisted": [
     "2026-10-23",
-    "2026-10-28"
+    "2026-10-28",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10852659": {
@@ -141564,8 +141798,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10962023",
    "area": "Veresegyház",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -141574,7 +141808,8 @@
    ],
    "relisted": [
     "2026-10-29",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10961969": {
@@ -143275,8 +143510,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10959814",
    "area": "XVI. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -143288,7 +143523,8 @@
     "2026-10-28",
     "2026-11-05",
     "2026-11-09",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10946405": {
@@ -143302,8 +143538,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10946405",
    "area": "XVI. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-06",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -143315,7 +143551,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10968325": {
@@ -143529,8 +143766,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10966486",
    "area": "II. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -143548,7 +143785,8 @@
    "relisted": [
     "2026-10-23",
     "2026-11-01",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10966485": {
@@ -143608,8 +143846,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10965505",
    "area": "II. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -143627,7 +143865,8 @@
    "relisted": [
     "2026-10-23",
     "2026-11-01",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10965482": {
@@ -144197,8 +144436,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10964908",
    "area": "III. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -144217,7 +144456,8 @@
     "2026-10-25",
     "2026-11-05",
     "2026-11-09",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10964265": {
@@ -144511,8 +144751,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10894282",
    "area": "XXI. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -144521,7 +144761,8 @@
    ],
    "relisted": [
     "2026-10-28",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xi-kerulet/h10965422": {
@@ -145260,8 +145501,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10922250",
    "area": "XIX. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -145271,7 +145512,8 @@
    "relisted": [
     "2026-10-27",
     "2026-11-01",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10920874": {
@@ -145285,8 +145527,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10920874",
    "area": "XIX. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -145304,7 +145546,8 @@
    "relisted": [
     "2026-10-23",
     "2026-10-28",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10889995": {
@@ -145935,8 +146178,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10926201",
    "area": "XX. kerület",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-15",
@@ -145954,7 +146197,8 @@
    "relisted": [
     "2026-10-23",
     "2026-11-02",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10925464": {
@@ -146371,8 +146615,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-god/h10970100",
    "area": "Göd",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -146383,7 +146627,8 @@
     "2026-10-25",
     "2026-10-28",
     "2026-11-02",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10966493": {
@@ -146591,8 +146836,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10970099",
    "area": "Veresegyház",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -146600,7 +146845,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10964932": {
@@ -147372,8 +147618,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10971916",
    "area": "XVI. kerület",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -147382,7 +147628,8 @@
    ],
    "relisted": [
     "2026-11-09",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10971914": {
@@ -147396,8 +147643,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10971914",
    "area": "XVI. kerület",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -147409,7 +147656,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-01"
+    "2026-11-01",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10971805": {
@@ -148694,8 +148942,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10955660",
    "area": "IV. kerület",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-04",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -148704,7 +148952,8 @@
    ],
    "relisted": [
     "2026-10-29",
-    "2026-11-02"
+    "2026-11-02",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10870129": {
@@ -148831,8 +149080,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10900680",
    "area": "XIX. kerület",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -148844,7 +149093,8 @@
     "2026-10-29",
     "2026-11-05",
     "2026-11-11",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10972022": {
@@ -149199,8 +149449,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10927566",
    "area": "XX. kerület",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -149218,7 +149468,8 @@
    "relisted": [
     "2026-10-27",
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10924421": {
@@ -149232,8 +149483,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10924421",
    "area": "XX. kerület",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -149244,7 +149495,8 @@
     "2026-10-28",
     "2026-11-02",
     "2026-11-07",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10909114": {
@@ -149258,8 +149510,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10909114",
    "area": "XX. kerület",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-19",
@@ -149281,7 +149533,8 @@
    "relisted": [
     "2026-10-25",
     "2026-11-01",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10787848": {
@@ -149427,8 +149680,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10970747",
    "area": "Veresegyház",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -149439,7 +149692,8 @@
     "2026-10-27",
     "2026-11-01",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10970102": {
@@ -149453,8 +149707,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10970102",
    "area": "Veresegyház",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -149465,7 +149719,8 @@
     "2026-10-27",
     "2026-11-01",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-veresegyhaz/h10962545": {
@@ -149620,8 +149875,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-pomaz/h10965526",
    "area": "Pomáz",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -149630,7 +149885,8 @@
    ],
    "relisted": [
     "2026-10-29",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10977283": {
@@ -151414,8 +151670,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10963932",
    "area": "XVI. kerület",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -151426,7 +151682,8 @@
     "2026-10-27",
     "2026-11-02",
     "2026-11-07",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10963930": {
@@ -151440,8 +151697,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10963930",
    "area": "XVI. kerület",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -151450,7 +151707,8 @@
    ],
    "relisted": [
     "2026-10-28",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962698": {
@@ -151464,8 +151722,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962698",
    "area": "XVI. kerület",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -151475,7 +151733,8 @@
    "relisted": [
     "2026-10-28",
     "2026-11-07",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962612": {
@@ -151564,8 +151823,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962003",
    "area": "XVI. kerület",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -151575,7 +151834,8 @@
    "relisted": [
     "2026-10-28",
     "2026-11-07",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10961982": {
@@ -152876,8 +153136,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10891781",
    "area": "XIX. kerület",
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-23",
@@ -152896,7 +153156,8 @@
     "2026-10-27",
     "2026-11-01",
     "2026-11-05",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10976325": {
@@ -153264,8 +153525,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10962562",
    "area": "XVI. kerület",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-25",
@@ -153275,7 +153536,8 @@
    "relisted": [
     "2026-11-01",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10961946": {
@@ -153289,8 +153551,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10961946",
    "area": "XVI. kerület",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-12",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-25",
@@ -153299,7 +153561,8 @@
    ],
    "relisted": [
     "2026-11-01",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10978231": {
@@ -153439,7 +153702,7 @@
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10971262": {
-   "price": 78.9,
+   "price": 74.9,
    "rooms": "3",
    "m2": 55,
    "telek": 367,
@@ -153449,12 +153712,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10971262",
    "area": "XIX. kerület",
    "first_seen": "2026-10-25",
-   "last_seen": "2026-10-26",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-25",
      78.9
+    ],
+    [
+     "2026-11-23",
+     74.9
     ]
    ],
    "detail": {
@@ -153464,7 +153731,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-25"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10978055": {
    "price": 129.9,
@@ -153726,8 +153996,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h10963928",
    "area": "Szentendre",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-27",
@@ -153736,7 +154006,8 @@
    ],
    "relisted": [
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-fot/h10978562": {
@@ -153812,8 +154083,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-fot/h10962074",
    "area": "Fót",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-27",
@@ -153835,7 +154106,8 @@
    "relisted": [
     "2026-10-29",
     "2026-11-02",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-csomor/h10978579": {
@@ -154154,8 +154426,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10964632",
    "area": "IV. kerület",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-27",
@@ -154171,7 +154443,8 @@
     "fetched": "2026-10-27"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10978594": {
@@ -154329,8 +154602,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10891777",
    "area": "XIX. kerület",
    "first_seen": "2026-10-27",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-27",
@@ -154347,7 +154620,8 @@
    },
    "relisted": [
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10979203": {
@@ -156672,8 +156946,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10979742",
    "area": "XX. kerület",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-28",
@@ -156690,7 +156964,8 @@
    },
    "relisted": [
     "2026-11-07",
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10956004": {
@@ -156704,8 +156979,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10956004",
    "area": "XX. kerület",
    "first_seen": "2026-10-28",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-28",
@@ -156726,7 +157001,8 @@
    },
    "relisted": [
     "2026-11-01",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10983311": {
@@ -157428,8 +157704,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10979984",
    "area": "II. kerület",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-29",
@@ -157438,7 +157714,8 @@
    ],
    "relisted": [
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10979611": {
@@ -157452,8 +157729,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10979611",
    "area": "II. kerület",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-29",
@@ -157462,7 +157739,8 @@
    ],
    "relisted": [
     "2026-11-05",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xii-kerulet/h10983335": {
@@ -157588,8 +157866,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10831369",
    "area": "XXI. kerület",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-08",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-29",
@@ -157606,7 +157884,8 @@
    },
    "relisted": [
     "2026-11-02",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10982923": {
@@ -157640,8 +157919,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10972311",
    "area": "IV. kerület",
    "first_seen": "2026-10-29",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-10-29",
@@ -157659,7 +157938,8 @@
    "relisted": [
     "2026-11-02",
     "2026-11-07",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10983226": {
@@ -158208,8 +158488,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10985538",
    "area": "XIV. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
@@ -158217,7 +158497,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10985005": {
@@ -158470,13 +158751,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10983758",
    "area": "XV. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
      179.9
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10984494": {
@@ -158768,8 +159052,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10983789",
    "area": "XV. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
@@ -158777,7 +159061,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10983772": {
@@ -159217,13 +159502,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10984478",
    "area": "XVI. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
      255.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10984476": {
@@ -159257,13 +159545,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10984459",
    "area": "XVI. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
      298.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10984457": {
@@ -159433,8 +159724,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983784",
    "area": "XVI. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
@@ -159450,7 +159741,8 @@
     "fetched": "2026-11-01"
    },
    "relisted": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983773": {
@@ -159464,13 +159756,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983773",
    "area": "XVI. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
      298.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983770": {
@@ -159553,13 +159848,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983760",
    "area": "XVI. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
      255.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983759": {
@@ -159897,8 +160195,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10984955",
    "area": "III. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
@@ -159906,7 +160204,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10984525": {
@@ -160559,8 +160858,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10984269",
    "area": "XX. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
@@ -160574,7 +160873,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-11-01"
-   }
+   },
+   "relisted": [
+    "2026-11-23"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10984262": {
    "price": 80.0,
@@ -160587,8 +160889,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10984262",
    "area": "XX. kerület",
    "first_seen": "2026-11-01",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-01",
@@ -160604,7 +160906,8 @@
     "fetched": "2026-11-01"
    },
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10980192": {
@@ -160777,8 +161080,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xiv-kerulet/h10983785",
    "area": "XIV. kerület",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-02",
@@ -160786,7 +161089,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10986909": {
@@ -160919,8 +161223,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10986627",
    "area": "XVI. kerület",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-02",
@@ -160936,7 +161240,8 @@
     "fetched": "2026-11-02"
    },
    "relisted": [
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10985571": {
@@ -160978,8 +161283,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10984966",
    "area": "XVI. kerület",
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-02",
@@ -160992,7 +161297,8 @@
    ],
    "relisted": [
     "2026-11-07",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10797868": {
@@ -161770,8 +162076,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10989112",
    "area": "XV. kerület",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-05",
@@ -161779,7 +162085,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10989092": {
@@ -162412,8 +162719,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983776",
    "area": "XVI. kerület",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-05",
@@ -162421,7 +162728,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10988781": {
@@ -162435,13 +162743,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10988781",
    "area": "II. kerület",
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-05",
      360.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10988358": {
@@ -164897,8 +165208,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10991304",
    "area": "XVI. kerület",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-07",
@@ -164910,7 +165221,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10991292": {
@@ -165059,8 +165371,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10984483",
    "area": "XVI. kerület",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-07",
@@ -165068,7 +165380,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10984470": {
@@ -165105,8 +165418,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983790",
    "area": "XVI. kerület",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-07",
@@ -165114,7 +165427,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983763": {
@@ -165128,8 +165442,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10983763",
    "area": "XVI. kerület",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-07",
@@ -165137,7 +165451,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10992076": {
@@ -165826,13 +166141,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10991400",
    "area": "XIX. kerület",
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-07",
      136.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10991398": {
@@ -166541,13 +166859,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10995200",
    "area": "XVI. kerület",
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-10",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-09",
      210.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10995198": {
@@ -168226,8 +168547,8 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10997425",
    "area": "XVI. kerület",
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-11",
@@ -168235,7 +168556,8 @@
     ]
    ],
    "relisted": [
-    "2026-11-16"
+    "2026-11-16",
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10997420": {
@@ -169735,13 +170057,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10998724",
    "area": "XVI. kerület",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-15",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-13",
      124.9
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10998707": {
@@ -170646,13 +170971,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-csomor/h11002567",
    "area": "Csömör",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-16",
      175.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-csomor/h11000717": {
@@ -171086,13 +171414,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h11003036",
    "area": "XVI. kerület",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-16",
      229.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h11002854": {
@@ -171518,13 +171849,16 @@
    "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h11003029",
    "area": "IV. kerület",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-17",
-   "active": false,
+   "last_seen": "2026-11-23",
+   "active": true,
    "price_history": [
     [
      "2026-11-16",
      175.0
     ]
+   ],
+   "relisted": [
+    "2026-11-23"
    ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h11002070": {
@@ -173394,89 +173728,145 @@
      149.0
     ]
    ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h11001626": {
+   "price": 128.0,
+   "rooms": "3",
+   "m2": 75,
+   "telek": 705,
+   "year": 1980,
+   "note": "Budapest XV. kerületének kertvárosias részén kínálunk megvételre egy 75 m²-es, az elmúlt",
+   "id": "h11001626",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h11001626",
+   "area": "XV. kerület",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "active": true,
+   "price_history": [
+    [
+     "2026-11-23",
+     128.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10658013": {
+   "price": 409.9,
+   "rooms": "9",
+   "m2": 298,
+   "telek": 800,
+   "year": null,
+   "note": "Exkluzív luxus otthon panorámával a II. kerületben! Kivételes otthon zöldövezetben!",
+   "id": "h10658013",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-ii-kerulet/h10658013",
+   "area": "II. kerület",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "active": true,
+   "price_history": [
+    [
+     "2026-11-23",
+     409.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h11004067": {
+   "price": 165.0,
+   "rooms": "4",
+   "m2": 100,
+   "telek": 165,
+   "year": 1950,
+   "note": "Csillaghegy kedvelt részén eladó házrész, ami egy kitűnő állapotú és elrendezésű, 100",
+   "id": "h11004067",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h11004067",
+   "area": "III. kerület",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "active": true,
+   "price_history": [
+    [
+     "2026-11-23",
+     165.0
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h11004040": {
+   "price": 189.9,
+   "rooms": "3",
+   "m2": 116,
+   "telek": 1073,
+   "year": 1990,
+   "note": "Cserélhető, akár ráfizetéssel is, nagyobbra. Budapest 3. kerület, Római parton , a",
+   "id": "h11004040",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h11004040",
+   "area": "III. kerület",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "active": true,
+   "price_history": [
+    [
+     "2026-11-23",
+     189.9
+    ]
+   ]
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h11000306": {
+   "price": 59.9,
+   "rooms": "1",
+   "m2": 44,
+   "telek": 184,
+   "year": 1980,
+   "note": "Saját kertre vágyik a III. kerületben?Csillaghegy egyik csendes mellékutcájában eladó egy 44",
+   "id": "h11000306",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h11000306",
+   "area": "III. kerület",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "active": true,
+   "price_history": [
+    [
+     "2026-11-23",
+     59.9
+    ]
+   ],
+   "detail": {
+    "condition": null,
+    "m2": 44,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-11-23"
+   }
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h11002667": {
+   "price": 69.0,
+   "rooms": "2",
+   "m2": 60,
+   "telek": 150,
+   "year": 1970,
+   "note": "Egy kis saját otthon Csepelen, kerttel és fedett terasszal 60 m² a Medve utcában Vannak",
+   "id": "h11002667",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h11002667",
+   "area": "XXI. kerület",
+   "first_seen": "2026-11-23",
+   "last_seen": "2026-11-23",
+   "active": true,
+   "price_history": [
+    [
+     "2026-11-23",
+     69.0
+    ]
+   ],
+   "detail": {
+    "condition": "Felújított",
+    "m2": 60,
+    "telek": null,
+    "zartkert": false,
+    "v": 2,
+    "fetched": "2026-11-23"
+   }
   }
  },
  "runs": [
-  {
-   "date": "2026-10-03",
-   "report": {
-    "Göd": {
-     "pages": 8,
-     "failed": [],
-     "cards": 152
-    },
-    "Veresegyház": {
-     "pages": 9,
-     "failed": [],
-     "cards": 180
-    },
-    "Pomáz": {
-     "pages": 6,
-     "failed": [],
-     "cards": 109
-    },
-    "Szentendre": {
-     "pages": 15,
-     "failed": [],
-     "cards": 283
-    },
-    "Fót": {
-     "pages": 10,
-     "failed": [],
-     "cards": 190
-    },
-    "Csömör": {
-     "pages": 5,
-     "failed": [],
-     "cards": 99
-    },
-    "XIV. kerület": {
-     "pages": 6,
-     "failed": [],
-     "cards": 115
-    },
-    "XV. kerület": {
-     "pages": 14,
-     "failed": [],
-     "cards": 273
-    },
-    "XVI. kerület": {
-     "pages": 26,
-     "failed": [],
-     "cards": 511
-    },
-    "II. kerület": {
-     "pages": 18,
-     "failed": [],
-     "cards": 356
-    },
-    "XII. kerület": {
-     "pages": 5,
-     "failed": [],
-     "cards": 97
-    },
-    "III. kerület": {
-     "pages": 16,
-     "failed": [],
-     "cards": 304
-    },
-    "X. kerület": {
-     "pages": 5,
-     "failed": [],
-     "cards": 93
-    },
-    "XXI. kerület": {
-     "pages": 14,
-     "failed": [],
-     "cards": 273
-    },
-    "XI. kerület": {
-     "pages": 6,
-     "failed": [],
-     "cards": 115
-    }
-   }
-  },
   {
    "date": "2026-10-03",
    "report": {
@@ -178954,6 +179344,101 @@
      "pages": 25,
      "failed": [],
      "cards": 487
+    }
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "report": {
+    "Göd": {
+     "pages": 8,
+     "failed": [],
+     "cards": 146
+    },
+    "Veresegyház": {
+     "pages": 10,
+     "failed": [],
+     "cards": 199
+    },
+    "Pomáz": {
+     "pages": 5,
+     "failed": [],
+     "cards": 94
+    },
+    "Szentendre": {
+     "pages": 17,
+     "failed": [],
+     "cards": 331
+    },
+    "Fót": {
+     "pages": 12,
+     "failed": [],
+     "cards": 221
+    },
+    "Csömör": {
+     "pages": 7,
+     "failed": [],
+     "cards": 132
+    },
+    "XIV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 128
+    },
+    "XV. kerület": {
+     "pages": 16,
+     "failed": [],
+     "cards": 317
+    },
+    "XVI. kerület": {
+     "pages": 34,
+     "failed": [],
+     "cards": 678
+    },
+    "II. kerület": {
+     "pages": 23,
+     "failed": [],
+     "cards": 445
+    },
+    "XII. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 102
+    },
+    "III. kerület": {
+     "pages": 17,
+     "failed": [],
+     "cards": 329
+    },
+    "X. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 100
+    },
+    "XXI. kerület": {
+     "pages": 13,
+     "failed": [],
+     "cards": 249
+    },
+    "XI. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 133
+    },
+    "IV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 126
+    },
+    "XIX. kerület": {
+     "pages": 12,
+     "failed": [],
+     "cards": 235
+    },
+    "XX. kerület": {
+     "pages": 27,
+     "failed": [],
+     "cards": 535
     }
    }
   }
