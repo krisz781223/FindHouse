@@ -464,8 +464,8 @@
    "year": 2000,
    "note": "FELÚJÍTOTT ÖNÁLLÓ CSALÁDI HÁZ FELSŐGÖDÖN NYUGALOM, MINŐSÉG ÉS KIVÁLÓ ELHELYEZKEDÉS",
    "first_seen": "2026-09-26",
-   "last_seen": "2026-10-22",
-   "active": false,
+   "last_seen": "2026-11-25",
+   "active": true,
    "price_history": [
     [
      "2026-09-26",
@@ -484,7 +484,10 @@
     "zartkert": false,
     "v": 2,
     "fetched": "2026-10-15"
-   }
+   },
+   "relisted": [
+    "2026-11-25"
+   ]
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10857501": {
    "id": "h10857501",
@@ -173958,89 +173961,29 @@
     "v": 2,
     "fetched": "2026-11-24"
    }
+  },
+  "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h11003917": {
+   "price": 200.0,
+   "rooms": "5",
+   "m2": 148,
+   "telek": 4341,
+   "year": 1915,
+   "note": "TÖBB MINT OTTHON SAJÁT VILÁG A TERMÉSZET KÖZELÉBEN, SZENTENDRÉN148 m²-es főépület 58",
+   "id": "h11003917",
+   "url": "https://koltozzbe.hu/elado-csaladi_haz-szentendre/h11003917",
+   "area": "Szentendre",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "active": true,
+   "price_history": [
+    [
+     "2026-11-25",
+     200.0
+    ]
+   ]
   }
  },
  "runs": [
-  {
-   "date": "2026-10-06",
-   "report": {
-    "Göd": {
-     "pages": 8,
-     "failed": [],
-     "cards": 143
-    },
-    "Veresegyház": {
-     "pages": 10,
-     "failed": [],
-     "cards": 190
-    },
-    "Pomáz": {
-     "pages": 5,
-     "failed": [],
-     "cards": 98
-    },
-    "Szentendre": {
-     "pages": 15,
-     "failed": [],
-     "cards": 283
-    },
-    "Fót": {
-     "pages": 10,
-     "failed": [],
-     "cards": 193
-    },
-    "Csömör": {
-     "pages": 6,
-     "failed": [],
-     "cards": 101
-    },
-    "XIV. kerület": {
-     "pages": 6,
-     "failed": [],
-     "cards": 110
-    },
-    "XV. kerület": {
-     "pages": 14,
-     "failed": [],
-     "cards": 277
-    },
-    "XVI. kerület": {
-     "pages": 26,
-     "failed": [],
-     "cards": 503
-    },
-    "II. kerület": {
-     "pages": 18,
-     "failed": [],
-     "cards": 350
-    },
-    "XII. kerület": {
-     "pages": 5,
-     "failed": [],
-     "cards": 95
-    },
-    "III. kerület": {
-     "pages": 15,
-     "failed": [],
-     "cards": 296
-    },
-    "X. kerület": {
-     "pages": 5,
-     "failed": [],
-     "cards": 100
-    },
-    "XXI. kerület": {
-     "pages": 15,
-     "failed": [],
-     "cards": 282
-    },
-    "XI. kerület": {
-     "pages": 6,
-     "failed": [],
-     "cards": 120
-    }
-   }
-  },
   {
    "date": "2026-10-07",
    "report": {
@@ -179493,6 +179436,101 @@
      "pages": 8,
      "failed": [],
      "cards": 146
+    },
+    "Veresegyház": {
+     "pages": 10,
+     "failed": [],
+     "cards": 199
+    },
+    "Pomáz": {
+     "pages": 5,
+     "failed": [],
+     "cards": 94
+    },
+    "Szentendre": {
+     "pages": 17,
+     "failed": [],
+     "cards": 333
+    },
+    "Fót": {
+     "pages": 12,
+     "failed": [],
+     "cards": 222
+    },
+    "Csömör": {
+     "pages": 7,
+     "failed": [],
+     "cards": 134
+    },
+    "XIV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 128
+    },
+    "XV. kerület": {
+     "pages": 16,
+     "failed": [],
+     "cards": 320
+    },
+    "XVI. kerület": {
+     "pages": 35,
+     "failed": [],
+     "cards": 686
+    },
+    "II. kerület": {
+     "pages": 23,
+     "failed": [],
+     "cards": 448
+    },
+    "XII. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 103
+    },
+    "III. kerület": {
+     "pages": 17,
+     "failed": [],
+     "cards": 331
+    },
+    "X. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 100
+    },
+    "XXI. kerület": {
+     "pages": 13,
+     "failed": [],
+     "cards": 251
+    },
+    "XI. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 133
+    },
+    "IV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 128
+    },
+    "XIX. kerület": {
+     "pages": 12,
+     "failed": [],
+     "cards": 237
+    },
+    "XX. kerület": {
+     "pages": 27,
+     "failed": [],
+     "cards": 538
+    }
+   }
+  },
+  {
+   "date": "2026-11-25",
+   "report": {
+    "Göd": {
+     "pages": 8,
+     "failed": [],
+     "cards": 147
     },
     "Veresegyház": {
      "pages": 10,
