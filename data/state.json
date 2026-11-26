@@ -6670,7 +6670,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-csomor/h10709449": {
@@ -7059,7 +7059,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10670605": {
@@ -7437,7 +7437,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10863598": {
@@ -7884,7 +7884,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10929017": {
@@ -7946,7 +7946,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-10-15",
@@ -8165,7 +8165,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10866696": {
@@ -8402,7 +8402,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10845620": {
@@ -8568,7 +8568,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xvi-kerulet/h10687535": {
@@ -9185,7 +9185,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10870489": {
@@ -9235,7 +9235,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xv-kerulet/h10768728": {
@@ -11047,7 +11047,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iii-kerulet/h10689183": {
@@ -14629,7 +14629,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-23"
@@ -14743,7 +14743,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-13",
@@ -14777,12 +14777,12 @@
     "2026-11-18"
    ],
    "detail": {
-    "condition": null,
-    "m2": null,
+    "condition": "Átlagos",
+    "m2": 115,
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10847503": {
@@ -14873,7 +14873,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10786031": {
@@ -15102,7 +15102,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-18"
@@ -15159,7 +15159,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h10658825": {
@@ -15188,7 +15188,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-16"
@@ -15328,7 +15328,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xxi-kerulet/h9390396": {
@@ -15357,7 +15357,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-god/h10874652": {
@@ -84668,7 +84668,8 @@
     "m2": 64,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10433527": {
@@ -84696,7 +84697,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10433525": {
@@ -84724,7 +84725,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10433524": {
@@ -84751,7 +84752,8 @@
     "m2": 48,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10956196": {
@@ -84782,7 +84784,8 @@
     "m2": 91,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10953074": {
@@ -84854,7 +84857,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10947953": {
@@ -84886,7 +84889,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10941868": {
@@ -84914,7 +84917,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10938782": {
@@ -84981,7 +84984,8 @@
     "m2": 25,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10932967": {
@@ -85029,7 +85033,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10931402": {
@@ -85104,7 +85108,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10930378": {
@@ -85172,7 +85176,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10924599": {
@@ -85200,7 +85204,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10923033": {
@@ -85247,7 +85251,8 @@
     "m2": 62,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10918661": {
@@ -85315,7 +85320,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10910137": {
@@ -85342,7 +85347,8 @@
     "m2": 62,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10910136": {
@@ -85558,7 +85564,8 @@
     "m2": 28,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10875477": {
@@ -85586,7 +85593,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-11",
@@ -85672,7 +85679,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10853514": {
@@ -85704,7 +85711,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10848217": {
@@ -85765,7 +85772,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10841752": {
@@ -85792,7 +85799,8 @@
     "m2": 33,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10840966": {
@@ -85972,7 +85980,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10795010": {
@@ -86084,7 +86092,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-16"
@@ -86462,7 +86470,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10676290": {
@@ -86561,7 +86569,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10606453": {
@@ -86609,7 +86617,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10589535": {
@@ -86657,7 +86665,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10516962": {
@@ -86685,7 +86693,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10482471": {
@@ -86713,7 +86721,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10445553": {
@@ -86761,7 +86769,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-iv-kerulet/h10183137": {
@@ -115605,11 +115613,11 @@
    ],
    "detail": {
     "condition": null,
-    "m2": 63,
+    "m2": null,
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10940319": {
@@ -115656,7 +115664,8 @@
     "m2": 63,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10915883": {
@@ -115876,7 +115885,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10958508": {
@@ -115899,11 +115908,12 @@
     ]
    ],
    "detail": {
-    "condition": "Felújítandó",
-    "m2": 34,
+    "condition": null,
+    "m2": null,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-10-15",
@@ -116038,7 +116048,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10950394": {
@@ -116229,7 +116239,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10941091": {
@@ -116276,7 +116286,8 @@
     "m2": 63,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10940193": {
@@ -116324,7 +116335,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-18"
@@ -116354,7 +116365,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-16",
@@ -116406,7 +116418,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10931473": {
@@ -116433,7 +116445,8 @@
     "m2": 51,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-18"
@@ -116464,7 +116477,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-10-23",
@@ -116590,7 +116603,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10920946": {
@@ -116618,7 +116631,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10920630": {
@@ -116646,7 +116659,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10918538": {
@@ -116693,7 +116706,8 @@
     "m2": 34,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10916719": {
@@ -116871,7 +116885,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10910101": {
@@ -116898,7 +116913,8 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10909966": {
@@ -116926,7 +116942,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10909346": {
@@ -117024,11 +117040,12 @@
     ]
    ],
    "detail": {
-    "condition": "Felújítandó",
-    "m2": 90,
+    "condition": null,
+    "m2": null,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-13",
@@ -117107,7 +117124,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10903718": {
@@ -117427,7 +117444,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10890025": {
@@ -117894,7 +117911,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10863978": {
@@ -117974,7 +117991,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10859361": {
@@ -118155,7 +118173,8 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-10-15",
@@ -118362,7 +118381,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-11"
@@ -118717,7 +118737,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10796460": {
@@ -118765,7 +118785,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10793478": {
@@ -118911,7 +118931,8 @@
     "m2": 200,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10788048": {
@@ -119328,7 +119349,8 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10746660": {
@@ -119642,7 +119664,8 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10725228": {
@@ -119669,7 +119692,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10721638": {
@@ -120101,7 +120125,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-11"
@@ -120160,7 +120185,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10542027": {
@@ -120231,7 +120256,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10534494": {
@@ -120258,7 +120284,8 @@
     "m2": 150,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10517427": {
@@ -120362,7 +120389,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10475770": {
@@ -120389,7 +120416,8 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10442296": {
@@ -120456,7 +120484,8 @@
     "m2": 90,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10286861": {
@@ -120511,7 +120540,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xix-kerulet/h10248594": {
@@ -120703,7 +120732,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10387414": {
@@ -120731,7 +120760,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10873103": {
@@ -120759,7 +120788,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10858223": {
@@ -120787,7 +120816,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10648123": {
@@ -120814,7 +120843,8 @@
     "m2": 46,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-02"
@@ -120929,7 +120959,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10902082": {
@@ -120957,7 +120987,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-10-25"
@@ -120987,7 +121017,8 @@
     "m2": 79,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10814007": {
@@ -121014,7 +121045,8 @@
     "m2": 49,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10729451": {
@@ -121042,7 +121074,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10789991": {
@@ -121122,7 +121154,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10663208": {
@@ -121149,7 +121181,8 @@
     "m2": 46,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10894831": {
@@ -121177,7 +121210,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10784769": {
@@ -121291,7 +121324,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10425185": {
@@ -121370,7 +121403,8 @@
     "m2": 129,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10549293": {
@@ -121398,7 +121432,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10431025": {
@@ -121473,7 +121507,8 @@
     "m2": 135,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10331524": {
@@ -121584,7 +121619,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10918863": {
@@ -121678,7 +121713,8 @@
     "m2": 49,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10902747": {
@@ -121726,7 +121762,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10534155": {
@@ -122050,7 +122086,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10951498": {
@@ -122146,11 +122182,11 @@
    ],
    "detail": {
     "condition": null,
-    "m2": 35,
+    "m2": null,
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-23"
@@ -122205,7 +122241,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-23"
@@ -122239,7 +122275,8 @@
     "m2": 129,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-13",
@@ -122270,11 +122307,12 @@
     ]
    ],
    "detail": {
-    "condition": "Felújított",
-    "m2": 120,
+    "condition": null,
+    "m2": null,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-23"
@@ -122359,11 +122397,11 @@
    ],
    "detail": {
     "condition": null,
-    "m2": 53,
+    "m2": null,
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-23"
@@ -122394,7 +122432,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10950347": {
@@ -122473,12 +122511,12 @@
     ]
    ],
    "detail": {
-    "condition": "Átlagos",
+    "condition": null,
     "m2": 113,
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10947866": {
@@ -122563,7 +122601,8 @@
     "m2": 30,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10945789": {
@@ -122619,7 +122658,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10944656": {
@@ -122670,7 +122709,8 @@
     "m2": 30,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10944626": {
@@ -122698,7 +122738,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-18"
@@ -122768,7 +122808,8 @@
     "m2": 49,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10941842": {
@@ -122796,7 +122837,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10941129": {
@@ -122887,7 +122928,8 @@
     "m2": 30,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940554": {
@@ -122915,7 +122957,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940526": {
@@ -122975,7 +123017,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940114": {
@@ -123025,7 +123067,8 @@
     "m2": 30,
     "telek": null,
     "zartkert": false,
-    "fetched": "2026-10-11"
+    "v": 2,
+    "fetched": "2026-11-26"
    }
   },
   "https://koltozzbe.hu/elado-csaladi_haz-budapest-xx-kerulet/h10940105": {
@@ -123104,7 +123147,7 @@
     "telek": null,
     "zartkert": false,
     "v": 2,
-    "fetched": "2026-10-11"
+    "fetched": "2026-11-26"
    },
    "relisted": [
     "2026-11-18"
@@ -174002,86 +174045,6 @@
  },
  "runs": [
   {
-   "date": "2026-10-08",
-   "report": {
-    "Göd": {
-     "pages": 8,
-     "failed": [],
-     "cards": 145
-    },
-    "Veresegyház": {
-     "pages": 10,
-     "failed": [],
-     "cards": 185
-    },
-    "Pomáz": {
-     "pages": 5,
-     "failed": [],
-     "cards": 99
-    },
-    "Szentendre": {
-     "pages": 15,
-     "failed": [],
-     "cards": 291
-    },
-    "Fót": {
-     "pages": 10,
-     "failed": [],
-     "cards": 193
-    },
-    "Csömör": {
-     "pages": 6,
-     "failed": [],
-     "cards": 104
-    },
-    "XIV. kerület": {
-     "pages": 6,
-     "failed": [],
-     "cards": 113
-    },
-    "XV. kerület": {
-     "pages": 14,
-     "failed": [],
-     "cards": 279
-    },
-    "XVI. kerület": {
-     "pages": 26,
-     "failed": [],
-     "cards": 506
-    },
-    "II. kerület": {
-     "pages": 20,
-     "failed": [],
-     "cards": 385
-    },
-    "XII. kerület": {
-     "pages": 5,
-     "failed": [],
-     "cards": 92
-    },
-    "III. kerület": {
-     "pages": 15,
-     "failed": [],
-     "cards": 291
-    },
-    "X. kerület": {
-     "pages": 5,
-     "failed": [],
-     "cards": 95
-    },
-    "XXI. kerület": {
-     "pages": 14,
-     "failed": [],
-     "cards": 275
-    },
-    "XI. kerület": {
-     "pages": 7,
-     "failed": [],
-     "cards": 123
-    }
-   }
-  },
-  {
    "date": "2026-10-09",
    "report": {
     "Göd": {
@@ -179463,6 +179426,101 @@
   },
   {
    "date": "2026-11-25",
+   "report": {
+    "Göd": {
+     "pages": 8,
+     "failed": [],
+     "cards": 147
+    },
+    "Veresegyház": {
+     "pages": 10,
+     "failed": [],
+     "cards": 199
+    },
+    "Pomáz": {
+     "pages": 5,
+     "failed": [],
+     "cards": 94
+    },
+    "Szentendre": {
+     "pages": 17,
+     "failed": [],
+     "cards": 333
+    },
+    "Fót": {
+     "pages": 12,
+     "failed": [],
+     "cards": 222
+    },
+    "Csömör": {
+     "pages": 7,
+     "failed": [],
+     "cards": 134
+    },
+    "XIV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 128
+    },
+    "XV. kerület": {
+     "pages": 16,
+     "failed": [],
+     "cards": 320
+    },
+    "XVI. kerület": {
+     "pages": 35,
+     "failed": [],
+     "cards": 686
+    },
+    "II. kerület": {
+     "pages": 23,
+     "failed": [],
+     "cards": 448
+    },
+    "XII. kerület": {
+     "pages": 6,
+     "failed": [],
+     "cards": 103
+    },
+    "III. kerület": {
+     "pages": 17,
+     "failed": [],
+     "cards": 331
+    },
+    "X. kerület": {
+     "pages": 5,
+     "failed": [],
+     "cards": 100
+    },
+    "XXI. kerület": {
+     "pages": 13,
+     "failed": [],
+     "cards": 251
+    },
+    "XI. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 133
+    },
+    "IV. kerület": {
+     "pages": 7,
+     "failed": [],
+     "cards": 128
+    },
+    "XIX. kerület": {
+     "pages": 12,
+     "failed": [],
+     "cards": 237
+    },
+    "XX. kerület": {
+     "pages": 27,
+     "failed": [],
+     "cards": 538
+    }
+   }
+  },
+  {
+   "date": "2026-11-26",
    "report": {
     "Göd": {
      "pages": 8,
